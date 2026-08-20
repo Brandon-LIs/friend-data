@@ -1,15 +1,213 @@
 {
-  "updated_at": "2026-08-15T02:03:30.189Z",
-  "count": 100,
+  "updated_at": "2026-08-20T15:56:50.911Z",
+  "count": 135,
   "list": [
+    {
+      "title": "来我博客听相声睡觉",
+      "link": "https://lzh1.cn/?post=51",
+      "date": "Thu, 20 Aug 2026 23:06:59 +0800",
+      "description": "今天突然发现应用商店里有个播客插件就是可以在单页文章内插入播客RSS源获取的音频，但是这个只能一个音频一个音频的插入然后每次播放只能单独点击一个音频这样播放。 本来想拿来做一个相声单页的但是很不方便然后就自己开发了一个播客插件基于网易云音乐的播客专辑在前台显示独立页面。 点击首页顶部的 图标就可以访问页面。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "【公告】本站26年7~8月更新日志",
+      "link": "https://blog.iamcrl.cn/?post=70",
+      "date": "Thu, 20 Aug 2026 20:01:56 +0800",
+      "description": "本更新日志记录了26年7月至8月20日的更新内容 2026.08.20 1.睿朗的碎碎念新增点赞功能； 2.新增 相册 功能，小窝、秘密基地站点均放置了其入口。 2026.08.18 1.本站接入腾讯云Edgeone，提升网站安全性与加载速度。但因域名未进行备案，CDN仅能使用境外节点。 2026.08.13 1.睿朗在干嘛升级，支持查看设备屏幕使用时间等详细历史数据。 [备注]本次更新内容所使用",
+      "site": "睿朗的小窝",
+      "siteUrl": "https://iamcrl.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
+      "title": "「浅谈」时代峰峻造星乱象：低龄逐利之下，追星早已失了底线",
+      "link": "https://wowtang.top/post/sdfj/",
+      "date": "Thu, 20 Aug 2026 15:51:38 +0800",
+      "description": "引言 养成系追星的初衷，本是温柔陪伴、见证少年成长、汲取正向力量。但回看如今时代峰峻的饭圈生态，只剩下无休止的疯狂、越界与戾气。低龄化造星、未成年暧昧化玩梗、线下暴力冲突、无脑跟风对立，种种乱象层层叠加。我们不得不质问：资本无底线收割少年，粉丝无边界放纵狂热，到底是谁毁掉了追星本该有的纯粹？ 一、极致低龄造星：到底还要把年龄压到多低？ 时代峰峻主打的养成系，早已从“少年逐梦”变成了“幼龄收割流量”",
+      "site": "Sunrise.博客",
+      "siteUrl": "https://wowtang.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
+    },
+    {
+      "title": "用 Linux 遇到的问题",
+      "link": "https://xfcnl.github.io/tech/2026-08-20-%E7%94%A8%20Linux%20%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/",
+      "date": "2026-08-20T00:00:00.000Z",
+      "description": "我用 Linux 当主力系统也有一段时间了，简述下遇到的问题 两个 waybar 我目前使",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+    },
+    {
+      "title": "一起来使用Niri吧！",
+      "link": "https://pinpe.top/posts/niri-wm/",
+      "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+      "description": "在今年暑假的某一天，我刷到了一个Niri配置分享，于是我头脑一热，如同当时迁移操作系统一样，我开始迁移桌面。",
+      "site": "Pinpe 的云端",
+      "siteUrl": "https://pinpe.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
+    },
+    {
+      "title": "重新启用登录评论并增加了认证功能",
+      "link": "https://lzh1.cn/?post=49",
+      "date": "Wed, 19 Aug 2026 21:03:23 +0800",
+      "description": "最近评论广告猖獗然后又看到小曦的园子的评论有认证图标就打算自己也做一个。 认证图标采用是应用商店里的徽章生成器插件，颁发认证图标是自己做的一个插件对接官方用户系统。 友联以后注册的用户会给这个认证。 注册用户评论以后会给这个认证。 评论五条的用户会给这个认证。 如果有赞助商会给这个认证。 注册用户我都会给认证，如果没给就是没看后台可以提醒我一下。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "游玩日记·第二期",
+      "link": "https://blog.weasel6.cn/posts/life-second/",
+      "date": "Wed, 19 Aug 2026 11:16:00 GMT",
+      "description": "记录近期日常：广州返程被导航坑到错过城际、游戏抽卡欧气爆棚、七夕与老婆吃烧烤",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
+      "title": "他们只想要一个正确答案",
+      "link": "https://denjuy.com/posts/dwxHm3tQ8wC/",
+      "date": "Wed, 19 Aug 2026 08:00:00 +0800",
+      "description": "我读书那会，家长总喜欢和我玩一个游戏：问我晚饭想吃什么菜。我思考一下，说出答案：番茄炒蛋。 但是晚饭并没有番茄炒蛋。 于是我不喜欢玩这个表演性民主游戏了。后面再问我就是：随便。 随后，他指责我说，你怎么没主见，想吃什么大胆说。 后来我中学升学，家长把我拉到桌子前，问我喜欢上哪个学校自己选，告诉我，我的人生我做主。 我早就知道预设答案是什么，仍选了自己喜欢的学校。 但他看到我做的选择后并不满意，脸色",
+      "site": "云白",
+      "siteUrl": "https://denjuy.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
+    },
+    {
+      "title": "域名更换：deepwhitex 换成 denjuy",
+      "link": "https://denjuy.com/posts/dwx4uR8Vopz/",
+      "date": "Wed, 19 Aug 2026 08:00:00 +0800",
+      "description": "deepwhite是我用了四年的微信名字，顺理成章的，它也成为我购买域名的第一选择。我曾经用过，deepwhite86.top/deepwhite.me 。 网站那会搭建的很随意，随着完整度的提高，也逐渐意识到，域名不能随意更换，就开始琢磨着一个能长久用的域名。 本来打算把deepwhite.me 作为长期域名使用， 但是续费高达136元让我望而却步。我对国别域名一般没信心，所以可能后续还会继续涨",
+      "site": "云白",
+      "siteUrl": "https://denjuy.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
+    },
+    {
+      "title": "遭到虚假宣传了",
+      "link": "https://lzh1.cn/?post=46",
+      "date": "Tue, 18 Aug 2026 12:13:34 +0800",
+      "description": "前几天刷快手看到卖苏打水的写着买一箱送一箱，结果到手是6瓶我气看订单发现默认选的是3瓶送3瓶，我问了元宝按照消保法来说一箱应该是12瓶或者24瓶，虽然一块多一瓶不贵但是太气人了。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "【原创】要开学了，怎么才能保住火花？",
+      "link": "https://blog.iamcrl.cn/?post=69",
+      "date": "Tue, 18 Aug 2026 00:48:29 +0800",
+      "description": "声明：本教程及脚本仅供技术交流与学习使用，因使用自动化工具导致的账号异常、火花中断等问题，作者概不承担任何法律与经济以及其他责任。 过程 距离开学只剩下12天了，除了对即将到来的高三生活的焦虑以外，最担心的就是抖音的火花该怎么办。我和我朋友抖音的火花时间最长的已经有六百多天了，最短的也有快五百天，这要是断了...之前我是让我堂姐登我的抖音号每天帮我续的，但因为她当时上学比较忙忘记续的情况也很常见（",
+      "site": "睿朗的小窝",
+      "siteUrl": "https://iamcrl.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
+      "title": "「说说」lcrworld 和 lcr99 喵～",
+      "link": "https://upxuu.com/talk/lcrworld-和-lcr99-喵/",
+      "date": "Mon, 17 Aug 2026 10:27:34 GMT",
+      "description": "嗯对，其实你们一直不知道 lcrworld 和 lcr 到底是啥关系🤔 其实是小学同学，今天 lcr 从🇨🇦回来也是直接让 lcrworld 接她把她送回家，也算是成功了...吧 99 也是第一次体验当狗头军师（删 !https://img.upxuu.lcrworld.xyz/images/2026/8/17/20260817183002122.jpg",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "论我是怎么活到这么大的",
+      "link": "https://upxuu.com/posts/mingda/",
+      "date": "Mon, 17 Aug 2026 06:50:23 GMT",
+      "description": "五六岁骑小绿车摔骨折打石膏、偷拧电动三轮车横穿马路、被妹妹拿痒痒挠砸、轮滑磕豁门牙、游泳馆更衣室滑倒后脑勺着地缝了几十针……一篇记录“命硬童年”的流水账，主打一个怎么折腾都还活着。",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "舞萌DX 落雪查分器使用指南",
+      "link": "https://xice.cx/posts/maiLxnsSync/",
+      "date": "2026-08-17T00:00:00.000Z",
+      "description": "最近落雪查分器确实更新了很多好用的功能，以及看到部分bot今后将把落雪作为主要支持数据源，故本文将会详细介绍落雪查分器的成绩导入到使用的完整指南 注册 落雪查分器官网为: maimai DX 查分器 进入官网注册账号即可 导入成绩 落雪代理上传 登录 落雪查分器官网 ，点击左上角菜单，选中 同步游戏数据 您可以手动在系统设置的WLAN设定中设置HTTP代理（非必要不推荐），这里主要演示使用代理工具",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
+    {
+      "title": "正式成为了共产党员",
+      "link": "https://lzh1.cn/?post=45",
+      "date": "Sun, 16 Aug 2026 18:38:04 +0800",
+      "description": "今天下午党会我认真的朗诵了转正申请书，在在场所有党员的投票中以29票正式通过成为了共产党员。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "浏览其他人的博客",
+      "link": "https://lzh1.cn/?post=44",
+      "date": "Sun, 16 Aug 2026 10:41:24 +0800",
+      "description": "最近一直在聚合平台以及友链页访问他人的博客。 我访问他人博客除了看名字介绍以外还会看一下头像图标，一些吸引我的头像和图标我会毫不犹豫的点进去。 我觉得头像都那么吸引人的话这个博客站长肯定是个很有趣的人。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "为什么upxuu 不发朋友圈",
+      "link": "https://upxuu.com/posts/pyq/",
+      "date": "Sun, 16 Aug 2026 01:03:45 GMT",
+      "description": "表达了 upxuu 对于无法自由发朋友圈的气愤",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "wdf，火车上有邪教！！！",
+      "link": "https://xfcnl.github.io/note/2026-08-16-wdf%EF%BC%8C%E7%81%AB%E8%BD%A6%E4%B8%8A%E6%9C%89%E9%82%AA%E6%95%99%EF%BC%81%EF%BC%81%EF%BC%81/",
+      "date": "2026-08-16T00:00:00.000Z",
+      "description": "这不去外婆家嘛，坐火车去 我还打印了一个开票单，虽然刷身份证就可以进站 但这不是重点，从我上车开始就有两个中年人在那聊天，我以为聊的是国家教育或是国际局面，但仔细一听，是什么能量场，什么高人之类的，这不是邪教吗 我还看到他的手机上有",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+    },
+    {
+      "title": "沃雅妮莎！",
+      "link": "https://blog.8765777.xyz/posts/post-20260816-sybika/",
+      "date": "Sun, 16 Aug 2026 00:00:00 GMT",
+      "description": "ovo",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://blogr2.8765777.xyz/assets/my/7590A261E0E39A642ABF4873E89EAFF9.jpg"
+    },
+    {
+      "title": "旧貌换新颜：近期博客的装修汇总",
+      "link": "https://blog.weasel6.cn/posts/blog-decoration/",
+      "date": "Sat, 15 Aug 2026 10:34:00 GMT",
+      "description": "重新给博客装修了一番，现在总体比较喜欢",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
       "link": "https://474029.xyz/posts/zhu-chi-ren-da-sai/",
-      "date": "Fri, 14 Aug 2026 16:24:00 GMT",
+      "date": "Fri, 14 Aug 2026 08:24:00 GMT",
       "description": "《主持人大赛（新闻主播季）》",
       "site": "逸树の小屋",
       "siteUrl": "https://474029.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120001.webp"
+    },
+    {
+      "title": "用 deepseekv4 写个轻量级评论系统",
+      "link": "https://denjuy.com/posts/dwxHwX1zYLQ/",
+      "date": "Fri, 14 Aug 2026 08:00:00 +0800",
+      "description": "一切的起点，其实就是买的opencode go 快要过期了，才用了 50%，出于不浪费的传统美德，一开始想做一个属于自己的云文档部署到服务器上，这样一来，买来备案的服务器也用上了。 但写到一半发现这不是一个好点子，中途的目标就换成了做一个完全属于自己自定义的简洁的评论系统。 我的需求是：高性能优先，轻量化优先、维护简单优先。尽可能的少依赖，尽量做到不靠外部依赖。没有Redis、消息队列、Vue/R",
+      "site": "云白",
+      "siteUrl": "https://denjuy.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813正式版上线了！真的变聪明了~",
+      "link": "https://upxuu.com/posts/deepseek-v4-pro-0813/",
+      "date": "Thu, 13 Aug 2026 08:02:48 GMT",
+      "description": "",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "如果世界是假的",
@@ -57,13 +255,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
     },
     {
-      "title": "你的vercel项目，还能更快",
-      "link": "https://upxuu.com/posts/vercel666/",
-      "date": "Wed, 12 Aug 2026 10:02:22 GMT",
-      "description": "通过更改vercel项目地区加快vercel项目的速度",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+      "title": "至冬",
+      "link": "https://blog.8765777.xyz/talks/talk_sszhfdnz2lp3/",
+      "date": "Wed, 12 Aug 2026 05:17:00 GMT",
+      "description": "至冬",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://blogr2.8765777.xyz/assets/my/7590A261E0E39A642ABF4873E89EAFF9.jpg"
     },
     {
       "title": "【原创】我的高二生活",
@@ -84,13 +282,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
-      "title": "跨越世纪的回响：纪念江泽民同志诞辰100周年",
-      "link": "https://474029.xyz/posts/jiang-ze-min-dan-chen-100-zhou-nian/",
-      "date": "Tue, 11 Aug 2026 22:50:00 GMT",
-      "description": "纪念江泽民同志诞辰100周年",
-      "site": "逸树の小屋",
-      "siteUrl": "https://474029.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120001.webp"
+      "title": "可以临摹万字的书法学习软件",
+      "link": "https://blog.8765777.xyz/posts/post-20260812-81yfte/",
+      "date": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "description": "绝对不是为了写小情书才做的！！！",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://blogr2.8765777.xyz/assets/my/7590A261E0E39A642ABF4873E89EAFF9.jpg"
     },
     {
       "title": "Twikoo 评论管理后台 魔改版 · 开源版1.0 重磅发布",
@@ -100,6 +298,15 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
+    },
+    {
+      "title": "跨越世纪的回响：纪念江泽民同志诞辰100周年",
+      "link": "https://474029.xyz/posts/jiang-ze-min-dan-chen-100-zhou-nian/",
+      "date": "Tue, 11 Aug 2026 14:50:00 GMT",
+      "description": "纪念江泽民同志诞辰100周年",
+      "site": "逸树の小屋",
+      "siteUrl": "https://474029.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120001.webp"
     },
     {
       "title": "来自BlogsClub的惊喜：“穿梭”与“拾光”主题鼠标垫开箱",
@@ -129,6 +336,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
+      "title": "现代人的刻舟求剑",
+      "link": "https://xice.cx/posts/thinking260811/",
+      "date": "2026-08-11T00:00:00.000Z",
+      "description": "现代人嘲笑古人刻舟求剑，却忘了现在无时无刻有人在刻舟求剑。 古人刻舟求剑，因为没有更好的认知工具。现代人刻舟求剑，是因为信息太多节奏太快，主动放弃了重新思考的成本 所以古人是无知，现代人是主动选择的无知 刻舟求剑的问题不是蠢，是拿静态的记号去追动态的现实 路径依赖是同一件事的另一个方向。刻舟求剑是跟着别人的旧记号找剑：别人走这条路成功了，我也走。大哥学这个专业赚钱了，二哥也被推着去学。路径依赖是被",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
+    {
+      "title": "原神马上要更新至冬冬辣",
+      "link": "https://blog.8765777.xyz/talks/talk_sszhfdnz2lp4/",
+      "date": "Mon, 10 Aug 2026 23:17:00 GMT",
+      "description": "原神马上要更新至冬冬辣",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://blogr2.8765777.xyz/assets/my/7590A261E0E39A642ABF4873E89EAFF9.jpg"
+    },
+    {
+      "title": "准备这几天写个RSS朋友圈页面",
+      "link": "https://blog.8765777.xyz/talks/talk_y4upwbg9hstl/",
+      "date": "Mon, 10 Aug 2026 15:47:00 GMT",
+      "description": "准备这几天写个RSS朋友圈页面",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://blogr2.8765777.xyz/assets/my/7590A261E0E39A642ABF4873E89EAFF9.jpg"
+    },
+    {
       "title": "【投稿?】那些事",
       "link": "https://blog.iamcrl.cn/?post=59",
       "date": "Mon, 10 Aug 2026 21:15:03 +0800",
@@ -136,6 +370,24 @@
       "site": "睿朗的小窝",
       "siteUrl": "https://iamcrl.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
+      "title": "舞萌DX错误码0010深度解析及处理方法",
+      "link": "https://xice.cx/posts/maiErr0010/",
+      "date": "2026-08-10T00:00:00.000Z",
+      "description": "本文深度讲解了舞萌DX发生0010的底层原因并提供了排查方案",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
+    {
+      "title": "第一次参加全国焊接技术交流会，也第一次认识昆明",
+      "link": "https://wangxinyang.top/archives/di-yi-ci-can-jia-quan-guo-han-jie-ji-shu-jiao-liu-hui-ye-di-yi-ci-ren-shi-kun-ming",
+      "date": "Sun, 9 Aug 2026 04:03:07 GMT",
+      "description": "这一次来到昆明，并不是一次单纯的旅行，而是一次因为学术交流开启的特别旅程。 作为一名智能制造方向的学生，我有幸跟随师兄们前往昆明，参加全国先进焊接材料加工及特种连接技术交流会。这是我第一次参与全国性的专业交流活动，也让我第一次近距离接触行业专家和先进焊接技术的发展方向。 在会议现场，我听到了许多关于",
+      "site": "wangxinyang",
+      "siteUrl": "https://wangxinyang.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
       "title": "梳理江苏省职业教育体系",
@@ -147,9 +399,18 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
+      "title": "做了一个明日方舟-奇象巡展的像素画拼豆工具",
+      "link": "https://xice.cx/posts/ark24/",
+      "date": "2026-08-09T00:00:00.000Z",
+      "description": "明日方舟最近不是更新了个奇象巡展吗，里面有个像素画功能，给了24x24像素的画布，以及四十种颜色，本人在画某些特别复杂的图的时候也确实比较低技术力，怎么画都画不好，然后就有了搓一个自动压缩工具，然后照着提示去挨个画 最终做出来的成品就是： 明日方舟-奇象巡演 像素画取色工具 Chongxi本身学的就是react啊，很自然的就选了vite+react的底层，然后UI的话，我是自己搓了一套组件，我现在",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
+    {
       "title": "试玩神人游戏《完蛋！我被男同学包围了》",
       "link": "https://474029.xyz/posts/shi-wan-wdwbntxbwl-game/",
-      "date": "Sat, 08 Aug 2026 16:41:00 GMT",
+      "date": "Sat, 08 Aug 2026 08:41:00 GMT",
       "description": "《完蛋！我被男同学包围了》",
       "site": "逸树の小屋",
       "siteUrl": "https://474029.xyz",
@@ -172,6 +433,15 @@
       "site": "MingBlog",
       "siteUrl": "https://mingblog.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
+    },
+    {
+      "title": "舞萌DX国服封禁机制详解",
+      "link": "https://xice.cx/posts/maimaiBS/",
+      "date": "2026-08-08T00:00:00.000Z",
+      "description": "引 在前段时间，舞萌更新DX2026时，有个特殊的搭档 liz ，也许是因为SEGA/华立在乎 kaleidcsope 模式的特殊性，也可能是因为过于泛滥，在七月22日，华立对国服非法获取liz搭档的账号全部发了bs1封禁，上一次发生这种官方下场声明发bs大概还是2024的集章卡乐曲 latent kingdom ，那么相信很多人对国服的封禁机制有一些好奇，甚至有些试图以科技方式修改掉bs1，本文",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "【26年31周记】琐事记",
@@ -219,24 +489,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
-      "title": "「说说」偶然发现，cloudflare竟然还在这里保护着我们",
-      "link": "https://upxuu.com/talk/2026-08-06-偶然发现cloudflare竟然还在这里保护着我们/",
-      "date": "Thu, 06 Aug 2026 12:39:18 GMT",
-      "description": "今天我在看自己博客时，神秘客户端么有关，导致我访问到了国外通过cloudflare的节点，并且不知道咋回事，cf 的鉴权js疑似没有正常加载，才发现我的所有页面的邮箱（我自己的公开邮箱），都被替换成了email protected ，我起初还纳闷，不对啊我记得我也妹加这个功能啊 点击一看跳到了这个页面，cloudflare为了防止bot收集网站的email发邮件，竟然还有这种小巧思，大善人他真的我",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
-      "title": "当一个喜欢coding的博主重操旧业写了首歌",
-      "link": "https://upxuu.com/posts/my-first-music/",
-      "date": "Thu, 06 Aug 2026 09:49:58 GMT",
-      "description": "昨天下午我正在写我的电学物理作业，有些力不从心决定寻求美国大豆包的帮助，突然发现点加号有个“音乐”，什么！gemini生成音乐了吗，于是我脑海里简单15s想了几句prompt 输进对话框，几分钟后，啪的一下，一个三分钟的歌就完成了（如果你没开pro是一分钟），灵机一动，哎我想发到网易云音乐认证音乐人，白嫖vip! 实名，发布，本来不抱有任何希望结果连ai都没测出来，下午我就收到了网易云的站内信，提",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
       "title": "烧几亿Token搭完AI工作台SaaS平台，在上线前止损",
       "link": "https://blog.liseezn.top/883.html/",
       "date": "Thu, 06 Aug 2026 09:00:12 +0000",
@@ -282,15 +534,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
-      "title": "weflow遭下架有感：他们拿走了仓库，也拿走了我们的往昔，却拿不走真正为自由而奋勇向前的开源社区",
-      "link": "https://upxuu.com/posts/rip-weflow/",
-      "date": "Wed, 05 Aug 2026 07:15:06 GMT",
-      "description": "用了半年的 WeFlow，今天被 DMCA 下架了。它帮我导出了几百页聊天记录，也让我看清了一件事：你的数据，未必属于你。但封杀一个 WeFlow，还会有无数个 WeFlow，因为压迫从未停止。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
       "title": "与Leo的对话：一次对自己的重识",
       "link": "https://hehuang.site/p/conversation-reacquaint/",
       "date": "Wed, 05 Aug 2026 09:40:00 +0800",
@@ -302,7 +545,7 @@
     {
       "title": "中世纪并不“愚昧”：古希腊人早已算出地球周长",
       "link": "https://474029.xyz/posts/zhong-shi-ji-di-ping-shuo/",
-      "date": "Tue, 04 Aug 2026 15:22:00 GMT",
+      "date": "Tue, 04 Aug 2026 07:22:00 GMT",
       "description": "历史谣言",
       "site": "逸树の小屋",
       "siteUrl": "https://474029.xyz",
@@ -311,7 +554,7 @@
     {
       "title": "这么多人无证驾驶吗（",
       "link": "https://474029.xyz/posts/ets2-wu-zheng-jia-shi/",
-      "date": "Mon, 03 Aug 2026 18:08:00 GMT",
+      "date": "Mon, 03 Aug 2026 10:08:00 GMT",
       "description": "欧洲卡车模拟2",
       "site": "逸树の小屋",
       "siteUrl": "https://474029.xyz",
@@ -336,31 +579,31 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
-      "title": "啊？",
-      "link": "https://xfcnl.github.io/note/2026-08-01-%E5%95%8A%EF%BC%9F/",
-      "date": "2026-08-01T00:00:00.000Z",
-      "description": "xiaofen@xiaofen-desktop:~/Documents/repo/xfcnl.github.io$ n",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
+      "link": "https://i.limhy.cn/blog/1/",
+      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
+      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
-      "title": "EdgeOne-Pages-ImgBed，一个网页图床应用",
-      "link": "https://xfcnl.github.io/tech/2026-08-01-EdgeOne-Pages-ImgBed%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E5%9B%BE%E5%BA%8A%E5%BA%94%E7%94%A8/",
-      "date": "2026-08-01T00:00:00.000Z",
-      "description": "EdgeOne-Pages-ImgBed，一个基于 edgeone pages（现makers）（前端）、edgeone pages edge function（后端）、supabase sql（存储）和 supabase auth（多用户认证）的网页图床应用 <p",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+      "title": "一次制作终端版博客的经历",
+      "link": "https://mabbs.github.io/2026/08/01/terminal.html",
+      "date": "2026-08-01T00:00:00+08:00",
+      "description": "在浏览器上用真的Linux访问博客会是什么样的感觉？",
+      "site": "Mayx的博客",
+      "siteUrl": "https://mabbs.github.io",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
     },
     {
-      "title": "【原创】终于把平板修好了！",
-      "link": "https://blog.iamcrl.cn/?post=55",
-      "date": "Thu, 30 Jul 2026 22:43:33 +0800",
-      "description": "前言 这几天在家里翻出来一台iPad mini 1，是我上幼儿园的时候家里买的，后来摔坏了家里又买了台mini4就放起来吃灰了。 19年底，四年级。我把这台平板找了出来，发现是背光坏了，只要拿强光照着还能正常用，于是就用爱思刷机重置了一下带到学校托管午休的时候悄悄听歌，被老师发现后老师想收走平板，我就指着平板的屏幕说，“这是坏的，拿来当玩具而已”，成功蒙混过关。20年初寒假，我回我外公外婆家的时候",
-      "site": "睿朗的小窝",
-      "siteUrl": "https://iamcrl.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
+      "link": "https://i.limhy.cn/blog/202/",
+      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
+      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "亿不小心破解了清北道远学习机",
@@ -399,13 +642,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
-      "title": "十年了！我终于学会了蛙泳",
-      "link": "https://blog.weasel6.cn/posts/swimming/",
-      "date": "Sat, 25 Jul 2026 01:50:00 GMT",
-      "description": "高中到现在，只要有机会去泳池我都会研究一下蛙泳，每次都是以喝水喝饱游不动告终",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+      "title": "用 WorkBuddy 一条龙修复 Win11 全部 UWP 应用打不开 — VCLibs 依赖损坏排查实录",
+      "link": "https://wangxinyang.top/archives/yong-workbuddy-yi-tiao-long-xiu-fu-win11-quan-bu-uwp-ying-yong-da-bu-kai----vclibs-yi-lai-sun-pi-pai-cha-shi-lu",
+      "date": "Sat, 25 Jul 2026 11:19:10 GMT",
+      "description": "一句话描述问题，WorkBuddy 自动完成诊断、定位、下载、修复、验证全流程，15 分钟全部搞定 一、故事起因：一句描述，全流程启动 第二天起床打开电脑，点开始菜单里的记事本，弹出来一个莫名其妙的提示：就是下面这个 \"无法打开这个应用，查看 Microsoft Store，了解有关 XXX 的详细",
+      "site": "wangxinyang",
+      "siteUrl": "https://wangxinyang.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
       "title": "【26年30周记】小~调整——第n次博客微调计划",
@@ -417,13 +660,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
     },
     {
-      "title": "有双无形的大手，扼住了我的喉咙",
-      "link": "https://blog.weasel6.cn/posts/life-hand/",
-      "date": "Thu, 23 Jul 2026 17:17:00 GMT",
-      "description": "可能这就是长大的无奈吧，钱是真的难挣，屎也是真他妈难吃",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+      "title": "借钱的正确姿势——如何做债主和债务人",
+      "link": "https://denjuy.com/posts/dwxrj3cgQZb/",
+      "date": "Fri, 24 Jul 2026 08:00:00 +0800",
+      "description": "对于借钱这件事，大部分人都 听过一句准则： 救急不救穷 。但实际操作下来，很多时候面对的情况并没有这句话说的那么简单。 那对于年轻的不在家乡工作的朋友，年轻时候谁不穷？别人穷就一定不上进吗？这句话根本指导不了意见。背井离乡找工作，有困难短时间内周转不过来是正常的。如果我有条件能帮一下，没必要做的那么势利。一般找我借钱的人都是社交圈范围内的，早不见晚见，没法轻易拒绝。同时，也要考虑到以后自己可能也有",
+      "site": "云白",
+      "siteUrl": "https://denjuy.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
       "title": "【26年29周记】梅开二度、高强度衔接班",
@@ -435,6 +678,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
     },
     {
+      "title": "BlogsClub二周年快乐",
+      "link": "https://blog.elysium-stack.cn/posts/bc-2nd-anniversary/",
+      "date": "Wed, 22 Jul 2026 15:37:00 GMT",
+      "description": "BlogsClub二周年快乐，迟来的庆贺文与纪念品返图！",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "欢呼吧！新的博客",
       "link": "https://loneapex.cn/shuoshuo/%e6%96%b0%e7%9a%84%e5%8d%9a%e5%ae%a2%ef%bc%9f%ef%bc%81",
       "date": "Wed, 22 Jul 2026 11:29:36 +0000",
@@ -444,15 +696,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
     },
     {
-      "title": "【原创】关于AI的一些思考",
-      "link": "https://blog.iamcrl.cn/?post=53",
-      "date": "Tue, 21 Jul 2026 23:54:31 +0800",
-      "description": "最近回了我外公外婆家。一天我把我期末考的卷子拿出来想总结一下大题的答题模板。因为是期末考，所以老师并没有评讲试卷，我就打开手机上的作业帮开始扫题然后逐行把答案抄写下来。正在旁边玩平板的表弟表妹看见，对我说“你也用AI啊”。我说这不是AI，他们顿了一下，说“你这不就是AI吗？都拿手机拍试卷了还犟”，我有点无语，“这是作业帮你知道吗？这不是AI，你们不用这个App吗？”，我问。没想到的是他们告诉我他们",
-      "site": "睿朗的小窝",
-      "siteUrl": "https://iamcrl.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
-    },
-    {
       "title": "「工具推荐」TRAE：字节跳动自研AI原生IDE编程软件（非广告）",
       "link": "https://wowtang.top/post/ToolRec_trae1/",
       "date": "Tue, 21 Jul 2026 20:32:51 +0800",
@@ -460,15 +703,6 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
-    },
-    {
-      "title": "解放@初三毕业后的闲杂日记",
-      "link": "https://note.redcha.cn/archives/jie-fang-chu-san-bi-ye-hou-de-xian-za-ri-ji",
-      "date": "Tue, 21 Jul 2026 10:45:09 GMT",
-      "description": "考完力(7.2) 考完英语 上午考完英语的时候，大家无比开心 ↑因为我是走读的，所以就是收拾公寓，比在宿舍收拾好多了，宿舍简直是一堆烂摊子 中午收拾东西，下午就可以走了！然后下午进行了长达两个小时的散学典礼...... 然后全班一起来拍毕业照，但是我觉得这个逻辑非常不合常理，毕业照应该就是要拿出一整",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "一节偏航的生涯规划课",
@@ -516,6 +750,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
     },
     {
+      "title": "咸鱼捡二手翻车：Apple USB SuperDrive 光驱真假分辨",
+      "link": "https://denjuy.com/posts/dwxNqt2ykxX/",
+      "date": "Thu, 16 Jul 2026 08:00:00 +0800",
+      "description": "在咸鱼上买东西，我一般只会买个人卖家闲置的东西，贩子一律不碰，同时根据卖家的信用和出售记录综合判断。这套组合拳下来我七年几乎没踩过坑。但这次翻车了。 最近打算入坑实体音乐，买了几张CD，怕买到盗版，所以想搞个光驱抓轨看下音频。因为颜控，一眼看上了苹果的\"活化石\"光驱 SuperDrive。但这东西早在24年就停售了，想买只能去咸鱼淘二手。然后看到一个卖家自己说是全新未拆封的，没怎么细问就下单了。 ",
+      "site": "云白",
+      "siteUrl": "https://denjuy.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
+    },
+    {
       "title": "白嫖DigitalPlat的免费域名x3！",
       "link": "https://blog.wudarensheng.top/posts/digitalplat-free-domain/",
       "date": "Fri, 10 Jul 2026 00:00:00 GMT",
@@ -541,6 +784,15 @@
       "site": "涵哲子居",
       "siteUrl": "https://iluc.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
+    },
+    {
+      "title": "软著or软件著作权の申请指北",
+      "link": "https://619.pp.ua/article/software-copyright",
+      "date": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "description": "用最不绕弯子的语言告诉你：从0开始手把手教你申请软件著作权，来获得你想要的东西。",
+      "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
+      "siteUrl": "https://66619.eu.org",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
     },
     {
       "title": "广汉十月：静态管理的昼与夜",
@@ -579,13 +831,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
-      "title": "我离睡眠渐行渐远",
-      "link": "https://pinpe.top/posts/sleep/",
-      "date": "Sat, 04 Jul 2026 00:00:00 GMT",
-      "description": "大概是6月初开始吧，我发现自己已经不太容易睡得着觉了。",
-      "site": "Pinpe 的云端",
-      "siteUrl": "https://pinpe.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
+      "title": "初尝腾讯WorkBuddy，学生党的福音？",
+      "link": "https://wangxinyang.top/archives/chu-chang-workbuddy-xue-sheng-dang-de-fu-yin",
+      "date": "Fri, 3 Jul 2026 08:16:37 GMT",
+      "description": "引言 今天的人工智能实训课上，被同学安利了腾讯的WorkBuddy。原来我的某些”课程“期末报告基本都是使用codex使用latex代码编写的，这样输出编译的基本都是PDF格式，但是有些课程所需要提交的报告只能使用word版本，我的做法就是将latex编译出来的PDF文档再转换为word格式版本，但",
+      "site": "wangxinyang",
+      "siteUrl": "https://wangxinyang.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
       "title": "【26年27周记】中考、初中毕业和网站优化",
@@ -595,6 +847,15 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
+    },
+    {
+      "title": "Vibe Coding新体验",
+      "link": "https://mabbs.github.io/2026/07/01/vibe-coding.html",
+      "date": "2026-07-01T00:00:00+08:00",
+      "description": "All in AI!",
+      "site": "Mayx的博客",
+      "siteUrl": "https://mabbs.github.io",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
     },
     {
       "title": "💬静态博客评论系统对比指南",
@@ -651,6 +912,24 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
+      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
+      "link": "https://i.limhy.cn/blog/189/",
+      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
+      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
+      "link": "https://i.limhy.cn/blog/188/",
+      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
+      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "今日战报",
       "link": "https://loneapex.cn/shuoshuo/%e4%bb%8a%e6%97%a5%e6%88%98%e6%8a%a5",
       "date": "Thu, 18 Jun 2026 17:35:09 +0000",
@@ -660,13 +939,40 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
     },
     {
-      "title": "中考加油！最后不到一个月",
-      "link": "https://note.redcha.cn/archives/zhong-kao-jia-you-zui-hou-bu-dao-yi-ge-yue",
-      "date": "Sat, 6 Jun 2026 15:17:41 GMT",
-      "description": "填报志愿 就在6.5日12:00，中考志愿已停止修改，16:00系统完全关闭 志愿系统的关闭，标志着离中考越来越近了。前几天还收拾了考场(高考)，全班搞卫生，忙作一团 倒计时 最后30天！加油！暑假在向我挥手🫣暑假将会补齐丢失的文章并恢复以往的更新频率🤤",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+      "title": "汇报PPT靠豆包办公任务模式，基本能搞定",
+      "link": "https://wangxinyang.top/archives/wei-ming-ming-wen-zhang-EVlEydHv",
+      "date": "Tue, 16 Jun 2026 15:15:09 GMT",
+      "description": "引言 昨天我还在捣鼓那个PPT Master制作PPT的Github的项目，今天我突然发现一个豆包就基本能解决我小组汇报制作PPT的需求。因为这周有小组汇报，而我平时也会使用豆包和Kimi来制作小组汇报的PPT，但是Kimi经常需要排队，等待很慢，而且我经过几次小组作业PPT做对比，kimi做的PP",
+      "site": "wangxinyang",
+      "siteUrl": "https://wangxinyang.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
+    },
+    {
+      "title": "PPT Master 使用教程：用 VS Code 和 AI 生成可编辑 PPTX",
+      "link": "https://wangxinyang.top/archives/ppt-master-cong-0-dao-1-xiao-bai-shi-yong-jiao-cheng-yong-vs-code-he-ai-sheng-cheng-ke-bian-ji-pptx",
+      "date": "Mon, 15 Jun 2026 10:44:46 GMT",
+      "description": "一、PPT Master 是什么？ヾ(≧▽≦*)o 适合人群：会打开 VS Code，但不熟悉 Python 项目、不知道怎么配置 API Key、想先跑通一份真正可编辑 PPT 的用户。 PPT Master 是一个开源 AI PPT 工作流项目。它不是网页上的\"一键生成 PPT\"工具，而是一套放",
+      "site": "wangxinyang",
+      "siteUrl": "https://wangxinyang.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
+    },
+    {
+      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
+      "link": "https://i.limhy.cn/blog/187/",
+      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
+      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "如何节约游戏占用的硬盘空间？",
+      "link": "https://mabbs.github.io/2026/06/01/dedupe.html",
+      "date": "2026-06-01T00:00:00+08:00",
+      "description": "浪费硬盘空间是可耻的！",
+      "site": "Mayx的博客",
+      "siteUrl": "https://mabbs.github.io",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
     },
     {
       "title": "『anemoi』初回限定版 开箱",
@@ -714,13 +1020,22 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08110007.webp"
     },
     {
-      "title": "服务器“炸毁”😭😡无地自容",
-      "link": "https://note.redcha.cn/archives/fu-wu-qi-zha-hui-wu-di-zi-rong",
-      "date": "Sun, 22 Mar 2026 08:14:01 GMT",
-      "description": "起因 我一共有2台服务器，除了彬红茶日记和附属api接口，其余大部分站点部署在另一条服务器 然后在上周，我在上学期间，其中一台服务器的服务商突然公布，请在3天内联系客服人工迁移。因为服务器要硬件升级，IP转移 那我肯定是看不到的嘛，而且3天时间给🐶迁移呢？哪有3天时间这么短的，然后，我没有看到信息",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+      "title": "虚拟局域网的组网探索记录",
+      "link": "https://mabbs.github.io/2026/05/01/virtual-net.html",
+      "date": "2026-05-01T00:00:00+08:00",
+      "description": "异地组网，有多少种选择？",
+      "site": "Mayx的博客",
+      "siteUrl": "https://mabbs.github.io",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
+    },
+    {
+      "title": "关于AI个人助理的探索",
+      "link": "https://mabbs.github.io/2026/04/14/ai-agent.html",
+      "date": "2026-04-14T00:00:00+08:00",
+      "description": "给AI添加手脚能有多少种方法？",
+      "site": "Mayx的博客",
+      "siteUrl": "https://mabbs.github.io",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
     },
     {
       "title": "从一株小草开始",
@@ -730,15 +1045,6 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "2026！新年快乐！",
-      "link": "https://note.redcha.cn/archives/2026-xin-nian-kuai-le",
-      "date": "Mon, 16 Feb 2026 16:00:00 GMT",
-      "description": "2026春节正式到来，在这里祝大家新年快乐，新的一年心想事成，万事如意！ 马上过年了，祝你和气致祥 百花齐放，鸾凤和鸣 福星高照，喜气盈门 恭贺新春，招财进宝 福享新春，福星高照 迎春接福，福禄寿禧 春光骀荡，荣华富贵 国步龙腾，大展鸿图 门凝瑞霭，家庭幸福 户发春光，前途无量 风光胜旧，前程似锦",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "就这样走过二〇二五",
@@ -786,13 +1092,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
     },
     {
-      "title": "初中首秋游：长隆妙妙屋&最后一次元旦晚会",
-      "link": "https://note.redcha.cn/archives/chu-zhong-shou-qiu-you-chang-long-miao-miao-wu-zui-hou-yi-ci-yuan-dan-wan-hui",
-      "date": "Sat, 10 Jan 2026 11:53:00 GMT",
-      "description": "秋游前的曲折 经过了初中的三年磨练，我们也是成功来到了初三。按照级长的说法，身为初三就应该把精力更加投入到学习上(认同，但是我们一次都没有啊！🪰)，所以就根本不要想春秋游了。但是我们这一届初一初二的时候都是没有春秋游的。有一天我们学校的校长和级长在唠嗑，然后校长问，咱们初三年级没有秋游的吗？级长回",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+      "title": "明日方舟终末地工具站汇总",
+      "link": "https://blog.elysium-stack.cn/posts/arknights-endfield-tools/",
+      "date": "Thu, 22 Jan 2026 11:19:00 GMT",
+      "description": "汇总明日方舟终末地相关工具网站，涵盖协议终端、基质规划器、量化计算器、排轴终端、互动地图、剧情检索、一图流、拼图解密、Wiki及MAA小助手等实用资源",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "🌌 最终测试：超弦虚空接口",
@@ -822,15 +1128,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "Good bye！2025",
-      "link": "https://wowtang.top/post/goodbye2025/",
-      "date": "Thu, 01 Jan 2026 00:00:00 +0800",
-      "description": "岁序更替，华章日新；凡是过往，皆为序章。愿今年所有的遗憾，都是明年惊喜的铺垫。2026，愿生活温暖顺遂，所求皆如愿，所行化坦途。",
-      "site": "Sunrise.博客",
-      "siteUrl": "https://wowtang.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
-    },
-    {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
       "date": "Tue, 30 Dec 2025 16:00:00 +0000",
@@ -840,6 +1137,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
+      "title": "告别2025 迎接2026",
+      "link": "https://blog.elysium-stack.cn/posts/happy-new-year-2026/",
+      "date": "Mon, 29 Dec 2025 17:19:00 GMT",
+      "description": "2025年终总结，回顾博客建设、情感生活、明日方舟、旅行与演唱会等",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "马生复宋濂书",
       "link": "https://xinyang-gao.github.io/articles/马生复宋濂书.html",
       "date": "Tue, 09 Dec 2025 00:00:00 GMT",
@@ -847,6 +1153,15 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
+      "title": "2025.12.2 祝我生日快乐",
+      "link": "https://blog.elysium-stack.cn/posts/birthday-20251202/",
+      "date": "Tue, 02 Dec 2025 12:02:00 GMT",
+      "description": "生日感悟——学会与自己和解、学会珍惜、学会告别",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "“Abord”的开发碎碎念",
@@ -867,19 +1182,19 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
+      "title": "Elysium-Meting-Api公益服务",
+      "link": "https://blog.elysium-stack.cn/posts/elysium-meting-api/",
+      "date": "Sat, 11 Oct 2025 18:15:00 GMT",
+      "description": "基于Meting-API自建的公开音乐API服务，支持网易云、QQ音乐等多平台搜索与播放链接获取",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "I want you never to forget me…",
       "link": "https://619.pp.ua/article/heroes",
       "date": "Wed, 27 Aug 2025 00:00:00 GMT",
       "description": "只是当时已惘然",
-      "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
-      "siteUrl": "https://66619.eu.org",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
-    },
-    {
-      "title": "看旁门左道PPT的随手笔记",
-      "link": "https://619.pp.ua/article/ppt-works",
-      "date": "Wed, 27 Aug 2025 00:00:00 GMT",
-      "description": "看旁门左道PPT的各种奇技淫巧の记录，以后搞形式主义的时候用",
       "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
       "siteUrl": "https://66619.eu.org",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
