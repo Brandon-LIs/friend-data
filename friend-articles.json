@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:56:17.922Z",
+  "updated_at": "2026-08-21T16:23:35.868Z",
   "count": 150,
   "list": [
     {
@@ -46,15 +46,6 @@
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
-      "title": "来我博客听相声睡觉",
-      "link": "https://lzh1.cn/?post=51",
-      "date": "Thu, 20 Aug 2026 23:06:59 +0800",
-      "description": "今天突然发现应用商店里有个播客插件就是可以在单页文章内插入播客RSS源获取的音频，但是这个只能一个音频一个音频的插入然后每次播放只能单独点击一个音频这样播放。 本来想拿来做一个相声单页的但是很不方便然后就自己开发了一个播客插件基于网易云音乐的播客专辑在前台显示独立页面。 点击首页顶部的 图标就可以访问页面。",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "【公告】本站26年7~8月更新日志",
@@ -235,6 +226,15 @@
       "site": "日和",
       "siteUrl": "https://codevfun.work/",
       "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
+    },
+    {
+      "title": "浏览其他人的博客",
+      "link": "https://lzh1.cn/?post=44",
+      "date": "Sun, 16 Aug 2026 10:41:24 +0800",
+      "description": "最近一直在聚合平台以及友链页访问他人的博客。 我访问他人博客除了看名字介绍以外还会看一下头像图标，一些吸引我的头像和图标我会毫不犹豫的点进去。 我觉得头像都那么吸引人的话这个博客站长肯定是个很有趣的人。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "wdf，火车上有邪教！！！",
