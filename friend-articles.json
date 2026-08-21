@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:01:19.597Z",
+  "updated_at": "2026-08-21T15:15:22.703Z",
   "count": 145,
   "list": [
     {
@@ -75,6 +75,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
+      "title": "个人博客把 RSS 接上",
+      "link": "https://codevfun.work/writing/rss-for-personal-site",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "description": "feed.xml、head 里的 alternate、页脚一个订阅链接。阅读器比算法时间线可靠。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
+    },
+    {
       "title": "用 Linux 遇到的问题",
       "link": "https://xfcnl.github.io/tech/2026-08-20-%E7%94%A8%20Linux%20%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/",
       "date": "2026-08-20T00:00:00.000Z",
@@ -147,6 +156,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
+      "title": "浅金色链接为什么看不见",
+      "link": "https://codevfun.work/writing/contrast-wcag-aa",
+      "date": "Tue, 18 Aug 2026 04:00:00 GMT",
+      "description": "WCAG AA 正文 4.5:1、图标 3:1。香槟金配浅灰过不了，不是眼睛的问题。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
+    },
+    {
       "title": "【原创】要开学了，怎么才能保住火花？",
       "link": "https://blog.iamcrl.cn/?post=69",
       "date": "Tue, 18 Aug 2026 00:48:29 +0800",
@@ -201,6 +219,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
+      "title": "用 CSS 变量做能切换的主题",
+      "link": "https://codevfun.work/writing/css-theme-tokens",
+      "date": "Sun, 16 Aug 2026 04:00:00 GMT",
+      "description": "背景、字色、强调色收成 token。深色模式和多套风格就不用满项目搜十六进制。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
+    },
+    {
       "title": "浏览其他人的博客",
       "link": "https://lzh1.cn/?post=44",
       "date": "Sun, 16 Aug 2026 10:41:24 +0800",
@@ -253,6 +280,15 @@
       "site": "日和",
       "siteUrl": "https://codevfun.work",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+    },
+    {
+      "title": "表单要让人填得下去",
+      "link": "https://codevfun.work/writing/accessible-forms",
+      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "description": "label 点得中、错讯读得出、按钮说得清：登录和留言页就靠这几条。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
     },
     {
       "title": "用 deepseekv4 写个轻量级评论系统",
@@ -316,6 +352,15 @@
       "site": "日和",
       "siteUrl": "https://codevfun.work",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+    },
+    {
+      "title": "图片别把首页拖垮",
+      "link": "https://codevfun.work/writing/responsive-images",
+      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "description": "宽高、srcset、sizes、懒加载：四件事做完，首屏会轻一截。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
     },
     {
       "title": "【原创】我的高二生活",
@@ -633,15 +678,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
-      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
-      "link": "https://i.limhy.cn/blog/1/",
-      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
-      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
       "title": "一次制作终端版博客的经历",
       "link": "https://mabbs.github.io/2026/08/01/terminal.html",
       "date": "2026-08-01T00:00:00+08:00",
@@ -649,15 +685,6 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
-    },
-    {
-      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
-      "link": "https://i.limhy.cn/blog/202/",
-      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
-      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "亿不小心破解了清北道远学习机",
@@ -984,15 +1011,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
-      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
-      "link": "https://i.limhy.cn/blog/189/",
-      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
-      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
       "title": "『节日』致伟大的父亲的一封信",
       "link": "https://blog.byside.top/archives/20260621_1",
       "date": "Sun, 21 Jun 2026 03:22:07 GMT",
@@ -1000,15 +1018,6 @@
       "site": "拥抱日出的小屋",
       "siteUrl": "https://blog.byside.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
-    },
-    {
-      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
-      "link": "https://i.limhy.cn/blog/188/",
-      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
-      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "今日战报",
@@ -1036,15 +1045,6 @@
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
-    },
-    {
-      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
-      "link": "https://i.limhy.cn/blog/187/",
-      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
-      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "如何节约游戏占用的硬盘空间？",
@@ -1148,7 +1148,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "2026-02-01T02:44:53Z",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1157,7 +1157,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "2026-02-01T02:44:32Z",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1166,7 +1166,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "2026-01-30T16:00:03Z",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1202,7 +1202,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "2026-01-02T06:24:00Z",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1220,7 +1220,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "2025-12-30T16:00:00Z",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
