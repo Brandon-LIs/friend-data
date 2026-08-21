@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-21T10:28:49.764Z",
-  "count": 140,
+  "updated_at": "2026-08-21T10:50:40.482Z",
+  "count": 145,
   "list": [
+    {
+      "title": "0元首发？匿名模型 Ox Alpha 空降 OpenRouter！1M 上下文 + 多模态，疑似智谱出品|免费AI",
+      "link": "https://upxuu.com/posts/ox-alpha/",
+      "date": "Fri, 21 Aug 2026 04:30:00 GMT",
+      "description": "昨天晚上 OpenRouter 上突然冒出一个名为 Ox Alpha 的匿名模型：输入输出全部 0 元、1M 上下文、原生多模态，opencode 官方推文还承诺免费一周 + 每日 100T token 容量。全网都在猜它到底是谁家的孩子……",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
     {
       "title": "震撼首发！英伟达推出免费kimi k3！且速度极快，白嫖界迎来巨变|nvida nim|免费AI",
       "link": "https://upxuu.com/posts/free-kimi/",
@@ -55,6 +64,15 @@
       "site": "日和",
       "siteUrl": "https://codevfun.work",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+    },
+    {
+      "title": "个人博客把 RSS 接上",
+      "link": "https://codevfun.work/writing/rss-for-personal-site",
+      "date": "Thu, 20 Aug 2026 04:00:00 GMT",
+      "description": "feed.xml、head 里的 alternate、页脚一个订阅链接。阅读器比算法时间线可靠。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
     },
     {
       "title": "用 Linux 遇到的问题",
@@ -129,6 +147,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
+      "title": "浅金色链接为什么看不见",
+      "link": "https://codevfun.work/writing/contrast-wcag-aa",
+      "date": "Tue, 18 Aug 2026 04:00:00 GMT",
+      "description": "WCAG AA 正文 4.5:1、图标 3:1。香槟金配浅灰过不了，不是眼睛的问题。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
+    },
+    {
       "title": "【原创】要开学了，怎么才能保住火花？",
       "link": "https://blog.iamcrl.cn/?post=69",
       "date": "Tue, 18 Aug 2026 00:48:29 +0800",
@@ -183,6 +210,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
+      "title": "用 CSS 变量做能切换的主题",
+      "link": "https://codevfun.work/writing/css-theme-tokens",
+      "date": "Sun, 16 Aug 2026 04:00:00 GMT",
+      "description": "背景、字色、强调色收成 token。深色模式和多套风格就不用满项目搜十六进制。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
+    },
+    {
       "title": "浏览其他人的博客",
       "link": "https://lzh1.cn/?post=44",
       "date": "Sun, 16 Aug 2026 10:41:24 +0800",
@@ -190,15 +226,6 @@
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
-      "title": "为什么upxuu 不发朋友圈",
-      "link": "https://upxuu.com/posts/pyq/",
-      "date": "Sun, 16 Aug 2026 01:03:45 GMT",
-      "description": "表达了 upxuu 对于无法自由发朋友圈的气愤",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "wdf，火车上有邪教！！！",
@@ -244,6 +271,15 @@
       "site": "日和",
       "siteUrl": "https://codevfun.work",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+    },
+    {
+      "title": "表单要让人填得下去",
+      "link": "https://codevfun.work/writing/accessible-forms",
+      "date": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "description": "label 点得中、错讯读得出、按钮说得清：登录和留言页就靠这几条。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
     },
     {
       "title": "用 deepseekv4 写个轻量级评论系统",
@@ -307,6 +343,15 @@
       "site": "日和",
       "siteUrl": "https://codevfun.work",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+    },
+    {
+      "title": "图片别把首页拖垮",
+      "link": "https://codevfun.work/writing/responsive-images",
+      "date": "Wed, 12 Aug 2026 04:00:00 GMT",
+      "description": "宽高、srcset、sizes、懒加载：四件事做完，首屏会轻一截。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work/",
+      "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
     },
     {
       "title": "【原创】我的高二生活",
