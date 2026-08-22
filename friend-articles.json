@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T13:07:49.960Z",
+  "updated_at": "2026-08-22T13:49:49.613Z",
   "count": 144,
   "list": [
     {
@@ -19,6 +19,15 @@
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "广西什么**网",
+      "link": "https://xfcnl.github.io/tech/2026-08-22-post/",
+      "date": "2026-08-22T00:00:00.000Z",
+      "description": "> git pull --tags origin main <span class=\"lin",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "HiFi 迷思：原来线材不同音质不一样是真的",
@@ -568,15 +577,6 @@
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
-    },
-    {
-      "title": "博客大更新",
-      "link": "https://xfcnl.github.io/note/2026-08-06-%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%9B%B4%E6%96%B0/",
-      "date": "2026-08-06T00:00:00.000Z",
-      "description": "如题",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "把场景拆开，再重新相遇",
