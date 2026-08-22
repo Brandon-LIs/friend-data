@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-22T16:12:06.871Z",
+  "updated_at": "2026-08-22T16:46:38.067Z",
   "count": 149,
   "list": [
+    {
+      "title": "给博客新增了一个项目",
+      "link": "https://lzh1.cn/?post=53",
+      "date": "Sun, 23 Aug 2026 00:42:49 +0800",
+      "description": "我访问某个博客发现博主搞了论坛来给其他访客发布帖子，我发现程序有个微语配合上前台展示插件也可以就做了。 点击导航栏的树洞或者直接访问https://lzh1.cn/?plugin=mood 就可以发布文字。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
     {
       "title": "川西漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由",
       "link": "https://note.redcha.cn/archives/chuan-xi-man-ji-d1-d2-cong-ping-yuan-ben-fu-shan-hai-chu-yu-gao-yuan-de-feng-yu-zi-you",
@@ -37,6 +46,15 @@
       "site": "云白",
       "siteUrl": "https://denjuy.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
+    },
+    {
+      "title": "最近在筹备大事，水篇说说awa",
+      "link": "https://blog.8765777.xyz/talks/talk_edweex83wrpe/",
+      "date": "Fri, 21 Aug 2026 20:26:00 GMT",
+      "description": "最近在筹备大事，水篇说说awa",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
     },
     {
       "title": "Trae突然开始使用积分了",
@@ -226,15 +244,6 @@
       "site": "日和",
       "siteUrl": "https://codevfun.work",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
-    },
-    {
-      "title": "浏览其他人的博客",
-      "link": "https://lzh1.cn/?post=44",
-      "date": "Sun, 16 Aug 2026 10:41:24 +0800",
-      "description": "最近一直在聚合平台以及友链页访问他人的博客。 我访问他人博客除了看名字介绍以外还会看一下头像图标，一些吸引我的头像和图标我会毫不犹豫的点进去。 我觉得头像都那么吸引人的话这个博客站长肯定是个很有趣的人。",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "wdf，火车上有邪教！！！",
@@ -430,15 +439,6 @@
       "link": "https://blog.8765777.xyz/talks/talk_sszhfdnz2lp4/",
       "date": "Mon, 10 Aug 2026 23:17:00 GMT",
       "description": "原神马上要更新至冬冬辣",
-      "site": "没吃饱的天镜镜",
-      "siteUrl": "https://blog.8765777.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
-    },
-    {
-      "title": "准备这几天写个RSS朋友圈页面",
-      "link": "https://blog.8765777.xyz/talks/talk_y4upwbg9hstl/",
-      "date": "Mon, 10 Aug 2026 15:47:00 GMT",
-      "description": "准备这几天写个RSS朋友圈页面",
       "site": "没吃饱的天镜镜",
       "siteUrl": "https://blog.8765777.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
