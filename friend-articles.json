@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T08:17:58.441Z",
+  "updated_at": "2026-08-22T08:54:15.923Z",
   "count": 154,
   "list": [
     {
@@ -93,15 +93,6 @@
       "avatar": "https://i0.hdslb.com/bfs/face/a09cb25595f69324ed7da361391de337dbe47601.jpg"
     },
     {
-      "title": "用 Linux 遇到的问题",
-      "link": "https://xfcnl.github.io/tech/2026-08-20-%E7%94%A8%20Linux%20%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/",
-      "date": "2026-08-20T00:00:00.000Z",
-      "description": "我用 Linux 当主力系统也有一段时间了，简述下遇到的问题 两个 waybar 我目前使",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
       "title": "一起来使用Niri吧！",
       "link": "https://pinpe.top/posts/niri-wm/",
       "date": "Thu, 20 Aug 2026 00:00:00 GMT",
@@ -109,6 +100,15 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
+    },
+    {
+      "title": "用 Linux 遇到的问题",
+      "link": "https://xfcnl.github.io/tech/2026-08-19-%E7%94%A8%20Linux%20%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/",
+      "date": "2026-08-19T16:00:00.000Z",
+      "description": "我用 Linux 当主力系统也有一段时间了，简述下遇到的问题 两个 waybar 我目前使",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "重新启用登录评论并增加了认证功能",
@@ -246,15 +246,6 @@
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
-      "title": "wdf，火车上有邪教！！！",
-      "link": "https://xfcnl.github.io/note/2026-08-16-wdf%EF%BC%8C%E7%81%AB%E8%BD%A6%E4%B8%8A%E6%9C%89%E9%82%AA%E6%95%99%EF%BC%81%EF%BC%81%EF%BC%81/",
-      "date": "2026-08-16T00:00:00.000Z",
-      "description": "这不去外婆家嘛，坐火车去 我还打印了一个开票单，虽然刷身份证就可以进站 但这不是重点，从我上车开始就有两个中年人在那聊天，我以为聊的是国家教育或是国际局面，但仔细一听，是什么能量场，什么高人之类的，这不是邪教吗 我还看到他的手机上有",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
       "title": "沃雅妮莎！",
       "link": "https://blog.8765777.xyz/posts/post-20260816-sybika/",
       "date": "Sun, 16 Aug 2026 00:00:00 GMT",
@@ -262,6 +253,15 @@
       "site": "没吃饱的天镜镜",
       "siteUrl": "https://blog.8765777.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
+    },
+    {
+      "title": "wdf，火车上有邪教！！！",
+      "link": "https://xfcnl.github.io/note/2026-08-15-wdf%EF%BC%8C%E7%81%AB%E8%BD%A6%E4%B8%8A%E6%9C%89%E9%82%AA%E6%95%99%EF%BC%81%EF%BC%81%EF%BC%81/",
+      "date": "2026-08-15T16:00:00.000Z",
+      "description": "这不去外婆家嘛，坐火车去 我还打印了一个开票单，虽然刷身份证就可以进站 但这不是重点，从我上车开始就有两个中年人在那聊天，我以为聊的是国家教育或是国际局面，但仔细一听，是什么能量场，什么高人之类的，这不是邪教吗 我还看到他的手机上有",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "旧貌换新颜：近期博客的装修汇总",
@@ -319,8 +319,8 @@
     },
     {
       "title": "Typeless，一款可以让你只动嘴、不动手的输入法，Typeless 初体验",
-      "link": "https://xfcnl.github.io/tech/2026-08-13-Typeless%EF%BC%8C%E4%B8%80%E6%AC%BE%E5%8F%AF%E4%BB%A5%E8%AE%A9%E4%BD%A0%E5%8F%AA%E5%8A%A8%E5%98%B4%E3%80%81%E4%B8%8D%E5%8A%A8%E6%89%8B%E7%9A%84%E8%BE%93%E5%85%A5%E6%B3%95%EF%BC%8CTypeless%20%E5%88%9D%E4%BD%93%E9%AA%8C/",
-      "date": "2026-08-13T00:00:00.000Z",
+      "link": "https://xfcnl.github.io/tech/2026-08-12-Typeless%EF%BC%8C%E4%B8%80%E6%AC%BE%E5%8F%AF%E4%BB%A5%E8%AE%A9%E4%BD%A0%E5%8F%AA%E5%8A%A8%E5%98%B4%E3%80%81%E4%B8%8D%E5%8A%A8%E6%89%8B%E7%9A%84%E8%BE%93%E5%85%A5%E6%B3%95%EF%BC%8CTypeless%20%E5%88%9D%E4%BD%93%E9%AA%8C/",
+      "date": "2026-08-12T16:00:00.000Z",
       "description": "由于最近懒病大发，不想动手抬手写博客了，于是就在网上搜寻一番。在知乎逛了逛，找到一篇横向对比很多语音输入法的文章 里面提到了微信、豆包、搜狗这三款国产输入法，而且我还看到另一款我从来没见过的输入法 Typeless",
       "site": "xf_blog",
       "siteUrl": "https://husd.cc.cd/",
@@ -525,15 +525,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120001.webp"
     },
     {
-      "title": "我鬼脑发力是如何找到 BA BWiki 是如何找到如何修改首页内容的",
-      "link": "https://xfcnl.github.io/tech/2026-08-08-%E6%88%91%E9%AC%BC%E8%84%91%E5%8F%91%E5%8A%9B%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%20BA%20BWiki%20%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9%E9%A6%96%E9%A1%B5%E5%86%85%E5%AE%B9%E7%9A%84/",
-      "date": "2026-08-08T00:00:00.000Z",
-      "description": "我在之前和现 BA BWiKi（一下简称Wiki） 的版主 K252 要了管理员权限，成了 Wiki 的管理员 但碍于当时上学，就隔一段时间更新一下情报板块的内容<",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
       "title": "从尚未竣工到绿树成荫：广汉中学新校园的这几年",
       "link": "https://mingblog.site/posts/guanghan-school-campus-years/",
       "date": "Sat, 08 Aug 2026 00:00:00 GMT",
@@ -559,6 +550,15 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
+    },
+    {
+      "title": "我鬼脑发力是如何找到 BA BWiki 是如何找到如何修改首页内容的",
+      "link": "https://xfcnl.github.io/tech/2026-08-07-%E6%88%91%E9%AC%BC%E8%84%91%E5%8F%91%E5%8A%9B%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%20BA%20BWiki%20%E6%98%AF%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9%E9%A6%96%E9%A1%B5%E5%86%85%E5%AE%B9%E7%9A%84/",
+      "date": "2026-08-07T16:00:00.000Z",
+      "description": "我在之前和现 BA BWiKi（一下简称Wiki） 的版主 K252 要了管理员权限，成了 Wiki 的管理员 但碍于当时上学，就隔一段时间更新一下情报板块的内容<",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略",
@@ -606,15 +606,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
     },
     {
-      "title": "博客大更新",
-      "link": "https://xfcnl.github.io/note/2026-08-06-%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%9B%B4%E6%96%B0/",
-      "date": "2026-08-06T00:00:00.000Z",
-      "description": "如题",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
       "title": "把场景拆开，再重新相遇",
       "link": "https://mingblog.site/posts/scene-notes-2026/",
       "date": "Thu, 06 Aug 2026 00:00:00 GMT",
@@ -631,6 +622,15 @@
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
+    },
+    {
+      "title": "博客大更新",
+      "link": "https://xfcnl.github.io/note/2026-08-05-%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%9B%B4%E6%96%B0/",
+      "date": "2026-08-05T16:00:00.000Z",
+      "description": "如题",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "【公告】关于本站文章更新频率调整的相关说明",
@@ -1220,7 +1220,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "2026-02-01T02:44:53Z",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1229,7 +1229,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "2026-02-01T02:44:32Z",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1238,7 +1238,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "2026-01-30T16:00:03Z",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1283,7 +1283,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "2026-01-02T06:24:00Z",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1301,7 +1301,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "2025-12-30T16:00:00Z",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
