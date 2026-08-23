@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-23T05:56:14.233Z",
+  "updated_at": "2026-08-23T06:28:00.661Z",
   "count": 144,
   "list": [
+    {
+      "title": "『随笔』手持搭载骁龙8+G1的华为P60的我",
+      "link": "https://blog.byside.top/archives/20260823_1",
+      "date": "Sun, 23 Aug 2026 06:00:06 GMT",
+      "description": "作为华为P60机主，作者使用该机近三年。P60无法升级鸿蒙5及以上系统，仅支持4G网络，无星闪技术。手机做工优良，掉落无损坏，但电池健康度降至89%，需频繁充电。作为半华为全家桶用户，依赖生态便利，但手机和电脑无星闪，手表不支持连接耳机，限制耳机功能。骁龙8+G1性能够用，但8G运行内存导致后台被杀；蓝牙延迟影响游戏体验。相机在高温下过热无法拍照。作者欣赏鸿蒙6 UI，但鸿蒙4.2 UI不如意。整",
+      "site": "拥抱日出的小屋",
+      "siteUrl": "https://blog.byside.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
+    },
     {
       "title": "给博客新增了一个项目",
       "link": "https://lzh1.cn/?post=53",
@@ -1090,15 +1099,6 @@
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
-    },
-    {
-      "title": "『折腾日记』续-路由器漫游问题",
-      "link": "https://blog.byside.top/archives/20260510_2",
-      "date": "Sun, 10 May 2026 10:55:10 GMT",
-      "description": "作者因AX 3路由器全屋组网时出现游戏漫游断连问题，联系华为客服。工程师建议在“智慧生活”APP提交工单并附日志，分析原因为两台路由器信号偏差导致漫游丢包。经调整路由器位置、固定5GHz信道至44后，无线连接速率显著提升，漫游检测显示丢包次数为0，问题解决。客服响应高效，最终通过简单调整解决了长期困扰的漫游丢包问题。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
     },
     {
       "title": "WTF！小米MiMo送百万亿Token!",
