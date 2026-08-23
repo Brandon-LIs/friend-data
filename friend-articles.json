@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T15:44:25.236Z",
-  "count": 144,
+  "updated_at": "2026-08-23T16:13:24.818Z",
+  "count": 149,
   "list": [
     {
       "title": "川西漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由",
@@ -19,6 +19,15 @@
       "site": "拥抱日出的小屋",
       "siteUrl": "https://blog.byside.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
+    },
+    {
+      "title": "讲讲「万物皆虚，万事皆允」",
+      "link": "https://xice.cx/posts/nothingIsTrue/",
+      "date": "2026-08-23T00:00:00.000Z",
+      "description": "今天来讲一下我比较喜欢的slogan中的其中之一： 万物皆虚，万事皆允 这句话最常见的误读是虚无主义加为所欲为：什么都不是真的，所以什么都可以做。这个读法听起来顺，但如果万物皆虚，那\"万物皆虚\"这句话本身也是虚的，它第一个就把自己杀死了，所以我认为他不成立 “虚\"不是\"不存在”，也不是\"虚假\"。 椅子是虚的，不是说椅子不存在，而是说椅子没有一个永恒的\"椅子性\"。它是木头拼的，会腐烂，换个文化可能叫",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "给博客新增了一个项目",
@@ -523,15 +532,6 @@
       "site": "MingBlog",
       "siteUrl": "https://mingblog.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
-    },
-    {
-      "title": "舞萌DX国服封禁机制详解",
-      "link": "https://xice.cx/posts/maimaiBS/",
-      "date": "2026-08-08T00:00:00.000Z",
-      "description": "引 在前段时间，舞萌更新DX2026时，有个特殊的搭档 liz ，也许是因为SEGA/华立在乎 kaleidcsope 模式的特殊性，也可能是因为过于泛滥，在七月22日，华立对国服非法获取liz搭档的账号全部发了bs1封禁，上一次发生这种官方下场声明发bs大概还是2024的集章卡乐曲 latent kingdom ，那么相信很多人对国服的封禁机制有一些好奇，甚至有些试图以科技方式修改掉bs1，本文",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "【26年31周记】琐事记",
@@ -1182,6 +1182,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "2026-02-01T02:44:53Z",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "2026-02-01T02:44:32Z",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "2026-01-30T16:00:03Z",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1209,6 +1236,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "2026-01-02T06:24:00Z",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1216,6 +1252,15 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "2025-12-30T16:00:00Z",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
