@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:40:59.489Z",
+  "updated_at": "2026-08-26T07:38:07.747Z",
   "count": 149,
   "list": [
     {
@@ -46,6 +46,15 @@
       "site": "日和",
       "siteUrl": "https://codevfun.work",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+    },
+    {
+      "title": "开学了，博客又要何去何从",
+      "link": "https://upxuu.com/posts/bloglog260826/",
+      "date": "Wed, 26 Aug 2026 06:07:37 GMT",
+      "description": "暑假结束新学期开始，盘点博客近期优化：韩国阿里云联通专线、Vercel 优选 IP 分流、华为云 DNS 地域解析、EdgeOne 图床，以及 Waline AI 评论审核小项目；展望 UPXUU.COM 的未来——更新随缘，但有多地监控 + DNS 自动切换保可用。",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "川西暑漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由",
@@ -214,15 +223,6 @@
       "link": "https://upxuu.com/posts/ox-alpha/",
       "date": "Fri, 21 Aug 2026 04:30:00 GMT",
       "description": "昨天晚上 OpenRouter 上突然冒出一个名为 Ox Alpha 的匿名模型：输入输出全部 0 元、1M 上下文、原生多模态，opencode 官方推文还承诺免费一周 + 每日 100T token 容量。全网都在猜它到底是谁家的孩子……",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
-      "title": "震撼首发！英伟达推出免费kimi k3！且速度极快，白嫖界迎来巨变|nvida nim|免费AI",
-      "link": "https://upxuu.com/posts/free-kimi/",
-      "date": "Thu, 20 Aug 2026 23:52:49 GMT",
-      "description": "是的你没有看错，就是那个极其昂贵的kimi k3模型已经上架英伟达的免费ai平台了！！",
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
