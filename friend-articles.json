@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T05:46:40.424Z",
-  "count": 138,
+  "updated_at": "2026-08-27T17:05:33.836Z",
+  "count": 143,
   "list": [
     {
       "title": "Godot：微型游戏的目录别摊成一锅",
@@ -48,6 +48,24 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
+      "title": "新插件发布，Halo 展示架：打造自己的专属收藏展示页面",
+      "link": "https://wangxinyang.top/archives/halo-zhan-shi-jia-da-zao-zi-ji-de-zhuan-shu-shou-cang-zhan-shi-ye-mian",
+      "date": "Thu, 27 Aug 2026 12:17:50 GMT",
+      "description": "一、前言 如果你使用 Halo 创建的博客，想要把自己看过的动漫、电影、书籍和游戏单独整理出来，那么“展示架”插件可以把这些内容变成一个公开、漂亮、方便浏览的收藏页面。 在Halo后台的应用市场安装“展示架”插件后，插件会自动创建展示页面：https://你的域名/movie",
+      "site": "wangxinyang",
+      "siteUrl": "https://wangxinyang.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
+    },
+    {
+      "title": "抗台干活",
+      "link": "https://lzh1.cn/?post=56",
+      "date": "Thu, 27 Aug 2026 19:42:10 +0800",
+      "description": "下午跟着村里去易积水的区域拿沙袋把前后路口都封死了防止水倒灌进入居民家里。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
       "title": "川西暑漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由",
       "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d1-d2-cong-ping-yuan-ben-fu-shan-hai-chu-yu-gao-yuan-de-feng-yu-zi-you",
       "date": "Thu, 27 Aug 2026 01:46:40 GMT",
@@ -73,6 +91,15 @@
       "site": "睿朗的小窝",
       "siteUrl": "https://iamcrl.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
+      "title": "Google相册迁移到iCloud分享",
+      "link": "https://xice.cx/posts/googlePhoto2iCloud/",
+      "date": "2026-08-27T00:00:00.000Z",
+      "description": "分享一下Google photo转iCloud的经历",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "开始上高一了，比较忙，停更一段时间，各位互链站长勿下链！！！🙏",
@@ -291,15 +318,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
-      "title": "重新启用登录评论并增加了认证功能",
-      "link": "https://lzh1.cn/?post=49",
-      "date": "Wed, 19 Aug 2026 21:03:23 +0800",
-      "description": "最近评论广告猖獗然后又看到小曦的园子的评论有认证图标就打算自己也做一个。 认证图标采用是应用商店里的徽章生成器插件，颁发认证图标是自己做的一个插件对接官方用户系统。 友联以后注册的用户会给这个认证。 注册用户评论以后会给这个认证。 评论五条的用户会给这个认证。 如果有赞助商会给这个认证。 注册用户我都会给认证，如果没给就是没看后台可以提醒我一下。",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
       "title": "游玩日记·第二期",
       "link": "https://blog.weasel6.cn/posts/life-second/",
       "date": "Wed, 19 Aug 2026 11:16:00 GMT",
@@ -444,15 +462,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
-      "title": "我试着把一张风景照变成一束花",
-      "link": "https://mingblog.site/posts/floraform-bouquet/",
-      "date": "Wed, 12 Aug 2026 00:00:00 GMT",
-      "description": "最近做了一个叫 FloraForm 的小工具。上传一张照片，它会参考画面的颜色和构图设计花束，并给出效果图与花材清单。",
-      "site": "MingBlog",
-      "siteUrl": "https://mingblog.site/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
-    },
-    {
       "title": "可以临摹万字的书法学习软件",
       "link": "https://blog.8765777.xyz/posts/post-20260812-81yfte/",
       "date": "Wed, 12 Aug 2026 00:00:00 GMT",
@@ -552,15 +561,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
-      "title": "做了一个明日方舟-奇象巡展的像素画拼豆工具",
-      "link": "https://xice.cx/posts/ark24/",
-      "date": "2026-08-09T00:00:00.000Z",
-      "description": "明日方舟最近不是更新了个奇象巡展吗，里面有个像素画功能，给了24x24像素的画布，以及四十种颜色，本人在画某些特别复杂的图的时候也确实比较低技术力，怎么画都画不好，然后就有了搓一个自动压缩工具，然后照着提示去挨个画 最终做出来的成品就是： 明日方舟-奇象巡演 像素画取色工具 Chongxi本身学的就是react啊，很自然的就选了vite+react的底层，然后UI的话，我是自己搓了一套组件，我现在",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
       "title": "试玩神人游戏《完蛋！我被男同学包围了》",
       "link": "https://474029.xyz/posts/shi-wan-wdwbntxbwl-game/",
       "date": "Sat, 08 Aug 2026 08:41:00 GMT",
@@ -577,15 +577,6 @@
       "site": "xf_blog",
       "siteUrl": "https://husd.cc.cd/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
-      "title": "从尚未竣工到绿树成荫：广汉中学新校园的这几年",
-      "link": "https://mingblog.site/posts/guanghan-school-campus-years/",
-      "date": "Sat, 08 Aug 2026 00:00:00 GMT",
-      "description": "一组按时间整理的照片，记录四川省广汉中学新校园从刚建成、逐步启用，到操场、礼堂和绿化慢慢完善的几年。",
-      "site": "MingBlog",
-      "siteUrl": "https://mingblog.site/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
       "title": "【26年31周记】琐事记",
@@ -640,15 +631,6 @@
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
-    },
-    {
-      "title": "把场景拆开，再重新相遇",
-      "link": "https://mingblog.site/posts/scene-notes-2026/",
-      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
-      "description": "分享三个把照片变成视觉笔记的 skill：提炼场景的骨架、重新收集碎片、为一张照片建立证据账本，以及它们各自产出的作品。",
-      "site": "MingBlog",
-      "siteUrl": "https://mingblog.site/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
       "title": "全栈开发Skill矩阵：从前端审美到后端运维，打造完整AI开发流水线",
@@ -804,6 +786,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
     },
     {
+      "title": "BlogsClub二周年快乐",
+      "link": "https://blog.elysium-stack.cn/posts/bc-2nd-anniversary/",
+      "date": "Wed, 22 Jul 2026 15:37:00 GMT",
+      "description": "BlogsClub二周年快乐，迟来的庆贺文与纪念品返图！",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "欢呼吧！新的博客",
       "link": "https://loneapex.cn/shuoshuo/%e6%96%b0%e7%9a%84%e5%8d%9a%e5%ae%a2%ef%bc%9f%ef%bc%81",
       "date": "Wed, 22 Jul 2026 11:29:36 +0000",
@@ -829,15 +820,6 @@
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
-      "title": "把照片放回地图：我做了一个 Photo Walk",
-      "link": "https://mingblog.site/posts/photo-walk-chongqing-2023/",
-      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
-      "description": "用 2023 年的一天重庆影像，介绍我如何把散落在相册里的照片重新放回时间和地图，并导出成可以嵌入博客的交互作品。",
-      "site": "MingBlog",
-      "siteUrl": "https://mingblog.site/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
       "title": "童年回忆补完计划：上海科技馆专题",
@@ -910,15 +892,6 @@
       "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
       "siteUrl": "https://66619.eu.org",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
-    },
-    {
-      "title": "广汉十月：静态管理的昼与夜",
-      "link": "https://mingblog.site/posts/guanghan-october-2022/",
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "description": "2022年10月的四川广汉，静态管理下空荡的街道、限时的出入证、凌晨等解封的人群。没有宏大叙事，只有那个秋天里零碎又真实的日常碎片。",
-      "site": "MingBlog",
-      "siteUrl": "https://mingblog.site/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
       "title": "夏雨自读",
@@ -1047,15 +1020,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
-      "title": "PPT Master 使用教程：用 VS Code 和 AI 生成可编辑 PPTX",
-      "link": "https://wangxinyang.top/archives/ppt-master-cong-0-dao-1-xiao-bai-shi-yong-jiao-cheng-yong-vs-code-he-ai-sheng-cheng-ke-bian-ji-pptx",
-      "date": "Mon, 15 Jun 2026 10:44:46 GMT",
-      "description": "一、PPT Master 是什么？ヾ(≧▽≦*)o 适合人群：会打开 VS Code，但不熟悉 Python 项目、不知道怎么配置 API Key、想先跑通一份真正可编辑 PPT 的用户。 PPT Master 是一个开源 AI PPT 工作流项目。它不是网页上的\"一键生成 PPT\"工具，而是一套放",
-      "site": "wangxinyang",
-      "siteUrl": "https://wangxinyang.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
-    },
-    {
       "title": "追更：个站商店 & 简笔记作者脱口秀专场",
       "link": "https://i.limhy.cn/blog/187/",
       "date": "Sun, 14 Jun 2026 18:05:00 +0800",
@@ -1164,6 +1128,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1171,6 +1162,15 @@
       "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
       "siteUrl": "https://66619.eu.org",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
+    },
+    {
+      "title": "明日方舟终末地工具站汇总",
+      "link": "https://blog.elysium-stack.cn/posts/arknights-endfield-tools/",
+      "date": "Thu, 22 Jan 2026 11:19:00 GMT",
+      "description": "汇总明日方舟终末地相关工具网站，涵盖协议终端、基质规划器、量化计算器、排轴终端、互动地图、剧情检索、一图流、拼图解密、Wiki及MAA小助手等实用资源",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "🌌 最终测试：超弦虚空接口",
@@ -1182,6 +1182,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1191,6 +1200,24 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "告别2025 迎接2026",
+      "link": "https://blog.elysium-stack.cn/posts/happy-new-year-2026/",
+      "date": "Mon, 29 Dec 2025 17:19:00 GMT",
+      "description": "2025年终总结，回顾博客建设、情感生活、明日方舟、旅行与演唱会等",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "马生复宋濂书",
       "link": "https://xinyang-gao.github.io/articles/马生复宋濂书.html",
       "date": "Tue, 09 Dec 2025 00:00:00 GMT",
@@ -1198,6 +1225,15 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
+      "title": "2025.12.2 祝我生日快乐",
+      "link": "https://blog.elysium-stack.cn/posts/birthday-20251202/",
+      "date": "Tue, 02 Dec 2025 12:02:00 GMT",
+      "description": "生日感悟——学会与自己和解、学会珍惜、学会告别",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "“Abord”的开发碎碎念",
@@ -1216,6 +1252,15 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
+      "title": "Elysium-Meting-Api公益服务",
+      "link": "https://blog.elysium-stack.cn/posts/elysium-meting-api/",
+      "date": "Sat, 11 Oct 2025 18:15:00 GMT",
+      "description": "基于Meting-API自建的公开音乐API服务，支持网易云、QQ音乐等多平台搜索与播放链接获取",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "I want you never to forget me…",
