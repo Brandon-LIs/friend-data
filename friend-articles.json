@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T17:05:33.836Z",
-  "count": 143,
+  "updated_at": "2026-08-28T01:34:12.450Z",
+  "count": 148,
   "list": [
     {
       "title": "Godot：微型游戏的目录别摊成一锅",
@@ -91,6 +91,15 @@
       "site": "睿朗的小窝",
       "siteUrl": "https://iamcrl.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
+      "title": "三个小工具，三个小问题",
+      "link": "https://mingblog.site/posts/recent-side-projects/",
+      "date": "Thu, 27 Aug 2026 00:00:00 GMT",
+      "description": "这段时间陆续做了三个小工具：一个浏览器里跑的心理学实验平台、一个跨城公交路线探索工具，还有一个预测市场变化雷达。都是开源的，在这里简单介绍一下。",
+      "site": "MingBlog",
+      "siteUrl": "https://mingblog.site/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
       "title": "Google相册迁移到iCloud分享",
@@ -462,6 +471,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
+      "title": "我试着把一张风景照变成一束花",
+      "link": "https://mingblog.site/posts/floraform-bouquet/",
+      "date": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "description": "最近做了一个叫 FloraForm 的小工具。上传一张照片，它会参考画面的颜色和构图设计花束，并给出效果图与花材清单。",
+      "site": "MingBlog",
+      "siteUrl": "https://mingblog.site/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
+    },
+    {
       "title": "可以临摹万字的书法学习软件",
       "link": "https://blog.8765777.xyz/posts/post-20260812-81yfte/",
       "date": "Wed, 12 Aug 2026 00:00:00 GMT",
@@ -579,6 +597,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
+      "title": "从尚未竣工到绿树成荫：广汉中学新校园的这几年",
+      "link": "https://mingblog.site/posts/guanghan-school-campus-years/",
+      "date": "Sat, 08 Aug 2026 00:00:00 GMT",
+      "description": "一组按时间整理的照片，记录四川省广汉中学新校园从刚建成、逐步启用，到操场、礼堂和绿化慢慢完善的几年。",
+      "site": "MingBlog",
+      "siteUrl": "https://mingblog.site/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
+    },
+    {
       "title": "【26年31周记】琐事记",
       "link": "https://www.haoyu233.com/2668.html",
       "date": "Fri, 07 Aug 2026 18:28:59 +0000",
@@ -631,6 +658,15 @@
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
+    },
+    {
+      "title": "把场景拆开，再重新相遇",
+      "link": "https://mingblog.site/posts/scene-notes-2026/",
+      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "description": "分享三个把照片变成视觉笔记的 skill：提炼场景的骨架、重新收集碎片、为一张照片建立证据账本，以及它们各自产出的作品。",
+      "site": "MingBlog",
+      "siteUrl": "https://mingblog.site/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
       "title": "全栈开发Skill矩阵：从前端审美到后端运维，打造完整AI开发流水线",
@@ -820,6 +856,15 @@
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
+      "title": "把照片放回地图：我做了一个 Photo Walk",
+      "link": "https://mingblog.site/posts/photo-walk-chongqing-2023/",
+      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "description": "用 2023 年的一天重庆影像，介绍我如何把散落在相册里的照片重新放回时间和地图，并导出成可以嵌入博客的交互作品。",
+      "site": "MingBlog",
+      "siteUrl": "https://mingblog.site/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
       "title": "童年回忆补完计划：上海科技馆专题",
