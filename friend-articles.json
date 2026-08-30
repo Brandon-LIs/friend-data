@@ -1,51 +1,24 @@
 {
-  "updated_at": "2026-08-30T02:27:00.897Z",
-  "count": 153,
+  "updated_at": "2026-08-30T08:27:20.204Z",
+  "count": 148,
   "list": [
     {
-      "title": "Godot：微型游戏的目录别摊成一锅",
-      "link": "https://codevfun.work/writing/godot-project-folders",
-      "date": "Fri, 04 Sep 2026 04:00:00 GMT",
-      "description": "scenes、actors、ui、audio 分开。uid 文件跟着资源走。十个文件时就要定规矩。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+      "title": "为什么方向盘是最适合暑假玩的游戏",
+      "link": "https://blog.0c0.ren/archives/17/",
+      "date": "Sun, 30 Aug 2026 07:15:00 +0000",
+      "description": "毫无疑问，旋转音律是最适合在手机上游玩的音游，毕竟谁会抱着更重的 iPad 转来转去同时旋转音律也有不错的曲目质量，上手难度也不是很高，总之就是很好玩",
+      "site": "0c0 的小窝",
+      "siteUrl": "https://blog.0c0.ren",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
     },
     {
-      "title": "Godot：导出 HTML5 塞进博客",
-      "link": "https://codevfun.work/writing/godot-export-html5",
-      "date": "Thu, 03 Sep 2026 04:00:00 GMT",
-      "description": "Web 导出要开线程和 CORS 注意项。放进 Next 的 public 目录，用 iframe 包一层。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
-    },
-    {
-      "title": "Godot：做一局只有十秒的小游戏",
-      "link": "https://codevfun.work/writing/godot-ten-second-loop",
-      "date": "Wed, 02 Sep 2026 04:00:00 GMT",
-      "description": "微型游戏的核心是一局规则。Timer 到点结算，比做开放世界先练手。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
-    },
-    {
-      "title": "Godot：ConfigFile 记下最高分",
-      "link": "https://codevfun.work/writing/godot-configfile-highscore",
-      "date": "Tue, 01 Sep 2026 04:00:00 GMT",
-      "description": "user:// 才能写盘。JSON 能用，ConfigFile 更适合几个键值。别往 res:// 里 save。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
-    },
-    {
-      "title": "Godot：切关卡不要 pause 整个树硬切",
-      "link": "https://codevfun.work/writing/godot-change-scene",
-      "date": "Mon, 31 Aug 2026 04:00:00 GMT",
-      "description": "change_scene_to_file 足够微型游戏。门口用 Area2D，目标场景做成导出路径。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+      "title": "卖废品",
+      "link": "https://lzh1.cn/?post=59",
+      "date": "Sun, 30 Aug 2026 11:12:05 +0800",
+      "description": "我妈把她房间以前央企的资料书全部翻了出来，本来说让我拿外婆家引火我说那么重可以卖了，我拿去卖废品阿公这里卖了20块钱",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "观展手记｜走进 Formnext Asia 深圳展",
@@ -327,15 +300,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
-      "title": "给博客新增了一个项目",
-      "link": "https://lzh1.cn/?post=53",
-      "date": "Sun, 23 Aug 2026 00:42:49 +0800",
-      "description": "我访问某个博客发现博主搞了论坛来给其他访客发布帖子，我发现程序有个微语配合上前台展示插件也可以就做了。 点击导航栏的树洞或者直接访问https://lzh1.cn/?plugin=mood 就可以发布文字。 发布文字登录方法： 1.注册用户可以直接登录，未注册先点导航栏【我的】进行注册然后修改用户名（系统的注册是无法修改用户名的） 2.电脑端直接点击右下角的第一个小人按钮转跳登录页面。 3.手机端",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
       "title": "广西什么**网",
       "link": "https://xfcnl.github.io/tech/2026-08-22-post/",
       "date": "2026-08-22T00:00:00.000Z",
@@ -487,15 +451,6 @@
       "site": "黄鼠狼的树洞",
       "siteUrl": "https://blog.weasel6.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "上学坏 😡😭",
-      "link": "https://blog.0c0.ren/archives/6/",
-      "date": "Fri, 14 Aug 2026 12:12:00 +0000",
-      "description": "太不妙了，旅游回来，感觉没过几天就得上学了 😭本来计划趁这段时间去多玩玩舞萌的，舞萌吃太可怕了。",
-      "site": "0c0 的小窝",
-      "siteUrl": "https://blog.0c0.ren",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
     },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
