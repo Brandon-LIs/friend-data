@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T08:27:20.204Z",
-  "count": 148,
+  "updated_at": "2026-08-30T13:53:49.166Z",
+  "count": 153,
   "list": [
     {
       "title": "为什么方向盘是最适合暑假玩的游戏",
@@ -10,6 +10,24 @@
       "site": "0c0 的小窝",
       "siteUrl": "https://blog.0c0.ren",
       "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
+    },
+    {
+      "title": "Godot：音效别直接拖进脚本路径",
+      "link": "https://codevfun.work/writing/godot-audio-stream-player",
+      "date": "Sun, 30 Aug 2026 04:00:00 GMT",
+      "description": "AudioStreamPlayer 当节点，stream 用导出。同时两声用 Autoload 或再实例化一个播放器。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+    },
+    {
+      "title": "Godot：微型游戏的目录别摊成一锅",
+      "link": "https://codevfun.work/writing/godot-project-folders",
+      "date": "Sun, 30 Aug 2026 04:00:00 GMT",
+      "description": "scenes、actors、ui、audio 分开。uid 文件跟着资源走。十个文件时就要定规矩。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
       "title": "卖废品",
@@ -55,6 +73,24 @@
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "Godot：AnimationPlayer 播走路",
+      "link": "https://codevfun.work/writing/godot-animationplayer-walk",
+      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
+      "description": "SpriteFrames 做循环，AnimationPlayer 做一次性动作。走路用速度切动画，不要用按键硬切。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
+    },
+    {
+      "title": "Godot：导出 HTML5 塞进博客",
+      "link": "https://codevfun.work/writing/godot-export-html5",
+      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
+      "description": "Web 导出要开线程和 CORS 注意项。放进 Next 的 public 目录，用 iframe 包一层。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
       "title": "我删掉了手机里的一张照片",
@@ -136,6 +172,15 @@
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
+      "title": "Godot：子弹和碰撞层",
+      "link": "https://codevfun.work/writing/godot-bullets-collision-layers",
+      "date": "Fri, 28 Aug 2026 04:00:00 GMT",
+      "description": "子弹用 Area2D 平移。层和遮罩分清楚，才不会打到自己、穿过墙。",
+      "site": "日和",
+      "siteUrl": "https://codevfun.work",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
       "title": "新插件发布，Halo 展示架：打造自己的专属收藏展示页面",
