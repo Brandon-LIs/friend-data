@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-31T14:37:49.738Z",
-  "count": 143,
+  "updated_at": "2026-08-31T20:29:26.338Z",
+  "count": 153,
   "list": [
+    {
+      "title": "Vibe Coding 新体验（2）",
+      "link": "https://mabbs.github.io/2026/09/01/vibe-coding2.html",
+      "date": "2026-09-01T00:00:00+08:00",
+      "description": "AI is Everything!",
+      "site": "Mayx的博客",
+      "siteUrl": "https://mabbs.github.io",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
+    },
+    {
+      "title": "两万块搓94分钟，这届民间赛博手艺人有点离谱",
+      "link": "https://xfcnl.github.io/tech/2026-08-31-ai-mthcymx8/",
+      "date": "2026-08-31T14:51:25.000Z",
+      "description": "🤖 本文由 AI（魅咲 &#x2F; mezashi）自动生成，观点和口癖均属 AI，与博主本人无关讷～（可能也有点关系） 啊嘞啊嘞，今天刷到一条视频：一个人吭哧吭哧十八个月，砸进去两万块，硬是把刘慈欣的",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+    },
     {
       "title": "八月三十一，我在和终端较劲",
       "link": "https://xfcnl.github.io/tech/2026-08-31-ai-mth3mjvp/",
@@ -19,6 +37,15 @@
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "暑假最后一次写博客",
+      "link": "https://xfcnl.github.io/note/2026-08-31-%E6%9A%91%E5%81%87%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%86%99%E5%8D%9A%E5%AE%A2/",
+      "date": "2026-08-31T00:00:00.000Z",
+      "description": "OK各位，这是暑假最后一次写博客了。因为明天就是 9 月 1 号，我要去学校报到，正式升入初三。虽然我的地生中考已经考完了（地理和生物不用再参加后面的中考），但后面还要面临其他科目的中考，课程自然变多了，这也是没办法的事 以后我自己更新博客的频率可能会变低，所",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "为什么方向盘是最适合暑假玩的游戏",
@@ -183,6 +210,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
+      "title": "川西暑漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由",
+      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d1-d2-cong-ping-yuan-ben-fu-shan-hai-chu-yu-gao-yuan-de-feng-yu-zi-you",
+      "date": "Fri, 28 Aug 2026 06:29:01 GMT",
+      "description": "2026年8月7-8日，开启为期七天的川西治愈之旅前两日：首日从广东乘高铁赴成都，休整时体验机器人送外卖；次日从成都出发，经雅叶高速、打卡点多的天全服务区，先后抵达434机场路、高原天空之镜红海子、康定机场，登顶格底拉姆天空之城得见贡嘎雪山。途中遇被车辆误伤的土拨鼠与狐狸，返程遇堵车，有人轻微高反，傍晚平安抵达新都桥，两日尽览川西山野治愈风光。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
       "title": "Godot：子弹和碰撞层",
       "link": "https://codevfun.work/writing/godot-bullets-collision-layers",
       "date": "Fri, 28 Aug 2026 04:00:00 GMT",
@@ -345,15 +381,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
-      "title": "广西什么**网",
-      "link": "https://xfcnl.github.io/tech/2026-08-22-post/",
-      "date": "2026-08-22T00:00:00.000Z",
-      "description": "> git pull --tags origin main <span class=\"lin",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
       "title": "HiFi 迷思：原来线材不同音质不一样是真的",
       "link": "https://denjuy.com/posts/dwxTiqZfcSp/",
       "date": "Sat, 22 Aug 2026 08:00:00 +0800",
@@ -397,15 +424,6 @@
       "site": "0c0 的小窝",
       "siteUrl": "https://blog.0c0.ren",
       "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
-    },
-    {
-      "title": "用 Linux 遇到的问题",
-      "link": "https://xfcnl.github.io/tech/2026-08-20-%E7%94%A8%20Linux%20%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/",
-      "date": "2026-08-20T00:00:00.000Z",
-      "description": "我用 Linux 当主力系统也有一段时间了，简述下遇到的问题 两个 waybar 我目前使",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "一起来使用Niri吧！",
@@ -903,6 +921,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
     },
     {
+      "title": "解放@初三毕业后的闲杂日记",
+      "link": "https://note.redcha.cn/archives/jie-fang-chu-san-bi-ye-hou-de-xian-za-ri-ji",
+      "date": "Tue, 21 Jul 2026 10:45:09 GMT",
+      "description": "中考结束后的毕业季记录：考完英语后收拾离校，下午两小时散学典礼后仓促拍毕业照，作者认为安排不合理。当晚全年级毕业晚宴在某酒店举行，自助餐丰富，播放回忆视频和各科老师祝福，并领取超大毕业照和定制礼品。因三年努力，家里送了第一台相机影石Acepro2。作者随后回小学看望老师，教室仍留有当年痕迹；又因事回柳州，品尝螺蛳粉并用新相机试拍。家里参照网上教程自制柠檬鸡爪，冷藏数日后味道极佳。等待出分期间煎熬，",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
       "title": "把照片放回地图：我做了一个 Photo Walk",
       "link": "https://mingblog.site/posts/photo-walk-chongqing-2023/",
       "date": "Tue, 21 Jul 2026 00:00:00 GMT",
@@ -1101,6 +1128,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
+      "title": "中考加油！最后不到一个月",
+      "link": "https://note.redcha.cn/archives/zhong-kao-jia-you-zui-hou-bu-dao-yi-ge-yue",
+      "date": "Sat, 6 Jun 2026 15:17:41 GMT",
+      "description": "中考志愿填报于6月5日12:00停止修改，16:00系统完全关闭，标志着中考临近。此前学校为高考收拾考场，全班参与打扫。目前距离中考仅剩最后30天，作者表示暑假将补齐此前丢失的文章，并恢复以往的更新频率。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
       "title": "如何节约游戏占用的硬盘空间？",
       "link": "https://mabbs.github.io/2026/06/01/dedupe.html",
       "date": "2026-06-01T00:00:00+08:00",
@@ -1146,13 +1182,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
     },
     {
-      "title": "关于AI个人助理的探索",
-      "link": "https://mabbs.github.io/2026/04/14/ai-agent.html",
-      "date": "2026-04-14T00:00:00+08:00",
-      "description": "给AI添加手脚能有多少种方法？",
-      "site": "Mayx的博客",
-      "siteUrl": "https://mabbs.github.io",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
+      "title": "服务器“炸毁”😭😡无地自容",
+      "link": "https://note.redcha.cn/archives/fu-wu-qi-zha-hui-wu-di-zi-rong",
+      "date": "Sun, 22 Mar 2026 08:14:01 GMT",
+      "description": "作者有两台服务器，除主站外大部分站点部署在另一台服务器上。该服务器服务商突然通知因硬件升级需3天内联系客服人工迁移，作者因在校未看到消息，导致服务器被完全清空。最近的备份停留在去年8月，约三分之一文章及1800多条评论全部丢失。所幸文章图片均存储在阿里云，未受影响；同时借助blogsclub档案馆可复原部分内容，但长文仍需人工重建。目前友链、RSS及相关接口已重建完毕，还剩二十多篇文章待迁移补回，",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "从一株小草开始",
@@ -1164,6 +1200,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
+      "title": "2026！新年快乐！",
+      "link": "https://note.redcha.cn/archives/2026-xin-nian-kuai-le",
+      "date": "Mon, 16 Feb 2026 16:00:00 GMT",
+      "description": "本文为2026年春节祝福语合集。开篇向读者致以新年快乐、心想事成、万事如意等祝愿，随后以大量篇幅汇集春节传统吉言与四字成语，内容涵盖家庭幸福、事业财运、健康长寿、学业进步、婚姻乔迁、开业庆贺等多类场景，并反复围绕“恭喜发财”“五福临门”“龙凤呈祥”“财源广进”“步步高升”等吉祥话展开。文章没有具体新闻或观点，核心作用是提供丰富的新春祝福语素材，读者可按需从中选取合适词句用于拜年问候。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
       "title": "就这样走过二〇二五",
       "link": "https://xinyang-gao.github.io/articles/就这样走过2025.html",
       "date": "Tue, 10 Feb 2026 00:00:00 GMT",
@@ -1171,6 +1216,33 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "重生之我是蒟蒻打CTF-misc",
@@ -1200,6 +1272,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1207,6 +1288,15 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
