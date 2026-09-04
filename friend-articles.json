@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T21:36:53.398Z",
-  "count": 143,
+  "updated_at": "2026-09-04T23:34:04.611Z",
+  "count": 153,
   "list": [
     {
       "title": "『优化日记』在AI的帮助下完成了部分优化",
@@ -19,6 +19,15 @@
       "site": "0c0 的小窝",
       "siteUrl": "https://blog.0c0.ren",
       "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
+    },
+    {
+      "title": "我做了一个whois查询网站",
+      "link": "https://lzh1.cn/?post=62",
+      "date": "Fri, 04 Sep 2026 21:45:05 +0800",
+      "description": "最近突发奇想做一个whois查询网站，找了一个合适的API接口让豆包帮我生成一个html所有东西都挤在这个文件里。 一开始做的页面太普通一眼就能让人知道是AI做的，改了好几次都不满意突然想起Windows98那种复古风就让豆包照做了。 做好以后我在京东云1元注册了一个cn域名绑定到了腾讯云的Makers，Makers有很大的问题跨境无法访问手机端只支持在谷歌内核的浏览器，问了客服说跨境母办法解决只",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "不知道吃啥，那就见什么吃什么",
@@ -55,6 +64,24 @@
       "site": "云白",
       "siteUrl": "https://denjuy.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
+    },
+    {
+      "title": "清平乐·夜见双猫嬉斗",
+      "link": "https://lzh1.cn/?post=61",
+      "date": "Wed, 02 Sep 2026 07:41:11 +0800",
+      "description": "晚风街郭，拾得狸奴阔。 乍遇野雏相扑搏，满地翻腾嬉跃。 新来胆气昂昂，野崽毛奋锋芒。 袖手旁观未扰，任它戏斗阶旁。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "村里做戏还分东西",
+      "link": "https://lzh1.cn/?post=60",
+      "date": "Tue, 01 Sep 2026 21:25:22 +0800",
+      "description": "下午5点去戏台坐着一直坐到8点50左右开始分东西，分了鸡蛋饼一包，雪饼一包，年糕一条，红枣一包，糯米一袋，八宝粥一罐，方便面两包。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "初三从差点没吃上饭开始",
@@ -165,6 +192,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
+      "title": "卖废品",
+      "link": "https://lzh1.cn/?post=59",
+      "date": "Sun, 30 Aug 2026 11:12:05 +0800",
+      "description": "我妈把她房间以前央企的资料书全部翻了出来，本来说让我拿外婆家引火我说那么重可以卖了，我拿去卖废品阿公这里卖了20块钱",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
       "title": "观展手记｜走进 Formnext Asia 深圳展",
       "link": "https://wangxinyang.top/archives/guan-zhan-shou-ji-zou-jin-formnext-asia-shen-zhen-zhan",
       "date": "Sat, 29 Aug 2026 12:49:04 GMT",
@@ -172,6 +208,15 @@
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
+    },
+    {
+      "title": "斥巨资买了个小米充气宝",
+      "link": "https://lzh1.cn/?post=57",
+      "date": "Sat, 29 Aug 2026 15:07:20 +0800",
+      "description": "开完会回家被邻居叫住了说我车后左轮没气了，我打电话给我爸我爸说让我换上备胎开车去充气，我说买个充气的回来就好了，跟他争执不下我直接买了个小米充气宝。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "为什么，我们希望被看见——浅谈upxuu的建站心得",
@@ -1173,6 +1218,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1200,6 +1272,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1207,6 +1288,15 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
