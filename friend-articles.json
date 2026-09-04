@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-04T16:30:15.066Z",
-  "count": 153,
+  "updated_at": "2026-09-04T19:03:30.499Z",
+  "count": 158,
   "list": [
+    {
+      "title": "『优化日记』在AI的帮助下完成了部分优化",
+      "link": "https://blog.byside.top/archives/20260905_1",
+      "date": "Fri, 4 Sep 2026 16:45:50 GMT",
+      "description": "因机房限制禁止访问非大陆服务器，博客迁移至NAS，等待新服务器运行Halo。作者利用AI优化博客：图片存储于图床（3天备份保留30天），视频存S3，重要文件存Halo；评论区表情包原加载缓慢，克隆至S3存储桶并AI修改json文件，提供在线表情源地址。操作步骤：进入Halo后台添加表情源，已启用需重新添加，已评论内容无法改变。读者可学习此优化提升博客性能。",
+      "site": "拥抱日出的小屋",
+      "siteUrl": "https://blog.byside.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
+    },
     {
       "title": "学校社交坏 😭",
       "link": "https://blog.0c0.ren/archives/18/",
@@ -858,6 +867,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
+      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
+      "link": "https://i.limhy.cn/blog/1/",
+      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
+      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "一次制作终端版博客的经历",
       "link": "https://mabbs.github.io/2026/08/01/terminal.html",
       "date": "2026-08-01T00:00:00+08:00",
@@ -865,6 +883,15 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
+    },
+    {
+      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
+      "link": "https://i.limhy.cn/blog/202/",
+      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
+      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "亿不小心破解了清北道远学习机",
@@ -973,15 +1000,6 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
-    },
-    {
-      "title": "『洛阳五日游』在牡丹花城内散步",
-      "link": "https://blog.byside.top/archives/20260719_1",
-      "date": "Sun, 19 Jul 2026 03:30:20 GMT",
-      "description": "作者在洛阳进行了五天旅行。Day 1因台风航班取消，住机场酒店。Day 2抵达洛阳，游览龙门石窟，始建于公元493年，工匠历时400年建成，游客众多。Day 3参观洛阳博物馆，镇墓兽印象深刻，并游览应天门。Day 4前往老君山，观赏金顶建筑群和王座。Day 5游览白马寺，了解其1900多年历史，包括泰国、缅甸、印度佛殿。行程中天气炎热，洛邑古城因雨中断。最后返程，期待再访洛阳。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
     },
     {
       "title": "白嫖DigitalPlat的免费域名x3！",
@@ -1126,6 +1144,33 @@
       "site": "涵哲子居",
       "siteUrl": "https://iluc.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
+    },
+    {
+      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
+      "link": "https://i.limhy.cn/blog/189/",
+      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
+      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
+      "link": "https://i.limhy.cn/blog/188/",
+      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
+      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
+      "link": "https://i.limhy.cn/blog/187/",
+      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
+      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "中考加油！最后不到一个月",
