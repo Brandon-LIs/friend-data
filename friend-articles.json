@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-05T02:00:40.997Z",
+  "updated_at": "2026-09-05T07:00:13.577Z",
   "count": 153,
   "list": [
+    {
+      "title": "乡愁，解不开的愁",
+      "link": "https://upxuu.com/posts/myhometown/",
+      "date": "Sat, 05 Sep 2026 03:48:19 GMT",
+      "description": "陕南秦岭脚下的一座小镇，脱贫摘帽之后，贫穷的阴影仍未散去。从绿皮火车到破桥几亿债，从父亲靠读书跨进生物医药大厂到邻居们依然深陷生存泥潭——乡愁，成了若不作为就永远解不开的愁。",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "川西暑漫记｜D3 翻越天路十八弯，驰骋世界高城理塘，奔赴稻城香格里拉",
+      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d3-fan-yue-tian-lu-shi-ba-wan-chi-cheng-shi-jie-gao-cheng-li-tang-ben-fu-dao-cheng-xiang-ge-li-la",
+      "date": "Sat, 5 Sep 2026 02:55:19 GMT",
+      "description": "2026年8月9日是川西行程第三天，当日沿G318打卡天路十八弯（因人流拥堵驻车拍摄），途经4288米梅朵措、4718米卡子拉山垭口（可俯瞰群山），抵达丁真故乡理塘，逛勒通古镇与长青春科尔寺，还经过毛垭大草原、地质奇观兔子山、海子山、稻城白塔。途中避开桑堆补给点宰客陷阱，夜宿香格里拉镇后高反缓解，已备齐稻城亚丁进山物资，期待次日行程。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
     {
       "title": "这是一篇测试照片的文章",
       "link": "https://lzh1.cn/?post=63",
@@ -48,13 +66,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
-      "title": "川西暑漫记｜D3 翻越天路十八弯，驰骋世界高城理塘，奔赴稻城香格里拉",
-      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d3-fan-yue-tian-lu-shi-ba-wan-chi-cheng-shi-jie-gao-cheng-li-tang-ben-fu-dao-cheng-xiang-ge-li-la",
-      "date": "Thu, 3 Sep 2026 09:40:09 GMT",
-      "description": "2026年8月9日是川西行程第三天，当日沿G318打卡天路十八弯（因人流拥堵驻车拍摄），途经4288米梅朵措、4718米卡子拉山垭口（可俯瞰群山），抵达丁真故乡理塘，逛勒通古镇与长青春科尔寺，还经过毛垭大草原、地质奇观兔子山、海子山、稻城白塔。途中避开桑堆补给点宰客陷阱，夜宿香格里拉镇后高反缓解，已备齐稻城亚丁进山物资，期待次日行程。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+      "title": "计划性报废以及断货焦虑",
+      "link": "https://denjuy.com/posts/dwx5xDjxPNt/",
+      "date": "Fri, 04 Sep 2026 08:00:00 +0800",
+      "description": "如果你常年在网上浏览关于消费品尤其是以电子产品为主的视频，总会发现评论有人在发表这种观点： “ 以前产品根本用不坏，现在的产品为了刺激消费，都做了计划性报废设计，质量没有以前的好 ” 举个例子：消费级的固态硬盘已经买不到 MLC 颗粒的了，甚至现在QLC颗粒都快成为主流了。 所以，结论是：我们需要囤多一点，要不然就买不到了。 然后，我听了这种话跑去消费被收割了。计不计划不知道，但是我确实已经消费了",
+      "site": "云白",
+      "siteUrl": "https://denjuy.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
       "title": "2026年8月体检报告存档",
@@ -228,15 +246,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
-      "title": "美团送了2000w token?! Longcat 2.0体验",
-      "link": "https://upxuu.com/posts/longcat-2/",
-      "date": "Sat, 29 Aug 2026 04:17:13 GMT",
-      "description": "美团Longcat 2.0模型体验：2000w免费token，缓存命中免费，实测缓存命中率96%以上，响应速度比英伟达免费平台快很多。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
       "title": "Godot：AnimationPlayer 播走路",
       "link": "https://codevfun.work/writing/godot-animationplayer-walk",
       "date": "Sat, 29 Aug 2026 04:00:00 GMT",
@@ -307,15 +316,6 @@
       "site": "xf_blog",
       "siteUrl": "https://husd.cc.cd/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
-      "title": "川西暑漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由",
-      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d1-d2-cong-ping-yuan-ben-fu-shan-hai-chu-yu-gao-yuan-de-feng-yu-zi-you",
-      "date": "Fri, 28 Aug 2026 06:29:01 GMT",
-      "description": "2026年8月7-8日，开启为期七天的川西治愈之旅前两日：首日从广东乘高铁赴成都，休整时体验机器人送外卖；次日从成都出发，经雅叶高速、打卡点多的天全服务区，先后抵达434机场路、高原天空之镜红海子、康定机场，登顶格底拉姆天空之城得见贡嘎雪山。途中遇被车辆误伤的土拨鼠与狐狸，返程遇堵车，有人轻微高反，傍晚平安抵达新都桥，两日尽览川西山野治愈风光。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "Godot：子弹和碰撞层",
@@ -534,15 +534,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
-      "title": "域名更换：deepwhitex 换成 denjuy",
-      "link": "https://denjuy.com/posts/dwx4uR8Vopz/",
-      "date": "Wed, 19 Aug 2026 08:00:00 +0800",
-      "description": "deepwhite是我用了四年的微信名字，顺理成章的，它也成为我购买域名的第一选择。我曾经用过，deepwhite86.top/deepwhite.me 。 网站那会搭建的很随意，随着完整度的提高，也逐渐意识到，域名不能随意更换，就开始琢磨着一个能长久用的域名。 本来打算把deepwhite.me 作为长期域名使用， 但是续费高达136元让我望而却步。我对国别域名一般没信心，所以可能后续还会继续涨",
-      "site": "云白",
-      "siteUrl": "https://denjuy.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
       "title": "【原创】要开学了，怎么才能保住火花？",
       "link": "https://notes.iamcrl.cn/posts/how-to-keep-streak-before-school/",
       "date": "Tue, 18 Aug 2026 00:00:00 GMT",
@@ -741,6 +732,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
+      "title": "川西暑漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由",
+      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d1-d2-cong-ping-yuan-ben-fu-shan-hai-chu-yu-gao-yuan-de-feng-yu-zi-you",
+      "date": "Sat, 8 Aug 2026 13:29:00 GMT",
+      "description": "2026年8月7-8日，开启为期七天的川西治愈之旅前两日：首日从广东乘高铁赴成都，休整时体验机器人送外卖；次日从成都出发，经雅叶高速、打卡点多的天全服务区，先后抵达434机场路、高原天空之镜红海子、康定机场，登顶格底拉姆天空之城得见贡嘎雪山。途中遇被车辆误伤的土拨鼠与狐狸，返程遇堵车，有人轻微高反，傍晚平安抵达新都桥，两日尽览川西山野治愈风光。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
       "title": "试玩神人游戏《完蛋！我被男同学包围了》",
       "link": "https://474029.xyz/posts/shi-wan-wdwbntxbwl-game/",
       "date": "Sat, 08 Aug 2026 08:41:00 GMT",
@@ -867,6 +867,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
+      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
+      "link": "https://i.limhy.cn/blog/1/",
+      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
+      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "一次制作终端版博客的经历",
       "link": "https://mabbs.github.io/2026/08/01/terminal.html",
       "date": "2026-08-01T00:00:00+08:00",
@@ -874,6 +883,15 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
+    },
+    {
+      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
+      "link": "https://i.limhy.cn/blog/202/",
+      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
+      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "亿不小心破解了清北道远学习机",
@@ -1128,6 +1146,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
+      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
+      "link": "https://i.limhy.cn/blog/189/",
+      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
+      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
+      "link": "https://i.limhy.cn/blog/188/",
+      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
+      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
+      "link": "https://i.limhy.cn/blog/187/",
+      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
+      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "中考加油！最后不到一个月",
       "link": "https://note.redcha.cn/archives/zhong-kao-jia-you-zui-hou-bu-dao-yi-ge-yue",
       "date": "Sat, 6 Jun 2026 15:17:41 GMT",
@@ -1218,33 +1263,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1272,15 +1290,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1288,15 +1297,6 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
