@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-05T11:11:04.831Z",
+  "updated_at": "2026-09-05T13:55:46.188Z",
   "count": 158,
   "list": [
+    {
+      "title": "博客更新计划 & 好久不见，我还活着",
+      "link": "https://hehuang.site/p/waterpost/",
+      "date": "Sat, 05 Sep 2026 19:28:00 +0800",
+      "description": "好久不见，我是合荒~ &#xA; 一晃已经12天没有更新了，我也12天没摸到电脑了。 &#xA; 大概讲讲下一阶段博客的更新 计划 （预测）。 &#xA; &#xA; 进入高三，我断了我坚持了5年的随笔写作，其实说没时间是借口，时间想挤总会有的，只是一周下来累到不想动笔了，至少本周是这样。 &#xA; 表达情绪和感悟现在也回归到了在手机上写寥寥几句话，当然这些话题都很好，值得我深度写作（所以算鸽？",
+      "site": "合荒小站",
+      "siteUrl": "https://hehuang.site/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
+    },
+    {
+      "title": "「说说」ciphertalk 付费后，聊天记录再不属于用户",
+      "link": "https://upxuu.com/talk/20260905192724/",
+      "date": "Sat, 05 Sep 2026 11:27:24 GMT",
+      "description": "前几天 ciphertalk 突然发布了一个一个强制更新版本，更新后，所有功能几乎全部需要付费... 我知道，有人可能会说，只有半开源，才有可能不被 dmca 但是，我想说的是，只有开源，我们才敢使用 我没有时间维护一个导出聊天记录的项目，但我愿意用 ai 复活 weflow 总之，不管成功与否，我相信终究会有下一个 weflow",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
     {
       "title": "暑后九月杂记 步入高一的阶梯",
       "link": "https://note.redcha.cn/archives/shu-hou-jiu-yue-za-ji-bu-ru-gao-yi-de-jie-ti",
@@ -33,7 +51,7 @@
       "title": "『优化日记』在AI的帮助下完成了部分优化",
       "link": "https://blog.byside.top/archives/20260905_1",
       "date": "Fri, 4 Sep 2026 16:45:50 GMT",
-      "description": "服务商通知因不可抗拒原因机房禁止访问非大陆服务器，博客迁移至NAS。作者在AI帮助下完成优化：图片存储采用图床（3天备份，保留30天）、S3（视频）和Halo自带存储；评论区表情包原用Github地址导致加载缓慢，克隆至S3存储桶并用AI更改json文件，提供地址及操作指南（需重新添加）。RSS抓取问题待研究。优化提升加载性能。",
+      "description": "因服务商通知机房禁止访问非大陆服务器，博客需迁移至NAS并寻找新服务器。本周完成部分优化：图片存储采用图床（3天备份保留30天）、S3及Halo自带存储；评论表情包原使用Github地址加载缓慢，改为克隆至S3存储桶，由AI修改json文件，提供Halo后台添加方法；后续计划研究RSS抓取。",
       "site": "拥抱日出的小屋",
       "siteUrl": "https://blog.byside.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
@@ -235,15 +253,6 @@
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
-    },
-    {
-      "title": "为什么，我们希望被看见——浅谈upxuu的建站心得",
-      "link": "https://upxuu.com/posts/why-blog/",
-      "date": "Sat, 29 Aug 2026 06:15:33 GMT",
-      "description": "从初一手搓HTML小网站，到WordPress、Cloudflare Run，再到纯手搓Astro主题——记录upxuu博客的诞生与成长，以及一个初中生对'被看见'的执着。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "Godot：AnimationPlayer 播走路",
@@ -919,15 +928,6 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
-    },
-    {
-      "title": "周而复始，浑然天成——恭喜台北一哥周天成夺冠！",
-      "link": "https://hehuang.site/p/chou-tien-chen/",
-      "date": "Sun, 26 Jul 2026 19:25:00 +0800",
-      "description": "看完2026年羽毛球中国公开赛男单决赛，真的忍不住为周天成热泪盈眶！ &#xA; 恭喜36岁的台北一哥周天成，拿下超级1000级别中国公开赛男单冠军！时隔多年再登顶级赛事决赛舞台，一举夺冠，这份坚守与绽放，真是太震撼了！！！ &#xA; 我平时其实很少特意蹲赛事、看比赛，顶多就看看签表，看看赛果，看看短视频平台给我推送的精彩片段，哪怕是中国公开赛这种含金量拉满的超级1000大赛，也很少会专门花时间",
-      "site": "合荒小站",
-      "siteUrl": "https://hehuang.site/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
       "title": "用 WorkBuddy 一条龙修复 Win11 全部 UWP 应用打不开 — VCLibs 依赖损坏排查实录",
