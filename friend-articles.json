@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-05T07:00:13.577Z",
-  "count": 153,
+  "updated_at": "2026-09-05T11:11:04.831Z",
+  "count": 158,
   "list": [
+    {
+      "title": "暑后九月杂记 步入高一的阶梯",
+      "link": "https://note.redcha.cn/archives/shu-hou-jiu-yue-za-ji-bu-ru-gao-yi-de-jie-ti",
+      "date": "Sat, 5 Sep 2026 10:13:06 GMT",
+      "description": "高一学生经历7天军训，期间练习基础项目、叠豆腐块内务，教官宽松可享双倍休息，军训含红歌比赛等内容，结营后离校吃到心心念念的奶茶、螺蛳粉。他还游玩门票10元（学生半价）的顺德清晖园，遇喷泉彩虹；去增城稻田感受乡野气息。开学一周适应良好，仅英语老师需检查字帖（其他老师不查，暑假作业多为建议可免做），高一采用广东3+1+2模式目前设9科，周末逛南沙欣赏海景与桥墩风景。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
     {
       "title": "乡愁，解不开的愁",
       "link": "https://upxuu.com/posts/myhometown/",
@@ -10,15 +19,6 @@
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
-      "title": "川西暑漫记｜D3 翻越天路十八弯，驰骋世界高城理塘，奔赴稻城香格里拉",
-      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d3-fan-yue-tian-lu-shi-ba-wan-chi-cheng-shi-jie-gao-cheng-li-tang-ben-fu-dao-cheng-xiang-ge-li-la",
-      "date": "Sat, 5 Sep 2026 02:55:19 GMT",
-      "description": "2026年8月9日是川西行程第三天，当日沿G318打卡天路十八弯（因人流拥堵驻车拍摄），途经4288米梅朵措、4718米卡子拉山垭口（可俯瞰群山），抵达丁真故乡理塘，逛勒通古镇与长青春科尔寺，还经过毛垭大草原、地质奇观兔子山、海子山、稻城白塔。途中避开桑堆补给点宰客陷阱，夜宿香格里拉镇后高反缓解，已备齐稻城亚丁进山物资，期待次日行程。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "这是一篇测试照片的文章",
@@ -33,7 +33,7 @@
       "title": "『优化日记』在AI的帮助下完成了部分优化",
       "link": "https://blog.byside.top/archives/20260905_1",
       "date": "Fri, 4 Sep 2026 16:45:50 GMT",
-      "description": "因机房限制禁止访问非大陆服务器，博客迁移至NAS，等待新服务器运行Halo。作者利用AI优化博客：图片存储于图床（3天备份保留30天），视频存S3，重要文件存Halo；评论区表情包原加载缓慢，克隆至S3存储桶并AI修改json文件，提供在线表情源地址。操作步骤：进入Halo后台添加表情源，已启用需重新添加，已评论内容无法改变。读者可学习此优化提升博客性能。",
+      "description": "服务商通知因不可抗拒原因机房禁止访问非大陆服务器，博客迁移至NAS。作者在AI帮助下完成优化：图片存储采用图床（3天备份，保留30天）、S3（视频）和Halo自带存储；评论区表情包原用Github地址导致加载缓慢，克隆至S3存储桶并用AI更改json文件，提供地址及操作指南（需重新添加）。RSS抓取问题待研究。优化提升加载性能。",
       "site": "拥抱日出的小屋",
       "siteUrl": "https://blog.byside.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
@@ -714,6 +714,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
+      "title": "川西暑漫记｜D3 翻越天路十八弯，驰骋世界高城理塘，奔赴稻城香格里拉",
+      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d3-fan-yue-tian-lu-shi-ba-wan-chi-cheng-shi-jie-gao-cheng-li-tang-ben-fu-dao-cheng-xiang-ge-li-la",
+      "date": "Sun, 9 Aug 2026 14:24:00 GMT",
+      "description": "2026年8月9日为川西游第三天，因前一日G318国道塞车、全员高反，清晨6点10分出发。当日先后打卡天路十八弯（因车流大驻车打卡）、4288米梅朵措、4718米卡子拉山垭口，抵达世界高城理塘，体验撒隆达等人文活动，途经毛垭大草原、兔子山、海子山，避开桑堆补给点旅行社宰客套路，夜宿香格里拉镇，高反缓解，备足进山物资，期待明日稻城亚丁之旅。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
       "title": "第一次参加全国焊接技术交流会，也第一次认识昆明",
       "link": "https://wangxinyang.top/archives/di-yi-ci-can-jia-quan-guo-han-jie-ji-shu-jiao-liu-hui-ye-di-yi-ci-ren-shi-kun-ming",
       "date": "Sun, 9 Aug 2026 04:03:07 GMT",
@@ -1236,15 +1245,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
     },
     {
-      "title": "服务器“炸毁”😭😡无地自容",
-      "link": "https://note.redcha.cn/archives/fu-wu-qi-zha-hui-wu-di-zi-rong",
-      "date": "Sun, 22 Mar 2026 08:14:01 GMT",
-      "description": "作者有两台服务器，除主站外大部分站点部署在另一台服务器上。该服务器服务商突然通知因硬件升级需3天内联系客服人工迁移，作者因在校未看到消息，导致服务器被完全清空。最近的备份停留在去年8月，约三分之一文章及1800多条评论全部丢失。所幸文章图片均存储在阿里云，未受影响；同时借助blogsclub档案馆可复原部分内容，但长文仍需人工重建。目前友链、RSS及相关接口已重建完毕，还剩二十多篇文章待迁移补回，",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
       "title": "从一株小草开始",
       "link": "https://xinyang-gao.github.io/articles/从一株小草开始.html",
       "date": "Wed, 18 Mar 2026 00:00:00 GMT",
@@ -1261,6 +1261,33 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "重生之我是蒟蒻打CTF-misc",
@@ -1290,6 +1317,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1297,6 +1333,15 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
