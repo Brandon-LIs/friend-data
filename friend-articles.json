@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-07T14:37:38.099Z",
+  "updated_at": "2026-09-07T16:12:13.907Z",
   "count": 158,
   "list": [
+    {
+      "title": "八月，键曲回响、轻音少女、键等联动",
+      "link": "https://loneapex.cn/archives/5907",
+      "date": "Mon, 07 Sep 2026 16:00:23 +0000",
+      "description": "夏天的尾声。",
+      "site": "Mimosa的小屋",
+      "siteUrl": "https://loneapex.cn/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
+    },
     {
       "title": "【日记】高三第一周",
       "link": "https://notes.iamcrl.cn/posts/first-week-of-senior-year/",
@@ -982,15 +991,6 @@
       "site": "ElysiumStack",
       "siteUrl": "https://blog.elysium-stack.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
-    },
-    {
-      "title": "欢呼吧！新的博客",
-      "link": "https://loneapex.cn/shuoshuo/%e6%96%b0%e7%9a%84%e5%8d%9a%e5%ae%a2%ef%bc%9f%ef%bc%81",
-      "date": "Wed, 22 Jul 2026 11:29:36 +0000",
-      "description": "花12小时尝试写了一个轻量化的博客主题。当然，说是“自建”，实际上 98% 的工作还是要归功于伟大的 ChatGPT 小姐和 Claude 先生…… 考虑到把过去四年的数据对接到一个全新的系统，工作量还是蛮大的（→token消耗蛮多的）……...",
-      "site": "Mimosa的小屋",
-      "siteUrl": "https://loneapex.cn/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
     },
     {
       "title": "「工具推荐」TRAE：字节跳动自研AI原生IDE编程软件（非广告）",
