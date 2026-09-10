@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-10T11:35:10.015Z",
+  "updated_at": "2026-09-10T15:29:39.775Z",
   "count": 158,
   "list": [
+    {
+      "title": "又搬家了",
+      "link": "https://lzh1.cn/?T1789053304",
+      "date": "Thu, 10 Sep 2026 23:15:04 +0800",
+      "description": "今天晚上又把程序换了一下，还是现在这个程序简单不需要数据库。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
     {
       "title": "川西暑漫记｜D4 稻城亚丁-勇闯4600米牛奶海，跌宕起伏的高海拔徒步之旅",
       "link": "https://note.redcha.cn/archives/wei-ming-ming-wen-zhang-TbXi2E5F",
@@ -13,7 +22,7 @@
     },
     {
       "title": "今天去了盒马超盒算",
-      "link": "https://lzh1.cn/?post=64",
+      "link": "https://lzh1.cn/?T1789048990",
       "date": "Wed, 09 Sep 2026 22:24:06 +0800",
       "description": "今天陪亲戚去了医院然后又去把以前的卡里的钱取出来然后去了盒马买了点东西就回家了。",
       "site": "林子浩的日记",
@@ -148,9 +157,9 @@
     },
     {
       "title": "这是一篇测试照片的文章",
-      "link": "https://lzh1.cn/?post=63",
+      "link": "https://lzh1.cn/?T1789048951",
       "date": "Sat, 05 Sep 2026 09:28:14 +0800",
-      "description": "我在考虑要不要给博客增加照片，纯文字看起来有点单调想着是不是以后增加一下图片",
+      "description": "我在考虑要不要给博客增加照片，纯文字看起来有点单调想着是不是以后增加一下图片![",
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
@@ -175,9 +184,9 @@
     },
     {
       "title": "我做了一个whois查询网站",
-      "link": "https://lzh1.cn/?post=62",
+      "link": "https://lzh1.cn/?T1789048915",
       "date": "Fri, 04 Sep 2026 21:45:05 +0800",
-      "description": "最近突发奇想做一个whois查询网站，找了一个合适的API接口让豆包帮我生成一个html所有东西都挤在这个文件里。 一开始做的页面太普通一眼就能让人知道是AI做的，改了好几次都不满意突然想起Windows98那种复古风就让豆包照做了。 做好以后我在京东云1元注册了一个cn域名绑定到了腾讯云的Makers，Makers有很大的问题跨境无法访问手机端只支持在谷歌内核的浏览器，问了客服说跨境母办法解决只",
+      "description": "最近突发奇想做一个whois查询网站，找了一个合适的API接口让豆包帮我生成一个",
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
@@ -220,18 +229,9 @@
     },
     {
       "title": "清平乐·夜见双猫嬉斗",
-      "link": "https://lzh1.cn/?post=61",
+      "link": "https://lzh1.cn/?T1789048883",
       "date": "Wed, 02 Sep 2026 07:41:11 +0800",
-      "description": "晚风街郭，拾得狸奴阔。 乍遇野雏相扑搏，满地翻腾嬉跃。 新来胆气昂昂，野崽毛奋锋芒。 袖手旁观未扰，任它戏斗阶旁。",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
-      "title": "村里做戏还分东西",
-      "link": "https://lzh1.cn/?post=60",
-      "date": "Tue, 01 Sep 2026 21:25:22 +0800",
-      "description": "下午5点去戏台坐着一直坐到8点50左右开始分东西，分了鸡蛋饼一包，雪饼一包，年糕一条，红枣一包，糯米一袋，八宝粥一罐，方便面两包。",
+      "description": "晚风街郭，拾得狸奴阔。乍遇野雏相扑搏，满地翻腾嬉跃。新来胆气昂昂，野崽毛奋锋芒。",
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
