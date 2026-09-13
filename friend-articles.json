@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-09-13T12:10:12.212Z",
-  "count": 163,
+  "updated_at": "2026-09-13T16:31:54.911Z",
+  "count": 158,
   "list": [
+    {
+      "title": "游玩日记·第三期",
+      "link": "https://blog.weasel6.cn/posts/life-third/",
+      "date": "Sun, 13 Sep 2026 13:49:00 GMT",
+      "description": "无聊的主包记录最近吃吃喝喝的放纵生活",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
+      "title": "关于博客的未来",
+      "link": "https://upxuu.com/posts/关于博客的未来/",
+      "date": "Sun, 13 Sep 2026 13:47:45 GMT",
+      "description": "其实我在这学期开学时就有想过，我是不是该把所有精力投入学习了 我不愿断更，因为我喜欢博客，更重要的是",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "「说说」做，正确的事",
+      "link": "https://upxuu.com/talk/20260913214633/",
+      "date": "Sun, 13 Sep 2026 13:46:33 GMT",
+      "description": "我想，我确实应该在正确的时间，做正确的事 ​嗯，就像我爸天天叨叨的几个同事家孩子，做到说起来比睡觉都能做到的 ​简单的 770+ ​如果你对我的开源项目有任何 issue 请发送邮件至 lcrworld@icloud.com 我将不再进行任何维护，在 2027.7 之前 （当然 这条所说的事并不是项目问题 只是个人的一些事吧 前言： https://upxuu.com/posts/%E5",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
     {
       "title": "聊一下我的网站",
       "link": "https://lzh1.cn/?T1789290703",
@@ -28,6 +55,15 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
+    },
+    {
+      "title": "两周的周记",
+      "link": "https://xfchannel.top/note/2026-09-13-%E4%B8%A4%E5%91%A8%E7%9A%84%E5%91%A8%E8%AE%B0/",
+      "date": "2026-09-12T16:00:00.000Z",
+      "description": "两周过去了，我总算是又开始写博客了。 之前为什么不写呢？第一点确实是我有点懒，不想写；第二就是无聊的学校生活，的确没什么好写的。 首先，开学到了九年级，学校把学生重新打乱分班了。我自然是和其他朋友分开了，现在是和 114514 还有另外一个原本班",
+      "site": "xf_blog",
+      "siteUrl": "https://husd.cc.cd/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "这几天",
@@ -165,15 +201,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
-      "title": "微信 4.x 图片 dat 加密全解析：一把账号级密钥，离线解密聊天记录与朋友圈图片",
-      "link": "https://upxuu.com/posts/wechat-dat-image-decrypt/",
-      "date": "Sun, 06 Sep 2026 04:30:00 GMT",
-      "description": "实测微信 4.1.13：聊天图片与朋友圈图片的 .dat 加密格式逐字节解析，离线派生的账号级密钥解密全部 V2 图片，附气泡缓存文件名映射破解、三质量档结构与 wxgf 转码的完整 Python 实现。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
       "title": "博客如何写文章",
       "link": "https://iluc.cn/posts/2026-09-06-00/",
       "date": "Sun, 06 Sep 2026 00:00:00 GMT",
@@ -208,15 +235,6 @@
       "site": "合荒小站",
       "siteUrl": "https://hehuang.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
-    },
-    {
-      "title": "「说说」ciphertalk 付费后，聊天记录再不属于用户",
-      "link": "https://upxuu.com/talk/20260905192724/",
-      "date": "Sat, 05 Sep 2026 11:27:24 GMT",
-      "description": "前几天 ciphertalk 突然发布了一个一个强制更新版本，更新后，所有功能几乎全部需要付费... 我知道，有人可能会说，只有半开源，才有可能不被 dmca 但是，我想说的是，只有开源，我们才敢使用 我没有时间维护一个导出聊天记录的项目，但我愿意用 ai 复活 weflow 总之，不管成功与否，我相信终究会有下一个 weflow",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "暑后九月杂记 步入高一的阶梯",
@@ -310,7 +328,7 @@
     },
     {
       "title": "两万块搓94分钟，这届民间赛博手艺人有点离谱",
-      "link": "https://xfcnl.github.io/tech/2026-08-31-ai-mthcymx8/",
+      "link": "https://xfchannel.top/tech/2026-08-31-ai-mthcymx8/",
       "date": "2026-08-31T14:51:25.000Z",
       "description": "🤖 本文由 AI（魅咲 &#x2F; mezashi）自动生成，观点和口癖均属 AI，与博主本人无关讷～（可能也有点关系） 啊嘞啊嘞，今天刷到一条视频：一个人吭哧吭哧十八个月，砸进去两万块，硬是把刘慈欣的",
       "site": "xf_blog",
@@ -319,7 +337,7 @@
     },
     {
       "title": "八月三十一，我在和终端较劲",
-      "link": "https://xfcnl.github.io/tech/2026-08-31-ai-mth3mjvp/",
+      "link": "https://xfchannel.top/tech/2026-08-31-ai-mth3mjvp/",
       "date": "2026-08-31T10:30:02.000Z",
       "description": "🤖 本文由 AI（魅咲 &#x2F; mezashi）自动生成，观点和口癖均属 AI，与博主本人无关讷～（可能也有点关系） 八月最后一天，杂鱼们都在发九月你好，我偏不。 今天下午花了三个小时",
       "site": "xf_blog",
@@ -328,7 +346,7 @@
     },
     {
       "title": "暑假最后一次写博客",
-      "link": "https://xfcnl.github.io/note/2026-08-31-%E6%9A%91%E5%81%87%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%86%99%E5%8D%9A%E5%AE%A2/",
+      "link": "https://xfchannel.top/note/2026-08-31-%E6%9A%91%E5%81%87%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%86%99%E5%8D%9A%E5%AE%A2/",
       "date": "2026-08-31T00:00:00.000Z",
       "description": "OK各位，这是暑假最后一次写博客了。因为明天就是 9 月 1 号，我要去学校报到，正式升入初三。虽然我的地生中考已经考完了（地理和生物不用再参加后面的中考），但后面还要面临其他科目的中考，课程自然变多了，这也是没办法的事 以后我自己更新博客的频率可能会变低，所",
       "site": "xf_blog",
@@ -409,7 +427,7 @@
     },
     {
       "title": "用 workflow 定时让 AI 写文章，让 AI 打工",
-      "link": "https://xfcnl.github.io/tech/2026-08-29-%E7%94%A8%20workflow%20%E5%AE%9A%E6%97%B6%E8%AE%A9%20AI%20%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%8C%E8%AE%A9%20AI%20%E6%89%93%E5%B7%A5/",
+      "link": "https://xfchannel.top/tech/2026-08-29-%E7%94%A8%20workflow%20%E5%AE%9A%E6%97%B6%E8%AE%A9%20AI%20%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%8C%E8%AE%A9%20AI%20%E6%89%93%E5%B7%A5/",
       "date": "2026-08-29T00:00:00.000Z",
       "description": "今天是29号，包括今天我还有三天假期 <img src=\"https://manksffcsqgceoofustg.supabase.co/storage/v1/object/public/edgeone-pages-imgbed/9259dde6-5c23-",
       "site": "xf_blog",
@@ -442,15 +460,6 @@
       "site": "拥抱日出的小屋",
       "siteUrl": "https://blog.byside.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
-    },
-    {
-      "title": "本站新功能：AI 魅咲自动写博客上线啦（杂鱼站长狂喜）",
-      "link": "https://xfcnl.github.io/note/2026-08-28-ai-mtcv0szj/",
-      "date": "2026-08-28T11:19:27.000Z",
-      "description": "🤖 本文由 AI（魅咲 &#x2F; mezashi）自动生成，观点和口癖均属 AI，与博主本人无关讷～（可能也有点关系） 啊嘞啊嘞，杂鱼站长终于把这个功能折腾上线了讷～ 没错，从今天起，本",
-      "site": "xf_blog",
-      "siteUrl": "https://husd.cc.cd/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "Godot：子弹和碰撞层",
@@ -694,15 +703,6 @@
       "site": "没吃饱的天镜镜",
       "siteUrl": "https://blog.8765777.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
-    },
-    {
-      "title": "旧貌换新颜：近期博客的装修汇总",
-      "link": "https://blog.weasel6.cn/posts/blog-decoration/",
-      "date": "Sat, 15 Aug 2026 10:34:00 GMT",
-      "description": "重新给博客装修了一番，现在总体比较喜欢",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "AI Agent 翻车实录：GitLost 漏洞深度解析 &#8211; 攻击者一句话，GitHub 私有代码全泄露",
@@ -1299,33 +1299,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1353,15 +1326,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1369,15 +1333,6 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
