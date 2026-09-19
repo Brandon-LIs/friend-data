@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-19T02:15:12.170Z",
+  "updated_at": "2026-09-19T07:26:23.381Z",
   "count": 163,
   "list": [
+    {
+      "title": "ZCode 静默上传事件技术复盘：一次仓库快照如何带走完整 Git 历史",
+      "link": "https://upxuu.com/posts/zcode-silent-git-upload-forensics/",
+      "date": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "description": "2026 年 9 月 18 日智谱 ZCode 被曝登录态下静默打包工作区并上传完整 .git 历史。本文还原上传链路、快照构成与过滤逻辑，核对官方回应与流传说法，分析可能面临的法律风险，并给出自查与阻断方案。",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "九月中记 | 高一的半个月",
+      "link": "https://note.redcha.cn/archives/jiu-yue-zhong-ji-gao-yi-de-ban-ge-yue",
+      "date": "Sat, 19 Sep 2026 04:23:13 GMT",
+      "description": "高一新生开学三周，数学难度提升，学校饭菜偏淡，身为重口的广东学生打算带辣酱。这届高一录取分创历史新高，学校抽调高三教师任教，实行3+1+2选科模式，语数外为必修，其余科目按排名赋分，需通过合格考拿毕业证。学校强制修社团学分，因社团少且系统卡顿，宿舍选了生物社团；校园大、老师友好，无小卖部，需周末进零食。国庆中秋若请3天假可获13天假，但高中大概率不安排，本周仅放1天补国庆。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
     {
       "title": "🔥 Kali NetHunter深度技术解析：从渗透测试到安全研究的专业平台",
       "link": "https://bk.zhaozhiqiang.pw/1287.html",
@@ -199,15 +217,6 @@
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
-    },
-    {
-      "title": "「说说」undefined",
-      "link": "https://upxuu.com/talk/20260909004617/",
-      "date": "Tue, 08 Sep 2026 16:46:17 GMT",
-      "description": "i just want to be left alone no think no talk only clear ​why not zh? no courage 在发生了一些事情后，有感而发 祝我平安",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "八月，键曲回响、轻音少女、键等联动",
@@ -1081,15 +1090,6 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
-    },
-    {
-      "title": "解放@初三毕业后的闲杂日记",
-      "link": "https://note.redcha.cn/archives/jie-fang-chu-san-bi-ye-hou-de-xian-za-ri-ji",
-      "date": "Tue, 21 Jul 2026 10:45:09 GMT",
-      "description": "中考结束后的毕业季记录：考完英语后收拾离校，下午两小时散学典礼后仓促拍毕业照，作者认为安排不合理。当晚全年级毕业晚宴在某酒店举行，自助餐丰富，播放回忆视频和各科老师祝福，并领取超大毕业照和定制礼品。因三年努力，家里送了第一台相机影石Acepro2。作者随后回小学看望老师，教室仍留有当年痕迹；又因事回柳州，品尝螺蛳粉并用新相机试拍。家里参照网上教程自制柠檬鸡爪，冷藏数日后味道极佳。等待出分期间煎熬，",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "把照片放回地图：我做了一个 Photo Walk",
