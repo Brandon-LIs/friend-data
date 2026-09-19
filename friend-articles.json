@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T07:26:23.381Z",
-  "count": 163,
+  "updated_at": "2026-09-19T12:02:37.681Z",
+  "count": 130,
   "list": [
     {
       "title": "ZCode 静默上传事件技术复盘：一次仓库快照如何带走完整 Git 历史",
@@ -69,7 +69,7 @@
       "title": "GPT 与 Claude 混合双打的 72 小时：2026 数模 A 题赛博修仙实录",
       "link": "https://wangxinyang.top/archives/gpt-yu-claude-hun-he-shuang-da-de-72-xiao-shi-2026-shu-mo-a-ti-sai-bo-xiu-xian-shi-lu",
       "date": "Tue, 15 Sep 2026 06:10:05 GMT",
-      "description": "解放 数模国赛终于交卷了。 前天走出机房的那一刻，整个人脑子嗡嗡作响，踩在路上感觉脚步都在飘。三天的比赛时间还是太紧迫了，趁着神智逐渐缓过来，还是必须记一笔这又燃又痛的 72 小时，毕竟这也可能是我大学期间的最后一舞了，后面大四该实习实习，该考研考研，虽然现在还是有些迷茫。 开赛狂想——“手握双神，",
+      "description": "作者使用Claude Opus 5和GPT 5.6两款顶级AI辅助完成2026年数模国赛A题，经历72小时高强度比赛。初期以为能轻松\"躺赢\"，现实中却沦为两个AI之间的\"人肉裁判\"——两个模型在数值稳定性和求解逻辑上各执一词、互相博弈，团队被迫在缺觉状态下用数值分析知识裁决。比赛虽辛苦但收获颇丰，也借此反思AI辅助的边界：工具再强，核心判断仍需人来把关。作者将这次经历视为大学数模的收官之战，既是一",
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
@@ -109,15 +109,6 @@
       "site": "涵哲子居",
       "siteUrl": "https://iluc.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
-    },
-    {
-      "title": "游玩日记·第三期",
-      "link": "https://blog.weasel6.cn/posts/life-third/",
-      "date": "Sun, 13 Sep 2026 13:49:00 GMT",
-      "description": "无聊的主包记录最近吃吃喝喝的放纵生活",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "关于博客的未来",
@@ -165,15 +156,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
-      "title": "这几天",
-      "link": "https://loneapex.cn/shuoshuo/%e8%bf%99%e5%87%a0%e5%a4%a9",
-      "date": "Sat, 12 Sep 2026 10:39:14 +0000",
-      "description": "看了电影《奥德赛》。这部作品可以说出乎我的预料了。导演是诺兰，加上我对这种远古历史题材向来不太感兴趣，本以为会晦涩难懂到睡着，结果整整三个小时都看得非常入迷。 也庆幸看之前稍微了解了一下《荷马史诗》与一些古希腊神话的典故，对于这部作品的理解...",
-      "site": "Mimosa的小屋",
-      "siteUrl": "https://loneapex.cn/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
-    },
-    {
       "title": "原创音乐专辑《台州与民谣》",
       "link": "https://lzh1.cn/?T1789186626",
       "date": "Sat, 12 Sep 2026 12:17:06 +0800",
@@ -213,46 +195,10 @@
       "title": "第 21 届中博会之行｜走进广州，感受中小企业科创力量",
       "link": "https://wangxinyang.top/archives/di-21-jie-zhong-bo-hui-zhi-xing-zou-jin-guang-zhou-gan-shou-zhong-xiao-qi-ye-ke-chuang-li-liang",
       "date": "Wed, 9 Sep 2026 03:41:14 GMT",
-      "description": "9 月 5 日，我们团队奔赴广州参加第 21 届中国国际中小企业博览会，作为东莞理工科技创新研究院的一员，既代表学院参展展示科研成果，也沉浸式逛展学习，近距离触摸当下制造业、人工智能、集成电路领域的前沿技术。因为前面时间太忙了，拖了几天才有闲暇之余写一下博文，简单的记录一下OωO 本次中博会在广州广",
+      "description": "本文记录了作者作为东莞理工科技创新研究院成员参加第21届中国国际中小企业博览会的经历。展会以\"以首发经济推进中小企业高质量发展\"为主题，聚焦制造业、人工智能、集成电路等前沿领域。文中分享了现场看到的硬核科创展品，包括灵巧机械手、人形机器人等AI产品，以及研究院在半导体、3D先进封装、光学检测等方向的科研成果展示，并与行业伙伴进行了深入交流。",
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
-    },
-    {
-      "title": "八月，键曲回响、轻音少女、键等联动",
-      "link": "https://loneapex.cn/archives/5907",
-      "date": "Mon, 07 Sep 2026 16:00:23 +0000",
-      "description": "夏天的尾声。",
-      "site": "Mimosa的小屋",
-      "siteUrl": "https://loneapex.cn/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
-    },
-    {
-      "title": "【日记】高三第一周",
-      "link": "https://notes.iamcrl.cn/posts/first-week-of-senior-year/",
-      "date": "Sun, 06 Sep 2026 15:27:53 GMT",
-      "description": "新老师 # 新学期一开学，班上的任课老师几乎全换了，只有政治老师没动。新换来的老师都是刚带完高三毕业班下来的，教学水平比高一高二的老师高出不少。我们班也沾了光，被称为所谓的“次重点班”——大部分任课老师同时也在重点班任教，配置几乎和重点班一样。 新舍友 # 由于今年的高三新建立了“春苗班”，也就是春招班，他们要单独住一个宿舍，导致我们的宿舍申请表填不满，我和一个同学被分到了另一个班的宿舍，也就是说",
-      "site": "睿朗的小窝",
-      "siteUrl": "https://iamcrl.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
-    },
-    {
-      "title": "【投稿】高三",
-      "link": "https://notes.iamcrl.cn/posts/grade-12/",
-      "date": "Sun, 06 Sep 2026 15:00:53 GMT",
-      "description": "本文为朋友投稿。 投稿者：CANILLE 高三。 现在是2026年的8月31日晚上11点40分，我拿着没交给家长的备用机躺在家里的床上，听着音乐。嗯，很舒服吧，但是也很痛苦。我睡不着，不知道因为什么。我现在有好多想说的话。 上个学期很短，但是很开心。我体验到了走读的滋味，那是一段非常开心的回忆。但是和班上的好朋友产生一些误会，导致分班前才解开误解。这是我的一个心结吧，我很后悔没有在最后的日子好好相",
-      "site": "睿朗的小窝",
-      "siteUrl": "https://iamcrl.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
-    },
-    {
-      "title": "给静态博客文章添加Lottie表情包",
-      "link": "https://blog.weasel6.cn/posts/lottie/",
-      "date": "Sun, 06 Sep 2026 10:09:00 GMT",
-      "description": "博客增添了新玩意儿，折腾不止~",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "博客如何写文章",
@@ -300,15 +246,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
-      "title": "『优化日记』在AI的帮助下完成了部分优化",
-      "link": "https://blog.byside.top/archives/20260905_1",
-      "date": "Fri, 4 Sep 2026 16:45:50 GMT",
-      "description": "因服务商通知机房禁止访问非大陆服务器，博客需迁移至NAS并寻找新服务器。本周完成部分优化：图片存储采用图床（3天备份保留30天）、S3及Halo自带存储；评论表情包原使用Github地址加载缓慢，改为克隆至S3存储桶，由AI修改json文件，提供Halo后台添加方法；后续计划研究RSS抓取。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
-    },
-    {
       "title": "学校社交坏 😭",
       "link": "https://blog.0c0.ren/archives/18/",
       "date": "Fri, 04 Sep 2026 16:11:00 +0000",
@@ -327,15 +264,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
-      "title": "计划性报废以及断货焦虑",
-      "link": "https://denjuy.com/posts/dwx5xDjxPNt/",
-      "date": "Fri, 04 Sep 2026 08:00:00 +0800",
-      "description": "如果你常年在网上浏览关于消费品尤其是以电子产品为主的视频，总会发现评论有人在发表这种观点： “ 以前产品根本用不坏，现在的产品为了刺激消费，都做了计划性报废设计，质量没有以前的好 ” 举个例子：消费级的固态硬盘已经买不到 MLC 颗粒的了，甚至现在QLC颗粒都快成为主流了。 所以，结论是：我们需要囤多一点，要不然就买不到了。 然后，我听了这种话跑去消费被收割了。计不计划不知道，但是我确实已经消费了",
-      "site": "云白",
-      "siteUrl": "https://denjuy.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
       "title": "2026年8月体检报告存档",
       "link": "https://pinpe.top/posts/2026-health-checkup-report/",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
@@ -345,15 +273,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
-      "title": "《奥德赛》影评",
-      "link": "https://denjuy.com/posts/dwxP75WrDJx/",
-      "date": "Wed, 02 Sep 2026 08:00:00 +0800",
-      "description": "诺兰稳定发挥，奥德赛重新让我燃起了踏进电影院的热爱。台词功底扎实，紧凑的无划水的剧情看的时候都舍不得中途去上厕所。网上有几个高频评价，以我的体验来回答一下感受： IMAX全画幅真的很重要吗？ 我觉得不重要，剧情片，没有也并不影响观感，我认为更多是作为一个营销噱头。 有些画面很恐怖？ 个人认为电影并没有任何吓人的地方，也许是接受度不一样的原因。网上的论调集中在：主角一行人被困巨人洞里和女巫把士兵搓成",
-      "site": "云白",
-      "siteUrl": "https://denjuy.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
       "title": "LiMhy博客系统 v5.0 发布：把前面没顾上的细节，一项项补上了",
       "link": "https://i.lilog.cn/post/205",
       "date": "Tue, 01 Sep 2026 20:46:00 +0800",
@@ -361,15 +280,6 @@
       "site": "LiMhy'Blog",
       "siteUrl": "https://i.lilog.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
-    },
-    {
-      "title": "揭秘日影评",
-      "link": "https://denjuy.com/posts/dwx2gCU3GL9/",
-      "date": "Tue, 01 Sep 2026 08:00:00 +0800",
-      "description": "奔着今天有空，打算看部电影，于是打开了之前下载但一直没空看的揭秘日。 我是如此的懊悔的打开一部我连评价都不想评价的电影。 当我看到三分之二的时候，实在忍不住了开始拉进度。最后我给出的评价是： 这是我自打成年以来看过最无聊，最神经，最意义不明的电影。 这个电影的故事大概就是： 主角：我要让这个世界上所有人都知道，外星人是存在的，他们有知道的权利。 反派：人类接受不了这种事实，如果让人类知道了有外星人",
-      "site": "云白",
-      "siteUrl": "https://denjuy.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
       "title": "Vibe Coding 新体验（2）",
@@ -447,7 +357,7 @@
       "title": "观展手记｜走进 Formnext Asia 深圳展",
       "link": "https://wangxinyang.top/archives/guan-zhan-shou-ji-zou-jin-formnext-asia-shen-zhen-zhan",
       "date": "Sat, 29 Aug 2026 12:49:04 GMT",
-      "description": "时间：2026‑08‑28 地点：深圳国际会展中心（宝安新馆）15 号馆 趁着展会最后一天，我们来到了Formnext Asia Shenzhen 深圳国际 3D 打印、增材制造及精密成型展览会，沉浸式打卡这场亚太地区增材制造行业的重磅盛会。",
+      "description": "2026年8月28日，作者探访了深圳国际会展中心举办的Formnext Asia Shenzhen 3D打印增材制造展览会。展会以\"想象无界，智印未来\"为主题，2万平米展厅汇聚350余家企业，覆盖从打印设备、新材料到后处理工艺的完整产业链。作者感受到增材制造正快速走出实验室，深度落地航空航天、新能源汽车、3C电子等工业领域，同时高速多色打印、桌面级设备也推动技术走向大众。国内企业在设备自研、国产材",
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
@@ -471,15 +381,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
-      "title": "【日记】天上真会掉馅饼？",
-      "link": "https://notes.iamcrl.cn/posts/no-such-thing-as-a-free-lunch/",
-      "date": "Sat, 29 Aug 2026 00:00:00 GMT",
-      "description": "本文为简短日记。 之前觉得诈骗离自己很远，没想到就发生在身边。索性写篇日记记录一下。 今天下午，我朋友给我发消息说她已经开始赚钱了。她在闲鱼上卖东西的时候，有人私聊她，让她帮忙卖东西拿提成。而且这个提成不是按百分比算的，是按照她卖出的价格减去成本价，中间的差价就是提成。我去？天底下居然有这么好的事？ 图片 她接着说，她已经卖出两单了，标价是580，直接稳赚260。这不对吧？怎么会有人莫名其妙让你赚",
-      "site": "睿朗的小窝",
-      "siteUrl": "https://iamcrl.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
-    },
-    {
       "title": "用 workflow 定时让 AI 写文章，让 AI 打工",
       "link": "https://xfchannel.top/tech/2026-08-29-%E7%94%A8%20workflow%20%E5%AE%9A%E6%97%B6%E8%AE%A9%20AI%20%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%8C%E8%AE%A9%20AI%20%E6%89%93%E5%B7%A5/",
       "date": "2026-08-29T00:00:00.000Z",
@@ -496,24 +397,6 @@
       "site": "0c0 的小窝",
       "siteUrl": "https://blog.0c0.ren",
       "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
-    },
-    {
-      "title": "分享19首这几年喜欢的国漫音乐",
-      "link": "https://blog.weasel6.cn/posts/music-cartoon/",
-      "date": "Fri, 28 Aug 2026 13:12:00 GMT",
-      "description": "19首国漫音乐，重温追番时那些热血沸腾、戳心动容的专属记忆",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "『爱的光芒』过审啦！",
-      "link": "https://blog.byside.top/archives/20260828_1",
-      "date": "Fri, 28 Aug 2026 11:59:30 GMT",
-      "description": "作者于2024年11月创作了一首歌词，发布后评论反馈有好有坏，但作者未受影响。今日，该歌词在网易云音乐过审，作者正式以“主创”身份在评论区互动。作者对读者的支持表示感谢，并欢迎大家前来欣赏作品。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
     },
     {
       "title": "Godot：子弹和碰撞层",
@@ -537,19 +420,10 @@
       "title": "新插件发布，Halo 展示架：打造自己的专属收藏展示页面",
       "link": "https://wangxinyang.top/archives/halo-zhan-shi-jia-da-zao-zi-ji-de-zhuan-shu-shou-cang-zhan-shi-ye-mian",
       "date": "Thu, 27 Aug 2026 12:17:50 GMT",
-      "description": "一、前言 如果你使用 Halo 创建的博客，想要把自己看过的动漫、电影、书籍和游戏单独整理出来，那么“展示架”插件可以把这些内容变成一个公开、漂亮、方便浏览的收藏页面。 在Halo后台的应用市场安装“展示架”插件后，插件会自动创建展示页面：https://你的域名/movie",
+      "description": "\"展示架\"是一款面向 Halo 2 博客系统的个人收藏展示插件，可帮助博主将看过的动漫、电影、书籍、游戏等内容整理为独立的公开收藏页面（默认地址为域名/movie）。插件要求 Halo 2.26.0 及以上版本，可通过后台应用市场搜索安装或下载 jar 文件本地安装。启用后会在内容菜单中新增入口，包含展示内容管理、分类管理和页面设置三大功能模块。该页面拥有独立樱花风格设计，支持卡片展示、详情弹窗、",
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
-    },
-    {
-      "title": "【原创】这次地震预警风波，真的有必要闹成这样吗",
-      "link": "https://notes.iamcrl.cn/posts/earthquake-alert-controversy/",
-      "date": "Thu, 27 Aug 2026 00:00:00 GMT",
-      "description": "本文为个人有感而发，不代表任何官方立场。本人尊重中国地震局、四川省地震局的法定职责及成都高新减灾研究所的历史贡献，文中观点仅供读者参考，不构成对任何机构的定性判断。如有不当之处，欢迎指正。 这是日记，随笔！不是时评！不是评论文章！ 背景 # 2026年8月24日，四川长宁发生4.7级地震。成都高新减灾研究所将震级误报为7.7级，并向全国推送，引发公众恐慌，系该机构近年来最大一次误报。 讲真的，我觉",
-      "site": "睿朗的小窝",
-      "siteUrl": "https://iamcrl.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
       "title": "三个小工具，三个小问题",
@@ -579,15 +453,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
     },
     {
-      "title": "《ソレヨリノ前奏詩》杂谈",
-      "link": "https://loneapex.cn/archives/5862",
-      "date": "Wed, 26 Aug 2026 00:41:05 +0000",
-      "description": "这是由已经倒闭的minori社在2015年发行的作品。",
-      "site": "Mimosa的小屋",
-      "siteUrl": "https://loneapex.cn/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
-    },
-    {
       "title": "实现兰顿蚂蚁",
       "link": "https://pinpe.top/posts/landon-ant/",
       "date": "Wed, 26 Aug 2026 00:00:00 GMT",
@@ -595,15 +460,6 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
-    },
-    {
-      "title": "《斩神之凡尘神域Ⅱ》观后感",
-      "link": "https://blog.weasel6.cn/posts/cartoon-zhanshen2/",
-      "date": "Tue, 25 Aug 2026 10:36:00 GMT",
-      "description": "制作在线，剧情注水，前半季耍帅凹造型，后半程才找回第一季的味道",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "展望高三：向前就好",
@@ -624,33 +480,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
-      "title": "『拥抱日出』我的昵称发展史",
-      "link": "https://blog.byside.top/archives/20260824_1",
-      "date": "Mon, 24 Aug 2026 13:08:05 GMT",
-      "description": "作者昵称始于“不吃鱼的猫”，灵感源于一张猫鱼和谐共处的图片。后改为“贩卖日落”，通过百度搜图获得灵感。初中网课期间，交作业时语文老师私信约谈，建议改名因“贩卖日落”不积极，改为“拥抱日出”。此昵称已使用三年，朋友常误读为“拥抱日落”或“拥抱域名”，但作者认为“拥抱”开头适配多词组。写博文时，拼音拆解为YBRC，意为“一表人才”，体现老师用心。作者感谢老师的建议，昵称故事传递积极改变和感恩。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
-    },
-    {
-      "title": "【公告】站点大更新！",
-      "link": "https://notes.iamcrl.cn/posts/new-blog/",
-      "date": "Mon, 24 Aug 2026 00:00:00 GMT",
-      "description": "来不及解释了！",
-      "site": "睿朗的小窝",
-      "siteUrl": "https://iamcrl.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
-    },
-    {
-      "title": "『随笔』手持搭载骁龙8+G1的华为P60的我",
-      "link": "https://blog.byside.top/archives/20260823_1",
-      "date": "Sun, 23 Aug 2026 06:00:06 GMT",
-      "description": "作为华为P60机主，作者使用该机近三年。P60无法升级鸿蒙5及以上系统，仅支持4G网络，无星闪技术。手机做工优良，掉落无损坏，但电池健康度降至89%，需频繁充电。作为半华为全家桶用户，依赖生态便利，但手机和电脑无星闪，手表不支持连接耳机，限制耳机功能。骁龙8+G1性能够用，但8G运行内存导致后台被杀；蓝牙延迟影响游戏体验。相机在高温下过热无法拍照。作者欣赏鸿蒙6 UI，但鸿蒙4.2 UI不如意。整",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
-    },
-    {
       "title": "讲讲「万物皆虚，万事皆允」",
       "link": "https://xice.cx/posts/nothingIsTrue/",
       "date": "2026-08-23T00:00:00.000Z",
@@ -660,15 +489,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
-      "title": "HiFi 迷思：原来线材不同音质不一样是真的",
-      "link": "https://denjuy.com/posts/dwxTiqZfcSp/",
-      "date": "Sat, 22 Aug 2026 08:00:00 +0800",
-      "description": "Music music music 我是一名热爱音乐的人，一度因为戴耳机听音乐导致听力受损。 读初中那会一周只有十几块零花钱。靠着每周这点钱坚持攒下来，我先是买了个一百块的便携小音箱。再买了个 300块的mp3耳放加一个 100 多的耳机。最后再花重金购买了一个32g的U盘存放音乐。我记得一百多块这个 u 盘。在那个三毛钱能买到老冰棍的时代，如果让家里人知道，指定挨不少鞭子。 十年已过，当初的设备",
-      "site": "云白",
-      "siteUrl": "https://denjuy.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
       "title": "最近在筹备大事，水篇说说awa",
       "link": "https://blog.8765777.xyz/talks/talk_edweex83wrpe/",
       "date": "Fri, 21 Aug 2026 20:26:00 GMT",
@@ -676,15 +496,6 @@
       "site": "没吃饱的天镜镜",
       "siteUrl": "https://blog.8765777.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
-    },
-    {
-      "title": "『随笔』聊聊这几天干的坏事",
-      "link": "https://blog.byside.top/archives/20260821_1",
-      "date": "Fri, 21 Aug 2026 04:50:15 GMT",
-      "description": "在我周围的朋友应该都知道，我的 NAS 在一次「神秘大手」的操作下，丢失了所有数据。好在最后在 fnOS 团队提供的神秘工具帮助下，成功恢复了大部分数据。 但问题在于，我的图床也跑在这台 NAS 上，于是所有博客配图瞬间蒸发，一张都没剩下。 当时我就在想：如果照片全存在 Halo 里该多好，这样即便",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
     },
     {
       "title": "「浅谈」时代峰峻造星乱象：低龄逐利之下，追星早已失了底线",
@@ -703,24 +514,6 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
-    },
-    {
-      "title": "游玩日记·第二期",
-      "link": "https://blog.weasel6.cn/posts/life-second/",
-      "date": "Wed, 19 Aug 2026 11:16:00 GMT",
-      "description": "记录近期日常：广州返程被导航坑到错过城际、游戏抽卡欧气爆棚、七夕与老婆吃烧烤",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "他们只想要一个正确答案",
-      "link": "https://denjuy.com/posts/dwxHm3tQ8wC/",
-      "date": "Wed, 19 Aug 2026 08:00:00 +0800",
-      "description": "我读书那会，家长总喜欢和我玩一个游戏：问我晚饭想吃什么菜。我思考一下，说出答案：番茄炒蛋。 但是晚饭并没有番茄炒蛋。 于是我不喜欢玩这个表演性民主游戏了。后面再问我就是：随便。 随后，他指责我说，你怎么没主见，想吃什么大胆说。 后来我中学升学，家长把我拉到桌子前，问我喜欢上哪个学校自己选，告诉我，我的人生我做主。 我早就知道预设答案是什么，仍选了自己喜欢的学校。 但他看到我做的选择后并不满意，脸色",
-      "site": "云白",
-      "siteUrl": "https://denjuy.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
       "title": "🔧 WordPress TinyMCE 错误修复指南",
@@ -1074,15 +867,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
     },
     {
-      "title": "BlogsClub二周年快乐",
-      "link": "https://blog.elysium-stack.cn/posts/bc-2nd-anniversary/",
-      "date": "Wed, 22 Jul 2026 15:37:00 GMT",
-      "description": "BlogsClub二周年快乐，迟来的庆贺文与纪念品返图！",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
-    },
-    {
       "title": "「工具推荐」TRAE：字节跳动自研AI原生IDE编程软件（非广告）",
       "link": "https://wowtang.top/post/ToolRec_trae1/",
       "date": "Tue, 21 Jul 2026 20:32:51 +0800",
@@ -1308,33 +1092,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1342,15 +1099,6 @@
       "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
       "siteUrl": "https://66619.eu.org",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
-    },
-    {
-      "title": "明日方舟终末地工具站汇总",
-      "link": "https://blog.elysium-stack.cn/posts/arknights-endfield-tools/",
-      "date": "Thu, 22 Jan 2026 11:19:00 GMT",
-      "description": "汇总明日方舟终末地相关工具网站，涵盖协议终端、基质规划器、量化计算器、排轴终端、互动地图、剧情检索、一图流、拼图解密、Wiki及MAA小助手等实用资源",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "🌌 最终测试：超弦虚空接口",
@@ -1362,15 +1110,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1380,24 +1119,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "告别2025 迎接2026",
-      "link": "https://blog.elysium-stack.cn/posts/happy-new-year-2026/",
-      "date": "Mon, 29 Dec 2025 17:19:00 GMT",
-      "description": "2025年终总结，回顾博客建设、情感生活、明日方舟、旅行与演唱会等",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
-    },
-    {
       "title": "马生复宋濂书",
       "link": "https://xinyang-gao.github.io/articles/马生复宋濂书.html",
       "date": "Tue, 09 Dec 2025 00:00:00 GMT",
@@ -1405,15 +1126,6 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "2025.12.2 祝我生日快乐",
-      "link": "https://blog.elysium-stack.cn/posts/birthday-20251202/",
-      "date": "Tue, 02 Dec 2025 12:02:00 GMT",
-      "description": "生日感悟——学会与自己和解、学会珍惜、学会告别",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "“Abord”的开发碎碎念",
@@ -1432,15 +1144,6 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "Elysium-Meting-Api公益服务",
-      "link": "https://blog.elysium-stack.cn/posts/elysium-meting-api/",
-      "date": "Sat, 11 Oct 2025 18:15:00 GMT",
-      "description": "基于Meting-API自建的公开音乐API服务，支持网易云、QQ音乐等多平台搜索与播放链接获取",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "I want you never to forget me…",
