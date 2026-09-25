@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-09-24T23:40:54.592Z",
-  "count": 157,
+  "updated_at": "2026-09-25T02:32:33.619Z",
+  "count": 153,
   "list": [
+    {
+      "title": "团圆，不过如此",
+      "link": "https://hehuang.site/p/reunion-with-no-feeling/",
+      "date": "Fri, 25 Sep 2026 09:55:00 +0800",
+      "description": "他不总是在中秋节回来，但他的回家成为了我中秋节最期待的事情。 &#xA; 去年中秋，他回来了，又好像没什么感觉； &#xA; 今年中秋，他没回来，有些失落，又很复杂。 &#xA; 团圆是一件矛盾的事情： 它既奢侈又没有什么特别的感觉 。 &#xA; &#xA; 我的父亲自我出生起，就远赴韩国务工了。 &#xA; 早些年，我们常常要隔两三年才能见到一次面，而每次相逢往往又只有短短两周。后来回家的次数",
+      "site": "合荒小站",
+      "siteUrl": "https://hehuang.site/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
+    },
+    {
+      "title": "为什么一块「从没碰过」的网卡，能冻住游戏和视频",
+      "link": "https://blog.8765777.xyz/posts/post-20260925-rt25cx/",
+      "date": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "description": "一块我从没碰过、连网线都没插的网卡,是怎么让游戏和视频一起卡住的",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
+    },
     {
       "title": "疫情防控消杀",
       "link": "https://lzh1.cn/?T1790162817",
@@ -100,15 +118,6 @@
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
-      "title": "九月中记 | 高一的半个月",
-      "link": "https://note.redcha.cn/archives/jiu-yue-zhong-ji-gao-yi-de-ban-ge-yue",
-      "date": "Sat, 19 Sep 2026 04:23:13 GMT",
-      "description": "高一新生开学三周，数学难度提升，学校饭菜偏淡，身为重口的广东学生打算带辣酱。这届高一录取分创历史新高，学校抽调高三教师任教，实行3+1+2选科模式，语数外为必修，其余科目按排名赋分，需通过合格考拿毕业证。学校强制修社团学分，因社团少且系统卡顿，宿舍选了生物社团；校园大、老师友好，无小卖部，需周末进零食。国庆中秋若请3天假可获13天假，但高中大概率不安排，本周仅放1天补国庆。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "🔥 Kali NetHunter深度技术解析：从渗透测试到安全研究的专业平台",
@@ -361,15 +370,6 @@
       "site": "合荒小站",
       "siteUrl": "https://hehuang.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
-    },
-    {
-      "title": "暑后九月杂记 步入高一的阶梯",
-      "link": "https://note.redcha.cn/archives/shu-hou-jiu-yue-za-ji-bu-ru-gao-yi-de-jie-ti",
-      "date": "Sat, 5 Sep 2026 10:48:00 GMT",
-      "description": "高一学生经历7天军训，期间练习基础项目、叠豆腐块内务，教官宽松可享双倍休息，军训含红歌比赛等内容，结营后离校吃到心心念念的奶茶、螺蛳粉。他还游玩门票10元（学生半价）的顺德清晖园，遇喷泉彩虹；去增城稻田感受乡野气息。开学一周适应良好，仅英语老师需检查字帖（其他老师不查，暑假作业多为建议可免做），高一采用广东3+1+2模式目前设9科，周末逛南沙欣赏海景与桥墩风景。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "『优化日记』在AI的帮助下完成了部分优化",
@@ -815,7 +815,7 @@
     {
       "title": "ESP32 / ESP8266 物联网开发环境配置指南",
       "link": "https://blog.liseezn.top/919.html/",
-      "date": "Wed, 12 Aug 2026 13:59:40 +0000",
+      "date": "2026-08-12T13:59:40Z",
       "description": "前言 ESP32 与 ESP8266 是当前物联网开发领域普及率最高的两款芯片：ESP32 搭载双核处理器，支 [&#8230;]",
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
@@ -824,7 +824,7 @@
     {
       "title": "Codex 接入 DeepSeek 保姆级教程｜ Codex++",
       "link": "https://blog.liseezn.top/903.html/",
-      "date": "Wed, 12 Aug 2026 13:44:35 +0000",
+      "date": "2026-08-12T13:44:35Z",
       "description": "用 Codex 写代码的朋友，大概率都遇到过这些糟心事：OpenAI 接口时不时抽风、网络不稳半天出不来结果、 [&#8230;]",
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
@@ -867,33 +867,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
-      "title": "川西暑漫记｜D4 稻城亚丁-勇闯4600米牛奶海，跌宕起伏的高海拔徒步之旅",
-      "link": "https://note.redcha.cn/archives/wei-ming-ming-wen-zhang-TbXi2E5F",
-      "date": "Mon, 10 Aug 2026 00:53:00 GMT",
-      "description": "2026年8月10日（川西游D4），游客一行先住稻城亚丁智选假日酒店休整，清晨8:04抵亚丁景区，经惊险盘山大巴（从2900米升至3900米），9:30达洛绒牛场（当日天气晴好）。四人小分队徒步亚丁长线，克服高反、陡坡等，下午3点登顶4600米牛奶海，湖水如蓝宝石；途中遇风雨冰雹，下山高反加剧，紧急用代背服务避险。晚9点抵稻城镇吃红烧牛肉面，游客感慨此行累但景值，称“不去后悔一辈子，去了后悔八辈子",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
-      "title": "川西暑漫记｜D3 翻越天路十八弯，驰骋世界高城理塘，奔赴稻城香格里拉",
-      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d3-fan-yue-tian-lu-shi-ba-wan-chi-cheng-shi-jie-gao-cheng-li-tang-ben-fu-dao-cheng-xiang-ge-li-la",
-      "date": "Sun, 9 Aug 2026 14:24:00 GMT",
-      "description": "2026年8月9日为川西游第三天，因前一日G318国道塞车、全员高反，清晨6点10分出发。当日先后打卡天路十八弯（因车流大驻车打卡）、4288米梅朵措、4718米卡子拉山垭口，抵达世界高城理塘，体验撒隆达等人文活动，途经毛垭大草原、兔子山、海子山，避开桑堆补给点旅行社宰客套路，夜宿香格里拉镇，高反缓解，备足进山物资，期待明日稻城亚丁之旅。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
-      "title": "川西暑漫记｜D1-D2 从平原奔赴山海，初遇高原的风与自由",
-      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d1-d2-cong-ping-yuan-ben-fu-shan-hai-chu-yu-gao-yuan-de-feng-yu-zi-you",
-      "date": "Sat, 8 Aug 2026 13:29:00 GMT",
-      "description": "2026年8月7-8日，开启为期七天的川西治愈之旅前两日：首日从广东乘高铁赴成都，休整时体验机器人送外卖；次日从成都出发，经雅叶高速、打卡点多的天全服务区，先后抵达434机场路、高原天空之镜红海子、康定机场，登顶格底拉姆天空之城得见贡嘎雪山。途中遇被车辆误伤的土拨鼠与狐狸，返程遇堵车，有人轻微高反，傍晚平安抵达新都桥，两日尽览川西山野治愈风光。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
       "title": "试玩神人游戏《完蛋！我被男同学包围了》",
       "link": "https://474029.xyz/posts/shi-wan-wdwbntxbwl-game/",
       "date": "Sat, 08 Aug 2026 08:41:00 GMT",
@@ -923,7 +896,7 @@
     {
       "title": "Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略",
       "link": "https://blog.liseezn.top/896.html/",
-      "date": "Fri, 07 Aug 2026 13:56:10 +0000",
+      "date": "2026-08-07T13:56:10Z",
       "description": "这是一份面向普通用户的全流程实践指南。不论你是刚接触 Obsidian 的新手，还是想将 AI 能力彻底融入笔 [&#8230;]",
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
@@ -950,7 +923,7 @@
     {
       "title": "烧几亿Token搭完AI工作台SaaS平台，在上线前止损",
       "link": "https://blog.liseezn.top/883.html/",
-      "date": "Thu, 06 Aug 2026 09:00:12 +0000",
+      "date": "2026-08-06T09:00:12Z",
       "description": "从空仓库到全链路跑通。全程AI辅助开发，前前后后烧掉几亿Token，把一套多职业AI工作台SaaS的核心骨架全 [&#8230;]",
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
@@ -968,7 +941,7 @@
     {
       "title": "全栈开发Skill矩阵：从前端审美到后端运维，打造完整AI开发流水线",
       "link": "https://blog.liseezn.top/877.html/",
-      "date": "Wed, 05 Aug 2026 22:00:00 +0000",
+      "date": "2026-08-05T22:00:00Z",
       "description": "上一篇我们聊了前端开发的Skill组合，解决了AI写页面“模板化、审美差”的痛点。但对全栈开发者来说，前端只是 [&#8230;]",
       "site": "Liseezn'blog",
       "siteUrl": "https://blog.liseezn.top",
@@ -1009,15 +982,6 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
-    },
-    {
-      "title": "假如我有一块可以抹去记忆的橡皮",
-      "link": "https://hehuang.site/p/an-eraser/",
-      "date": "Sun, 02 Aug 2026 17:25:00 +0800",
-      "description": "假如我拥有一块可以抹去记忆的橡皮， &#xA; 我不知道最先想要擦去哪一段往事， &#xA; 我只是常常这样设想…… &#xA; 我想，我会擦掉那些让我痛苦的片段 &#xA; ——后悔、失败、与那丢脸的瞬间： &#xA; 也许，是那次无疾而终，毅然决然地和朋友绝交； &#xA; 也许，是那次被众人期待，却在赛场上得不到一半分数的比赛； &#xA; 也许，是那次准备了好久，却依旧发挥失常的讲课。 &",
-      "site": "合荒小站",
-      "siteUrl": "https://hehuang.site/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
       "title": "一次制作终端版博客的经历",
