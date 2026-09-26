@@ -1,15 +1,42 @@
 {
-  "updated_at": "2026-09-26T14:13:29.857Z",
-  "count": 157,
+  "updated_at": "2026-09-26T17:50:47.754Z",
+  "count": 153,
   "list": [
     {
       "title": "九月末记 | 中秋安康+月饼活动 激情的时光",
       "link": "https://note.redcha.cn/archives/jiu-yue-mo-ji-zhong-qiu-an-kang-yue-bing-huo-dong-ji-qing-de-shi-guang",
-      "date": "Sat, 26 Sep 2026 13:53:21 GMT",
+      "date": "Sat, 26 Sep 2026 17:27:00 GMT",
       "description": "中秋将至，某班班主任策划的月饼制作活动（全年级仅3个班开展），因考试调整至自习课进行，活动前设猜灯谜，同学分小组协作，因防粘粉不足、面饼量少出现操作状况，多数人完成月饼（有人偷吃），作者忘带成品。此外，彬红茶日记APP升级3.0，新增登录注册与精美UI，配套H5版本已完成，安卓应用编译约需1个月；此前丢失的近千条评论，已通过邮箱还原近200条，祝大家中秋快乐。",
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
+      "title": "博客主题开源了！",
+      "link": "https://loneapex.cn/shuoshuo/%e5%8d%9a%e5%ae%a2%e4%b8%bb%e9%a2%98%e5%bc%80%e6%ba%90%e4%ba%86%ef%bc%81",
+      "date": "Sat, 26 Sep 2026 14:41:05 +0000",
+      "description": "终于等到这一天了。目前这个站点使用的Wordpress主题已经开源到GitHub上了。 当然，现在只是处在「把仓库传了上去」的阶段。这个几乎完全用AI写的主题目前还存在一堆问题，等国庆假期大概会搓一个使用文档，并且对代码进行重构，到那时候估...",
+      "site": "Mimosa的小屋",
+      "siteUrl": "https://loneapex.cn/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
+    },
+    {
+      "title": "今夜月明人尽望",
+      "link": "https://upxuu.com/posts/2026moon/",
+      "date": "Sat, 26 Sep 2026 14:18:05 GMT",
+      "description": "我不太会拍照，也没有 nb 的设备，凑合看看罢～ 拍摄于八月十五/八月十六 石家庄 NOVA 16",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "mc布吉岛起床空岛外挂客户端大推荐[副获取]",
+      "link": "https://ttquk.github.io/2026/09/26/mcclient/",
+      "date": "2026-09-26T12:00:00.000Z",
+      "description": "mc布吉岛起床空岛外挂客户端推荐，ednaven、elowen、nolstice、openzen、vapev4 实机截图展示与获取地址。",
+      "site": "TT清沫uk",
+      "siteUrl": "https://ttquk.netlify.app",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
     },
     {
       "title": "永远是多远",
@@ -345,15 +372,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
-      "title": "「说说」undefined",
-      "link": "https://upxuu.com/talk/20260909004617/",
-      "date": "Tue, 08 Sep 2026 16:46:17 GMT",
-      "description": "i just want to be left alone no think no talk only clear ​why not zh? no courage 在发生了一些事情后，有感而发 祝我平安",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
       "title": "八月，键曲回响、轻音少女、键等联动",
       "link": "https://loneapex.cn/archives/5907",
       "date": "Mon, 07 Sep 2026 16:00:23 +0000",
@@ -433,15 +451,6 @@
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
-      "title": "『优化日记』在AI的帮助下完成了部分优化",
-      "link": "https://blog.byside.top/archives/20260905_1",
-      "date": "Fri, 4 Sep 2026 16:45:50 GMT",
-      "description": "因服务商通知机房禁止访问非大陆服务器，博客需迁移至NAS并寻找新服务器。本周完成部分优化：图片存储采用图床（3天备份保留30天）、S3及Halo自带存储；评论表情包原使用Github地址加载缓慢，改为克隆至S3存储桶，由AI修改json文件，提供Halo后台添加方法；后续计划研究RSS抓取。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
     },
     {
       "title": "学校社交坏 😭",
@@ -624,15 +633,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
-      "title": "『爱的光芒』过审啦！",
-      "link": "https://blog.byside.top/archives/20260828_1",
-      "date": "Fri, 28 Aug 2026 11:59:30 GMT",
-      "description": "作者于2024年11月创作了一首歌词，发布后评论反馈有好有坏，但作者未受影响。今日，该歌词在网易云音乐过审，作者正式以“主创”身份在评论区互动。作者对读者的支持表示感谢，并欢迎大家前来欣赏作品。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
-    },
-    {
       "title": "Godot：子弹和碰撞层",
       "link": "https://codevfun.work/writing/godot-bullets-collision-layers",
       "date": "Fri, 28 Aug 2026 04:00:00 GMT",
@@ -732,24 +732,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
-      "title": "『拥抱日出』我的昵称发展史",
-      "link": "https://blog.byside.top/archives/20260824_1",
-      "date": "Mon, 24 Aug 2026 13:08:05 GMT",
-      "description": "作者昵称始于“不吃鱼的猫”，灵感源于一张猫鱼和谐共处的图片。后改为“贩卖日落”，通过百度搜图获得灵感。初中网课期间，交作业时语文老师私信约谈，建议改名因“贩卖日落”不积极，改为“拥抱日出”。此昵称已使用三年，朋友常误读为“拥抱日落”或“拥抱域名”，但作者认为“拥抱”开头适配多词组。写博文时，拼音拆解为YBRC，意为“一表人才”，体现老师用心。作者感谢老师的建议，昵称故事传递积极改变和感恩。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
-    },
-    {
-      "title": "『随笔』手持搭载骁龙8+G1的华为P60的我",
-      "link": "https://blog.byside.top/archives/20260823_1",
-      "date": "Sun, 23 Aug 2026 06:00:06 GMT",
-      "description": "作为华为P60机主，作者使用该机近三年。P60无法升级鸿蒙5及以上系统，仅支持4G网络，无星闪技术。手机做工优良，掉落无损坏，但电池健康度降至89%，需频繁充电。作为半华为全家桶用户，依赖生态便利，但手机和电脑无星闪，手表不支持连接耳机，限制耳机功能。骁龙8+G1性能够用，但8G运行内存导致后台被杀；蓝牙延迟影响游戏体验。相机在高温下过热无法拍照。作者欣赏鸿蒙6 UI，但鸿蒙4.2 UI不如意。整",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
-    },
-    {
       "title": "讲讲「万物皆虚，万事皆允」",
       "link": "https://xice.cx/posts/nothingIsTrue/",
       "date": "2026-08-23T00:00:00.000Z",
@@ -766,15 +748,6 @@
       "site": "云白",
       "siteUrl": "https://denjuy.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
-      "title": "『随笔』聊聊这几天干的坏事",
-      "link": "https://blog.byside.top/archives/20260821_1",
-      "date": "Fri, 21 Aug 2026 04:50:15 GMT",
-      "description": "在我周围的朋友应该都知道，我的 NAS 在一次「神秘大手」的操作下，丢失了所有数据。好在最后在 fnOS 团队提供的神秘工具帮助下，成功恢复了大部分数据。 但问题在于，我的图床也跑在这台 NAS 上，于是所有博客配图瞬间蒸发，一张都没剩下。 当时我就在想：如果照片全存在 Halo 里该多好，这样即便",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
     },
     {
       "title": "「浅谈」时代峰峻造星乱象：低龄逐利之下，追星早已失了底线",
@@ -1195,15 +1168,6 @@
       "link": "https://ttquk.github.io/2026/06/27/linux-command/",
       "date": "2026-06-27T19:30:00.000Z",
       "description": "最全的 Linux 命令教程，从基础入门到高级技巧，涵盖文件操作、权限管理、进程控制、网络配置等常用 Shell 命令详解。",
-      "site": "TT清沫uk",
-      "siteUrl": "https://ttquk.netlify.app",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
-    },
-    {
-      "title": "🔐SSH连接服务器完整教程",
-      "link": "https://ttquk.github.io/2026/06/27/ssh%E5%AE%9E%E6%93%8D/",
-      "date": "2026-06-27T19:02:00.000Z",
-      "description": "从零开始的 SSH 连接服务器完整教程，涵盖密钥生成、端口配置、安全加固和常见问题排查，适用于 Linux 服务器管理。",
       "site": "TT清沫uk",
       "siteUrl": "https://ttquk.netlify.app",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
