@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-26T05:13:25.998Z",
-  "count": 158,
+  "updated_at": "2026-09-26T10:00:02.098Z",
+  "count": 163,
   "list": [
     {
       "title": "九月末记 | 中秋安康+月饼活动 激情的时光",
       "link": "https://note.redcha.cn/archives/jiu-yue-mo-ji-zhong-qiu-an-kang-yue-bing-huo-dong-ji-qing-de-shi-guang",
-      "date": "Sat, 26 Sep 2026 03:25:43 GMT",
+      "date": "Sat, 26 Sep 2026 09:54:36 GMT",
       "description": "中秋将至，某班班主任策划的月饼制作活动（全年级仅3个班开展），因考试调整至自习课进行，活动前设猜灯谜，同学分小组协作，因防粘粉不足、面饼量少出现操作状况，多数人完成月饼（有人偷吃），作者忘带成品。此外，彬红茶日记APP升级3.0，新增登录注册与精美UI，配套H5版本已完成，安卓应用编译约需1个月；此前丢失的近千条评论，已通过邮箱还原近200条，祝大家中秋快乐。",
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
@@ -19,6 +19,24 @@
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "博客 v0.4.7 重构：如何营造沉浸舒服的文章浏览体验？",
+      "link": "https://blog.8765777.xyz/posts/post-20260926-bw0x8g/",
+      "date": "Sat, 26 Sep 2026 00:00:00 GMT",
+      "description": "把文章页推倒重做的一个通宵，和藏在新版里的几个决定",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
+    },
+    {
+      "title": "样式试验场 · 正文元素全谱",
+      "link": "https://blog.8765777.xyz/posts/post-20260926-co32vp/",
+      "date": "Sat, 26 Sep 2026 00:00:00 GMT",
+      "description": "文章正文区域重构专用的测试长文：把所有 markdown 元素排一遍，用作视觉基线",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
     },
     {
       "title": "心脏病要吓出来了",
@@ -750,15 +768,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
-      "title": "最近在筹备大事，水篇说说awa",
-      "link": "https://blog.8765777.xyz/talks/talk_edweex83wrpe/",
-      "date": "Fri, 21 Aug 2026 20:26:00 GMT",
-      "description": "最近在筹备大事，水篇说说awa",
-      "site": "没吃饱的天镜镜",
-      "siteUrl": "https://blog.8765777.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
-    },
-    {
       "title": "『随笔』聊聊这几天干的坏事",
       "link": "https://blog.byside.top/archives/20260821_1",
       "date": "Fri, 21 Aug 2026 04:50:15 GMT",
@@ -811,15 +820,6 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
-      "title": "沃雅妮莎！",
-      "link": "https://blog.8765777.xyz/posts/post-20260816-sybika/",
-      "date": "Sun, 16 Aug 2026 00:00:00 GMT",
-      "description": "ovo",
-      "site": "没吃饱的天镜镜",
-      "siteUrl": "https://blog.8765777.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
     },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
@@ -883,15 +883,6 @@
       "site": "逸树の小屋",
       "siteUrl": "https://474029.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120001.webp"
-    },
-    {
-      "title": "太阳偷喝了柿子酒",
-      "link": "https://xinyang-gao.github.io/articles/太阳偷喝了柿子酒.html",
-      "date": "Tue, 11 Aug 2026 00:00:00 GMT",
-      "description": "被日落的景色迷住了…天空永远是那么迷人",
-      "site": "高新炀的小站",
-      "siteUrl": "https://gxy.cn.mt",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
       "title": "川西暑漫记｜D4 稻城亚丁-勇闯4600米牛奶海，跌宕起伏的高海拔徒步之旅",
@@ -1011,6 +1002,24 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120001.webp"
     },
     {
+      "title": "谁是卧底",
+      "link": "https://xinyang-gao.github.io/works/谁是卧底/",
+      "date": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "description": "一个线下玩的谁是卧底游戏",
+      "site": "高新炀的小站",
+      "siteUrl": "https://gxy.cn.mt",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
+      "title": "公式对决小工具",
+      "link": "https://xinyang-gao.github.io/works/公式对决小工具/",
+      "date": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "description": "公式对决游戏的公式化打法？",
+      "site": "高新炀的小站",
+      "siteUrl": "https://gxy.cn.mt",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
       "title": "这么多人无证驾驶吗（",
       "link": "https://474029.xyz/posts/ets2-wu-zheng-jia-shi/",
       "date": "Mon, 03 Aug 2026 10:08:00 GMT",
@@ -1029,6 +1038,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
     },
     {
+      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
+      "link": "https://i.limhy.cn/blog/1/",
+      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
+      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "一次制作终端版博客的经历",
       "link": "https://mabbs.github.io/2026/08/01/terminal.html",
       "date": "2026-08-01T00:00:00+08:00",
@@ -1036,6 +1054,15 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
+    },
+    {
+      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
+      "link": "https://i.limhy.cn/blog/202/",
+      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
+      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "亿不小心破解了清北道远学习机",
@@ -1200,6 +1227,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
     },
     {
+      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
+      "link": "https://i.limhy.cn/blog/189/",
+      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
+      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
+      "link": "https://i.limhy.cn/blog/188/",
+      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
+      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
+      "link": "https://i.limhy.cn/blog/187/",
+      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
+      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "如何节约游戏占用的硬盘空间？",
       "link": "https://mabbs.github.io/2026/06/01/dedupe.html",
       "date": "2026-06-01T00:00:00+08:00",
@@ -1245,19 +1299,10 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
     },
     {
-      "title": "从一株小草开始",
-      "link": "https://xinyang-gao.github.io/articles/从一株小草开始.html",
-      "date": "Wed, 18 Mar 2026 00:00:00 GMT",
-      "description": "记叙体育课一千米测试时，一株从水泥与假草缝隙中钻出的真草，给了我坚持跑完全程的勇气。",
-      "site": "高新炀的小站",
-      "siteUrl": "https://gxy.cn.mt",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "就这样走过二〇二五",
-      "link": "https://xinyang-gao.github.io/articles/就这样走过2025.html",
-      "date": "Tue, 10 Feb 2026 00:00:00 GMT",
-      "description": "一次诗歌尝试",
+      "title": "文言文词汇闯关",
+      "link": "https://xinyang-gao.github.io/works/文言文词汇闯关/",
+      "date": "Thu, 26 Mar 2026 00:00:00 GMT",
+      "description": "一个语文文言文词语闯关游戏",
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
@@ -1265,7 +1310,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "date": "2026-02-01T02:44:53Z",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1274,7 +1319,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "date": "2026-02-01T02:44:32Z",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1283,7 +1328,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "date": "2026-01-30T16:00:03Z",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1319,7 +1364,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "date": "2026-01-02T06:24:00Z",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1337,7 +1382,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "date": "2025-12-30T16:00:00Z",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1351,15 +1396,6 @@
       "site": "ElysiumStack",
       "siteUrl": "https://blog.elysium-stack.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
-    },
-    {
-      "title": "马生复宋濂书",
-      "link": "https://xinyang-gao.github.io/articles/马生复宋濂书.html",
-      "date": "Tue, 09 Dec 2025 00:00:00 GMT",
-      "description": "模仿《送东阳马生序》中马生的口吻，以文言文回信宋濂。表达对先生勤学精神的敬佩，反省自身优越条件，承诺以圣贤之道为归，不负教诲。",
-      "site": "高新炀的小站",
-      "siteUrl": "https://gxy.cn.mt",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
       "title": "2025.12.2 祝我生日快乐",
@@ -1378,6 +1414,15 @@
       "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
       "siteUrl": "https://66619.eu.org",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
+    },
+    {
+      "title": "PCL2主页编辑器",
+      "link": "https://github.com/Xinyang-Gao/PCL2-Custom-Homepage-Creator",
+      "date": "Thu, 30 Oct 2025 00:00:00 GMT",
+      "description": "一个基于 Web 的图形化编辑器，用于可视化设计 Plain Craft Launcher (PCL) 的主页界面。支持拖拽组件、实时预览、XAML 导入/导出、本地文件同步及自动备份",
+      "site": "高新炀的小站",
+      "siteUrl": "https://gxy.cn.mt",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
       "title": "朗诵音乐",
