@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T13:10:34.587Z",
+  "updated_at": "2026-09-27T17:52:00.858Z",
   "count": 159,
   "list": [
     {
@@ -55,6 +55,33 @@
       "site": "MingBlog",
       "siteUrl": "https://mingblog.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
+    },
+    {
+      "title": "去除无效Token！从日均5元降到2元的方法是？",
+      "link": "https://pinpe.top/posts/intelligent-reform/",
+      "date": "Sun, 27 Sep 2026 00:00:00 GMT",
+      "description": "自从Deepseek涨价后，必须要降本增效了。",
+      "site": "Pinpe 的云端",
+      "siteUrl": "https://pinpe.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
+    },
+    {
+      "title": "华为小米粉丝互联网骂架的深入分析",
+      "link": "https://xice.cx/posts/huaweiVsXiaomi/",
+      "date": "2026-09-27T00:00:00.000Z",
+      "description": "中国科技圈有两个群体，骂了将近十年，至今没有停歇的迹象。一个叫米粉，一个叫花粉，分别是小米和华为的死忠信仰级用户，这两个群体之间的战争是中国消费电子史上最持久激烈，也最荒诞的文化现象之一 荒诞在哪里？ 在于他们骂架的内容，从来不是真正的问题所在 米粉说华为是智商税，溢价严重，没有性价比。花粉说小米是组装厂，没有核心技术都是字研。双方各执一词，论据换了一轮又一轮，细节争了一个又一个，但如果你往后退一",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
+    {
+      "title": "依旧是很无聊的生活",
+      "link": "https://xfchannel.top/note/2026-09-27-%E4%BE%9D%E6%97%A7%E6%98%AF%E5%BE%88%E6%97%A0%E8%81%8A%E7%9A%84%E7%94%9F%E6%B4%BB/",
+      "date": "2026-09-26T16:00:00.000Z",
+      "description": "我现在很无聊，感觉很空虚。一个人坐在电脑前面，用着语音转文字来写博客，但是脑子里什么事都没有。 虽然说我知道我还有事要去做，作业到现在也还有一小部分没有写，但是我觉得明天早上到学校去再写吧。 这真的很无聊 这又过去了两周。",
+      "site": "xf_blog",
+      "siteUrl": "https://xfchannel.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "博客主题开源了！",
@@ -633,15 +660,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
-      "title": "用 workflow 定时让 AI 写文章，让 AI 打工",
-      "link": "https://xfchannel.top/tech/2026-08-29-%E7%94%A8%20workflow%20%E5%AE%9A%E6%97%B6%E8%AE%A9%20AI%20%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%8C%E8%AE%A9%20AI%20%E6%89%93%E5%B7%A5/",
-      "date": "2026-08-29T00:00:00.000Z",
-      "description": "今天是29号，包括今天我还有三天假期 <img src=\"https://manksffcsqgceoofustg.supabase.co/storage/v1/object/public/edgeone-pages-imgbed/9259dde6-5c23-",
-      "site": "xf_blog",
-      "siteUrl": "https://xfchannel.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
       "title": "分享19首这几年喜欢的国漫音乐",
       "link": "https://blog.weasel6.cn/posts/music-cartoon/",
       "date": "Fri, 28 Aug 2026 13:12:00 GMT",
@@ -804,15 +822,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
     },
     {
-      "title": "一起来使用Niri吧！",
-      "link": "https://pinpe.top/posts/niri-wm/",
-      "date": "Thu, 20 Aug 2026 00:00:00 GMT",
-      "description": "在今年暑假的某一天，我刷到了一个Niri配置分享，于是我头脑一热，如同当时迁移操作系统一样，我开始迁移桌面。",
-      "site": "Pinpe 的云端",
-      "siteUrl": "https://pinpe.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
-    },
-    {
       "title": "游玩日记·第二期",
       "link": "https://blog.weasel6.cn/posts/life-second/",
       "date": "Wed, 19 Aug 2026 11:16:00 GMT",
@@ -829,15 +838,6 @@
       "site": "云白",
       "siteUrl": "https://denjuy.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
-      "title": "舞萌DX 落雪查分器使用指南",
-      "link": "https://xice.cx/posts/maiLxnsSync/",
-      "date": "2026-08-17T00:00:00.000Z",
-      "description": "最近落雪查分器确实更新了很多好用的功能，以及看到部分bot今后将把落雪作为主要支持数据源，故本文将会详细介绍落雪查分器的成绩导入到使用的完整指南 注册 落雪查分器官网为: maimai DX 查分器 进入官网注册账号即可 导入成绩 落雪代理上传 登录 落雪查分器官网 ，点击左上角菜单，选中 同步游戏数据 您可以手动在系统设置的WLAN设定中设置HTTP代理（非必要不推荐），这里主要演示使用代理工具",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
