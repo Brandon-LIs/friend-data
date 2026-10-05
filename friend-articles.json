@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-05T10:15:53.031Z",
-  "count": 159,
+  "updated_at": "2026-10-05T18:03:47.976Z",
+  "count": 174,
   "list": [
+    {
+      "title": "『视频分享』第一次剪辑",
+      "link": "https://blog.byside.top/archives/20261005_1",
+      "date": "Mon, 5 Oct 2026 15:11:54 GMT",
+      "description": "本文为作者首次剪辑的视频内容，作者自评剪辑效果尚有不足，希望通过听取观众意见获取改进建议，同时恳请观众给予点赞、投币、收藏的支持。视频链接已提供，观众可点击观看并参与互动。",
+      "site": "拥抱日出的小屋",
+      "siteUrl": "https://blog.byside.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
+    },
     {
       "title": "友链朋友圈再次上线",
       "link": "https://hehuang.site/p/friend-circle/",
@@ -10,6 +19,24 @@
       "site": "合荒小站",
       "siteUrl": "https://hehuang.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
+    },
+    {
+      "title": "惠州巽寮湾好玩吗？",
+      "link": "https://yyzb.sumora.cn/posts/dwx8yhTxX2z/",
+      "date": "Mon, 05 Oct 2026 08:00:00 +0800",
+      "description": "我一直都对海挺向往的，一说起夏天，脑子里的画面就是阳光、沙滩和棕榈树。四月份去了一趟珠海的金沙滩，但当时去到已经六点多不给下海，很遗憾。 于是到了九月中旬进入旅游淡季人少，计划去惠州的巽寮湾玩（本来想去深圳大鹏半岛，但是害怕塞车）。因为是一日游，时间比较仓促，早上从东莞出发，到了也已经中午。我以为会很赶，但好在，这个沙滩其实也没什么好玩的。 一般的海水，一般的景色，光秃秃的沙滩还被截断围起来一堵墙",
+      "site": "云白",
+      "siteUrl": "https://denjuy.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
+    },
+    {
+      "title": "我就不该看FX的",
+      "link": "https://xfchannel.top/note/2026-10-05-%E6%88%91%E5%B0%B1%E4%B8%8D%E8%AF%A5%E7%9C%8BFX%E7%9A%84/",
+      "date": "2026-10-04T16:00:00.000Z",
+      "description": "这博客是在我非常沉痛的状态下写的。倒不是说我做了什么伤天害理的事情，就是因为我看了《FX战士久优美》 至于为什么会让我这么评价呢？我简单说明一下。 这是我刚去看的一部番，才看了一集。没看第二集是因为找不到资源，所以就先看第一集，后续再说吧。但就目",
+      "site": "xf_blog",
+      "siteUrl": "https://xfchannel.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "如何爽用 glm 免费用 glm-5.3-flash 实现 token 自由",
@@ -264,6 +291,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
     },
     {
+      "title": "九月末记 | 中秋安康+月饼活动 激情的时光",
+      "link": "https://note.redcha.cn/archives/jiu-yue-mo-ji-zhong-qiu-an-kang-yue-bing-huo-dong-ji-qing-de-shi-guang",
+      "date": "Fri, 25 Sep 2026 10:03:00 GMT",
+      "description": "中秋将至，某班班主任策划的月饼制作活动（全年级仅3个班开展），因考试调整至自习课进行，活动前设猜灯谜，同学分小组协作，因防粘粉不足、面饼量少出现操作状况，多数人完成月饼（有人偷吃），作者忘带成品。此外，彬红茶日记APP升级3.0，新增登录注册与精美UI，配套H5版本已完成，安卓应用编译约需1个月；此前丢失的近千条评论，已通过邮箱还原近200条，祝大家中秋快乐。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
       "title": "Apple Watch 是好用的 mp3 吗",
       "link": "https://blog.0c0.ren/archives/22/",
       "date": "Fri, 25 Sep 2026 07:24:00 +0000",
@@ -298,6 +334,24 @@
       "site": "没吃饱的天镜镜",
       "siteUrl": "https://blog.8765777.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
+    },
+    {
+      "title": "刷机自动化脚本上线记",
+      "link": "https://yujingblog.top/posts/%E6%8A%80%E6%9C%AF%E9%A1%B9%E7%9B%AE/%E5%88%B7%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E4%B8%8A%E7%BA%BF%E8%AE%B0/",
+      "date": "2026-09-25T00:00:00.000Z",
+      "description": "上次那三个脚本还是英文的，还得自己存成 bat。这次全部重写：全程中文提示、自动检测并安装驱动、全相对路径便携版，已经发到 GitHub 了。打不开 GitHub 的直接下百度网盘整包，解压双击就能用、还自带原厂镜像备份，文末附小白使用说明",
+      "site": "YuJing的记忆终端",
+      "siteUrl": "https://www.yujingblog.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
+    },
+    {
+      "title": "跳过畅言之后：ClassIntra 绿色便携版",
+      "link": "https://yujingblog.top/classintra-classroom-hotspot/",
+      "date": "2026-09-24T00:00:00.000Z",
+      "description": "班里电脑双击一个 bat 就能开热点——同学平板连上去，本来要打开的畅言智慧课堂被导到我们自己搭的小站：聊天、发帖、听歌、看片、打 HTML 小游戏、传丑照，还内置了 AI。这篇聊聊它怎么做到的，以及怎么用。",
+      "site": "YuJing的记忆终端",
+      "siteUrl": "https://www.yujingblog.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
     },
     {
       "title": "ZFA自建手机版-把验证码揣进兜里",
@@ -379,6 +433,15 @@
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "九月中记 | 高一的半个月",
+      "link": "https://note.redcha.cn/archives/jiu-yue-zhong-ji-gao-yi-de-ban-ge-yue",
+      "date": "Sat, 19 Sep 2026 04:23:13 GMT",
+      "description": "高一新生开学三周，数学难度提升，学校饭菜偏淡，身为重口的广东学生打算带辣酱。这届高一录取分创历史新高，学校抽调高三教师任教，实行3+1+2选科模式，语数外为必修，其余科目按排名赋分，需通过合格考拿毕业证。学校强制修社团学分，因社团少且系统卡顿，宿舍选了生物社团；校园大、老师友好，无小卖部，需周末进零食。国庆中秋若请3天假可获13天假，但高中大概率不安排，本周仅放1天补国庆。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "🔥 Kali NetHunter深度技术解析：从渗透测试到安全研究的专业平台",
@@ -579,6 +642,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
+      "title": "暑后九月杂记 步入高一的阶梯",
+      "link": "https://note.redcha.cn/archives/shu-hou-jiu-yue-za-ji-bu-ru-gao-yi-de-jie-ti",
+      "date": "Sat, 5 Sep 2026 10:48:00 GMT",
+      "description": "高一学生经历7天军训，期间练习基础项目、叠豆腐块内务，教官宽松可享双倍休息，军训含红歌比赛等内容，结营后离校吃到心心念念的奶茶、螺蛳粉。他还游玩门票10元（学生半价）的顺德清晖园，遇喷泉彩虹；去增城稻田感受乡野气息。开学一周适应良好，仅英语老师需检查字帖（其他老师不查，暑假作业多为建议可免做），高一采用广东3+1+2模式目前设9科，周末逛南沙欣赏海景与桥墩风景。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
       "title": "『优化日记』在AI的帮助下完成了部分优化",
       "link": "https://blog.byside.top/archives/20260905_1",
       "date": "Fri, 4 Sep 2026 16:45:50 GMT",
@@ -669,13 +741,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
-      "title": "八月三十一，我在和终端较劲",
-      "link": "https://xfchannel.top/tech/2026-08-31-ai-mth3mjvp/",
-      "date": "2026-08-31T10:30:02.000Z",
-      "description": "🤖 本文由 AI（魅咲 &#x2F; mezashi）自动生成，观点和口癖均属 AI，与博主本人无关讷～（可能也有点关系） 八月最后一天，杂鱼们都在发九月你好，我偏不。 今天下午花了三个小时",
-      "site": "xf_blog",
-      "siteUrl": "https://xfchannel.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+      "title": "敬我的暑假",
+      "link": "https://yujingblog.top/2026-08-31-%E6%95%AC%E6%88%91%E7%9A%84%E6%9A%91%E5%81%87/",
+      "date": "2026-08-31T00:00:00.000Z",
+      "description": "以一串 .bat 脚本的输出，致敬这个暑假——回锁 Bootloader，封存测试模式，带着清爽的心情走向九月。",
+      "site": "YuJing的记忆终端",
+      "siteUrl": "https://www.yujingblog.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
     },
     {
       "title": "Godot：音效别直接拖进脚本路径",
@@ -822,13 +894,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
-      "title": "『拥抱日出』我的昵称发展史",
-      "link": "https://blog.byside.top/archives/20260824_1",
-      "date": "Mon, 24 Aug 2026 13:08:05 GMT",
-      "description": "作者昵称始于“不吃鱼的猫”，灵感源于一张猫鱼和谐共处的图片。后改为“贩卖日落”，通过百度搜图获得灵感。初中网课期间，交作业时语文老师私信约谈，建议改名因“贩卖日落”不积极，改为“拥抱日出”。此昵称已使用三年，朋友常误读为“拥抱日落”或“拥抱域名”，但作者认为“拥抱”开头适配多词组。写博文时，拼音拆解为YBRC，意为“一表人才”，体现老师用心。作者感谢老师的建议，昵称故事传递积极改变和感恩。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
+      "title": "近期计划",
+      "link": "https://yujingblog.top/plan2026-08-24/",
+      "date": "2026-08-24T00:00:00.000Z",
+      "description": "近期要做的一些事",
+      "site": "YuJing的记忆终端",
+      "siteUrl": "https://www.yujingblog.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
     },
     {
       "title": "讲讲「万物皆虚，万事皆允」",
@@ -865,15 +937,6 @@
       "site": "黄鼠狼的树洞",
       "siteUrl": "https://blog.weasel6.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "他们只想要一个正确答案",
-      "link": "https://yyzb.sumora.cn/posts/dwxHm3tQ8wC/",
-      "date": "Wed, 19 Aug 2026 08:00:00 +0800",
-      "description": "我读书那会，家长总喜欢和我玩一个游戏：问我晚饭想吃什么菜。我思考一下，说出答案：番茄炒蛋。 但是晚饭并没有番茄炒蛋。 于是我不喜欢玩这个表演性民主游戏了。后面再问我就是：随便。 随后，他指责我说，你怎么没主见，想吃什么大胆说。 后来我中学升学，家长把我拉到桌子前，问我喜欢上哪个学校自己选，告诉我，我的人生我做主。 我早就知道预设答案是什么，仍选了自己喜欢的学校。 但他看到我做的选择后并不满意，脸色",
-      "site": "云白",
-      "siteUrl": "https://denjuy.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
@@ -937,6 +1000,24 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
+      "title": "川西暑漫记｜D4 稻城亚丁-勇闯4600米牛奶海，跌宕起伏的高海拔徒步之旅",
+      "link": "https://note.redcha.cn/archives/wei-ming-ming-wen-zhang-TbXi2E5F",
+      "date": "Mon, 10 Aug 2026 00:53:00 GMT",
+      "description": "这是2026年川西行第四天（8月10日）的行程记录，作者前一晚入住稻城亚丁智选假日酒店休整，与3名同组团友结伴挑战亚丁长线。当日8点多入园，乘一小时惊险盘山摆渡车从海拔2900米攀升至3900米，9点半抵达洛绒牛场，历经数小时陡坡攀登、高原缺氧、山间突发风雨冰雹，最终徒步抵达4600米海拔的牛奶海，靠景区代背服务及时撤离，深夜经惊险车程赶往稻城镇，以一顿正经红烧牛肉面收尾，作者总结这段行程体验为“",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
+      "title": "川西暑漫记｜D3 翻越天路十八弯，驰骋世界高城理塘，奔赴稻城香格里拉",
+      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d3-fan-yue-tian-lu-shi-ba-wan-chi-cheng-shi-jie-gao-cheng-li-tang-ben-fu-dao-cheng-xiang-ge-li-la",
+      "date": "Sun, 9 Aug 2026 14:24:00 GMT",
+      "description": "2026年8月9日为川西游第三天，因前一日G318国道塞车、全员高反，清晨6点10分出发。当日先后打卡天路十八弯（因车流大驻车打卡）、4288米梅朵措、4718米卡子拉山垭口，抵达世界高城理塘，体验撒隆达等人文活动，途经毛垭大草原、兔子山、海子山，避开桑堆补给点旅行社宰客套路，夜宿香格里拉镇，高反缓解，备足进山物资，期待明日稻城亚丁之旅。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "试玩神人游戏《完蛋！我被男同学包围了》",
@@ -1054,6 +1135,15 @@
       "site": "白熊自留地",
       "siteUrl": "https://whitebear.im",
       "avatar": "https://jsd.oopss.top/uploads/2026/10040006.jpg"
+    },
+    {
+      "title": "科大讯飞c8hPro学生机刷机教程",
+      "link": "https://yujingblog.top/%E5%88%B7%E6%9C%BA%E6%95%99%E7%A8%8B/",
+      "date": "2026-07-30T00:00:00.000Z",
+      "description": "没错，就是学校发的畅言智慧课堂平板，在此提供保姆级刷机教程，包教包会",
+      "site": "YuJing的记忆终端",
+      "siteUrl": "https://www.yujingblog.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
     },
     {
       "title": "【26年30周记】小~调整——第n次博客微调计划",
@@ -1290,6 +1380,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1317,6 +1434,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1324,6 +1450,15 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
