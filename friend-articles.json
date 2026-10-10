@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-10T00:09:38.336Z",
+  "updated_at": "2026-10-10T06:07:48.252Z",
   "count": 189,
   "list": [
+    {
+      "title": "再谈喜欢",
+      "link": "https://lcrworld.xyz/articles/77",
+      "date": "Sat, 10 Oct 2026 05:23:40 GMT",
+      "description": "喜欢就是喜欢，而喜欢一件事是不应该有压力的。",
+      "site": "lcrworld's Blog",
+      "siteUrl": "https://lcrworld.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
+    },
     {
       "title": "艾雪周刊 V.14—拾起记忆，继续前行",
       "link": "https://daily.yybb.us/posts/weekly/14/",
@@ -10,6 +19,15 @@
       "site": "AIOVTUE-雪",
       "siteUrl": "https://daily.yybb.us",
       "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
+    },
+    {
+      "title": "买到假AirPods4的踩坑维权经历",
+      "link": "https://xice.cx/posts/fakeAirPods4/",
+      "date": "2026-10-09T00:00:00.000Z",
+      "description": "其实在下单之前就已经做好了购买到假AirPods的准备，但最后还是下了单，对华强北的仿冒我确实有很大的兴趣。 2026年10月5日8:48 pm，我在闲鱼上下单了某个人闲置AirPods4 ANC，卖家还声称可以提供购买记录且在保到27年6月，常年混迹海鲜市场的估计已经看标题就猜到是假货了，我也是猜到大概率是假的且有把握维权才下的单，刚下单后卖家声称明天帮我邮寄 次日十一点半，卖家在平台上发货，挺",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "明天月考qwq\n听一百遍反方向的钟能回到国庆的第一天吗(˙꒫˙`)",
@@ -534,15 +552,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
-      "title": "以后是多久？",
-      "link": "https://lcrworld.xyz/articles/72",
-      "date": "Mon, 21 Sep 2026 12:33:44 GMT",
-      "description": "一首题目为《以后是多久》的校园现代诗习作",
-      "site": "lcrworld's Blog",
-      "siteUrl": "https://lcrworld.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
-    },
-    {
       "title": "城市远方的怪声",
       "link": "https://pinpe.top/posts/guaa/",
       "date": "Mon, 21 Sep 2026 00:00:00 GMT",
@@ -973,15 +982,6 @@
       "site": "YuJing的记忆终端",
       "siteUrl": "https://www.yujingblog.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
-    },
-    {
-      "title": "讲讲「万物皆虚，万事皆允」",
-      "link": "https://xice.cx/posts/nothingIsTrue/",
-      "date": "2026-08-23T00:00:00.000Z",
-      "description": "今天来讲一下我比较喜欢的slogan中的其中之一： 万物皆虚，万事皆允 这句话最常见的误读是虚无主义加为所欲为：什么都不是真的，所以什么都可以做。这个读法听起来顺，但如果万物皆虚，那\"万物皆虚\"这句话本身也是虚的，它第一个就把自己杀死了，所以我认为他不成立 “虚\"不是\"不存在”，也不是\"虚假\"。 椅子是虚的，不是说椅子不存在，而是说椅子没有一个永恒的\"椅子性\"。它是木头拼的，会腐烂，换个文化可能叫",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "苏州游记：一半江南，一半赛博",
@@ -1481,7 +1481,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "date": "2026-02-01T02:44:53Z",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1490,7 +1490,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "date": "2026-02-01T02:44:32Z",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1499,7 +1499,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "date": "2026-01-30T16:00:03Z",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1535,7 +1535,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "date": "2026-01-02T06:24:00Z",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1562,7 +1562,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "date": "2025-12-30T16:00:00Z",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
