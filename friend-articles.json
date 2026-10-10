@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-10T12:47:04.142Z",
+  "updated_at": "2026-10-10T17:32:26.350Z",
   "count": 199,
   "list": [
+    {
+      "title": "『教程』获取当前电脑使用的Windows聚焦照片",
+      "link": "https://blog.byside.top/archives/20261010_1",
+      "date": "Sat, 10 Oct 2026 13:36:25 GMT",
+      "description": "在Windows系统中，用户可能想保存Windows聚焦壁纸，但无法直接下载。文章介绍了一种通过文件路径提取壁纸的方法：勾选“隐藏的项目”，进入目录C:\\Users\\用户名\\AppData\\Roaming\\Microsoft\\Windows\\Themes，找到TranscodedWallpaper文件，复制后重命名添加.jpg或.png后缀即可保存。此方法避免了截图的细节损失，让用户轻松获取高质量",
+      "site": "拥抱日出的小屋",
+      "siteUrl": "https://blog.byside.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
+    },
     {
       "title": "国庆回贵州老家：赶集、山野，还有那些熟悉的生活",
       "link": "https://wangxinyang.top/archives/guo-qing-hui-gui-zhou-zhuan-liao-yi-quan",
@@ -982,15 +991,6 @@
       "site": "黄鼠狼的树洞",
       "siteUrl": "https://blog.weasel6.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "『爱的光芒』过审啦！",
-      "link": "https://blog.byside.top/archives/20260828_1",
-      "date": "Fri, 28 Aug 2026 11:59:30 GMT",
-      "description": "作者于2024年11月创作了一首歌词，发布后评论反馈有好有坏，但作者未受影响。今日，该歌词在网易云音乐过审，作者正式以“主创”身份在评论区互动。作者对读者的支持表示感谢，并欢迎大家前来欣赏作品。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
     },
     {
       "title": "Godot：子弹和碰撞层",
