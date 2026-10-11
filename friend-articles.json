@@ -1,12 +1,21 @@
 {
-  "updated_at": "2026-10-10T23:58:32.039Z",
-  "count": 204,
+  "updated_at": "2026-10-11T04:05:39.674Z",
+  "count": 194,
   "list": [
+    {
+      "title": "ClassIntra 卡在加载：localStorage 是 null",
+      "link": "https://yujingblog.top/classintra-softbreak-localstorage-null/",
+      "date": "2026-10-11T00:00:00.000Z",
+      "description": "同样是跑在内网跳板上的 Web 应用，iFlyCompass 一点就进，ClassIntra 却永远停在加载动画，控制台只有一行 Cannot read property 'getItem' of null。这篇完整复盘这次排查：错误到底在说什么、崩溃发生在哪几行、项目里为什么已经有一套安全写法却还是炸了，以及四种修法怎么选。",
+      "site": "YuJing的记忆终端",
+      "siteUrl": "https://www.yujingblog.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
+    },
     {
       "title": "十月初记 | 国庆 花都融创/芙蓉度假区 + 广州莲花山",
       "link": "https://note.redcha.cn/archives/shi-yue-chu-ji-guo-qing-hua-du-rong-chuang-fu-rong-du-jia-qu-guang-zhou-lian-hua-shan",
       "date": "Sat, 10 Oct 2026 23:29:00 GMT",
-      "description": "融创游 我妈妈有一个之前的同事约出来玩，然后我们小时候很久之前还去过虎门炮台，很久没见了，于是，我妈决定和那个朋友见一面 这个朋友在花都，于是决定去融创玩玩 中午我们挑选了一家餐厅用餐，虽然我是重口味，但是他们家吃不了辣，于是尝了一下客家菜。这个牌子也挺好吃的 吃饱喝足了，我们便前往融创门口。融创门",
+      "description": "近日游花都融创、芙蓉度假区、莲花山，并记录校园与生活。融创与母亲旧同事聚餐吃客家菜，门口有黄牛，广播提醒勿买；门票从闸机起算两小时，换装存物后实际约一个半小时，未选滑雪套餐，体验冰雪滑板、滑道、滑梯、索道和碰碰车，场馆大但门票偏贵，停车顺畅。芙蓉度假区有山有水，灰塑博物馆展示非遗，喊声可触发喷泉，乘观光车看夜景并吃粤菜农庄。自制奶茶成功，计划加珍珠；学校赶工灯笼、月饼发霉；重游莲花山看大观音、矿洞",
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
@@ -538,15 +547,6 @@
       "link": "https://yujingblog.top/posts/%E6%8A%80%E6%9C%AF%E9%A1%B9%E7%9B%AE/%E5%88%B7%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E4%B8%8A%E7%BA%BF%E8%AE%B0/",
       "date": "2026-09-25T00:00:00.000Z",
       "description": "上次那三个脚本还是英文的，还得自己存成 bat。这次全部重写：全程中文提示、自动检测并安装驱动、全相对路径便携版，已经发到 GitHub 了。打不开 GitHub 的直接下百度网盘整包，解压双击就能用、还自带原厂镜像备份，文末附小白使用说明",
-      "site": "YuJing的记忆终端",
-      "siteUrl": "https://www.yujingblog.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
-    },
-    {
-      "title": "跳过畅言之后：ClassIntra 绿色便携版",
-      "link": "https://yujingblog.top/classintra-classroom-hotspot/",
-      "date": "2026-09-24T00:00:00.000Z",
-      "description": "班里电脑双击一个 bat 就能开热点——同学平板连上去，本来要打开的畅言智慧课堂被导到我们自己搭的小站：聊天、发帖、听歌、看片、打 HTML 小游戏、传丑照，还内置了 AI。这篇聊聊它怎么做到的，以及怎么用。",
       "site": "YuJing的记忆终端",
       "siteUrl": "https://www.yujingblog.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
@@ -1290,15 +1290,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060002.webp"
     },
     {
-      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
-      "link": "https://i.limhy.cn/blog/1/",
-      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
-      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
       "title": "一次制作终端版博客的经历",
       "link": "https://mabbs.github.io/2026/08/01/terminal.html",
       "date": "2026-08-01T00:00:00+08:00",
@@ -1306,15 +1297,6 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
-    },
-    {
-      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
-      "link": "https://i.limhy.cn/blog/202/",
-      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
-      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "近期小记",
@@ -1479,33 +1461,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
     },
     {
-      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
-      "link": "https://i.limhy.cn/blog/189/",
-      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
-      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
-      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
-      "link": "https://i.limhy.cn/blog/188/",
-      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
-      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
-      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
-      "link": "https://i.limhy.cn/blog/187/",
-      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
-      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
       "title": "如何节约游戏占用的硬盘空间？",
       "link": "https://mabbs.github.io/2026/06/01/dedupe.html",
       "date": "2026-06-01T00:00:00+08:00",
@@ -1614,33 +1569,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1668,15 +1596,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1693,15 +1612,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
