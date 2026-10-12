@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-10-12T11:09:37.439Z",
+  "updated_at": "2026-10-12T20:22:06.512Z",
   "count": 204,
   "list": [
+    {
+      "title": "博客系统 v3.1 更新日志：安全加固 · 登录体系 · 评论焕新",
+      "link": "https://lcrworld.xyz/articles/78",
+      "date": "Mon, 12 Oct 2026 14:23:04 UTC",
+      "description": "v3.0 上线后第一个月：安全加固、LCR ID 多平台登录、评论等级与称号体系、全站搜索扩展、主题插件与静态页托管。",
+      "site": "lcrworld's Blog",
+      "siteUrl": "https://lcrworld.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
+    },
+    {
+      "title": "博客系统 v3.2 更新日志：首屏 10 秒到 1 秒 · AI 知识库 · 后台六大页面",
+      "link": "https://lcrworld.xyz/articles/79",
+      "date": "Mon, 12 Oct 2026 14:23:04 UTC",
+      "description": "首屏从 10 秒降到 1 秒内、LCR AI 站内知识库问答上线、后台新增环境变量/Skill中心/Prompt管理/邮件记录等六大页面、友链自动排名与评论三套表情。",
+      "site": "lcrworld's Blog",
+      "siteUrl": "https://lcrworld.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
+    },
+    {
+      "title": "博客系统 v3.3 更新日志：后端从 Node.js 全面迁移到 Go",
+      "link": "https://lcrworld.xyz/articles/80",
+      "date": "Mon, 12 Oct 2026 14:23:04 UTC",
+      "description": "后端全部 274 个接口迁移到 Go，接口吞吐提升 5~11 倍，服务器可用内存释放约 430MB；新增多数据库支持（SQLite/MySQL/PostgreSQL）与网易云直连。",
+      "site": "lcrworld's Blog",
+      "siteUrl": "https://lcrworld.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
+    },
     {
       "title": "WorkBuddy AI 国际版 API 逆向全解析：把免费的 DeepSeek V4.1 Flash 变成自己的 OpenAI 接口",
       "link": "https://upxuu.com/posts/workbuddy-api-reverse/",
@@ -68,7 +95,7 @@
     {
       "title": "再谈喜欢",
       "link": "https://lcrworld.xyz/articles/77",
-      "date": "Sat, 10 Oct 2026 05:23:40 GMT",
+      "date": "Sat, 10 Oct 2026 05:23:40 UTC",
       "description": "喜欢就是喜欢，而喜欢一件事是不应该有压力的。",
       "site": "lcrworld's Blog",
       "siteUrl": "https://lcrworld.xyz",
@@ -221,7 +248,7 @@
     {
       "title": "奇妙的中国移动拦截了 cc.cd 后缀域名",
       "link": "https://lcrworld.xyz/articles/76",
-      "date": "Sun, 04 Oct 2026 12:24:00 GMT",
+      "date": "Sun, 04 Oct 2026 12:24:00 UTC",
       "description": "blogsclub.cc.cd 在中国移动网络下无法访问，但同一服务器上的其他域名正常。多点验证后，问题指向中国移动对 .cc.cd 后缀的连接级拦截。",
       "site": "lcrworld's Blog",
       "siteUrl": "https://lcrworld.xyz",
@@ -307,15 +334,6 @@
       "site": "AIOVTUE-雪",
       "siteUrl": "https://daily.yybb.us",
       "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
-    },
-    {
-      "title": "分享45段文案，可用于深夜发朋友圈",
-      "link": "https://lcrworld.xyz/articles/75",
-      "date": "Thu, 01 Oct 2026 10:39:09 GMT",
-      "description": "分享大量文案，共45条，可用于深夜发朋友圈",
-      "site": "lcrworld's Blog",
-      "siteUrl": "https://lcrworld.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
     },
     {
       "title": "万能青年旅店 一专二专分享",
@@ -406,15 +424,6 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
-    },
-    {
-      "title": "连女孩的手都没碰过，我就失去青春了吗？——关于青春的一些看法",
-      "link": "https://lcrworld.xyz/articles/74",
-      "date": "Sun, 27 Sep 2026 01:10:39 GMT",
-      "description": "“不要因为身边的人都交了答卷，你就乱填一个答案交上去！”",
-      "site": "lcrworld's Blog",
-      "siteUrl": "https://lcrworld.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
     },
     {
       "title": "九月小记",
@@ -514,15 +523,6 @@
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
-      "title": "小作文分享Pt.2",
-      "link": "https://lcrworld.xyz/articles/73",
-      "date": "Fri, 25 Sep 2026 08:27:00 GMT",
-      "description": "此文章没有写摘要",
-      "site": "lcrworld's Blog",
-      "siteUrl": "https://lcrworld.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
     },
     {
       "title": "Apple Watch 是好用的 mp3 吗",
