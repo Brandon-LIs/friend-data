@@ -1,30 +1,21 @@
 {
-  "updated_at": "2026-10-13T09:37:19.454Z",
-  "count": 199,
+  "updated_at": "2026-10-13T17:15:30.510Z",
+  "count": 194,
   "list": [
-    {
-      "title": "博客系统 v3.1 更新日志：安全加固 · 登录体系 · 评论焕新",
-      "link": "https://lcrworld.xyz/articles/78",
-      "date": "Mon, 12 Oct 2026 14:23:04 GMT",
-      "description": "v3.0 上线后第一个月：安全加固、LCR ID 多平台登录、评论等级与称号体系、全站搜索扩展、主题插件与静态页托管。",
-      "site": "lcrworld's Blog",
-      "siteUrl": "https://lcrworld.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
-    },
     {
       "title": "博客系统 v3.2 更新日志：首屏 10 秒到 1 秒 · AI 知识库 · 后台六大页面",
       "link": "https://lcrworld.xyz/articles/79",
-      "date": "Mon, 12 Oct 2026 14:23:04 GMT",
+      "date": "Tue, 13 Oct 2026 10:01:00 GMT",
       "description": "首屏从 10 秒降到 1 秒内、LCR AI 站内知识库问答上线、后台新增环境变量/Skill中心/Prompt管理/邮件记录等六大页面、友链自动排名与评论三套表情。",
       "site": "lcrworld's Blog",
       "siteUrl": "https://lcrworld.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
     },
     {
-      "title": "博客系统 v3.3 更新日志：后端从 Node.js 全面迁移到 Go",
-      "link": "https://lcrworld.xyz/articles/80",
+      "title": "博客系统 v3.1 更新日志：安全加固 · 登录体系 · 评论焕新",
+      "link": "https://lcrworld.xyz/articles/78",
       "date": "Mon, 12 Oct 2026 14:23:04 GMT",
-      "description": "后端全部 274 个接口迁移到 Go，接口吞吐提升 5~11 倍，服务器可用内存释放约 430MB；新增多数据库支持（SQLite/MySQL/PostgreSQL）与网易云直连。",
+      "description": "v3.0 上线后第一个月：安全加固、LCR ID 多平台登录、评论等级与称号体系、全站搜索扩展、主题插件与静态页托管。",
       "site": "lcrworld's Blog",
       "siteUrl": "https://lcrworld.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
@@ -64,15 +55,6 @@
       "site": "YuJing的记忆终端",
       "siteUrl": "https://www.yujingblog.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
-    },
-    {
-      "title": "十月初记 | 国庆 花都融创/芙蓉度假区 + 广州莲花山",
-      "link": "https://note.redcha.cn/archives/shi-yue-chu-ji-guo-qing-hua-du-rong-chuang-fu-rong-du-jia-qu-guang-zhou-lian-hua-shan",
-      "date": "Sat, 10 Oct 2026 23:29:00 GMT",
-      "description": "近日游花都融创、芙蓉度假区、莲花山，并记录校园与生活。融创与母亲旧同事聚餐吃客家菜，门口有黄牛，广播提醒勿买；门票从闸机起算两小时，换装存物后实际约一个半小时，未选滑雪套餐，体验冰雪滑板、滑道、滑梯、索道和碰碰车，场馆大但门票偏贵，停车顺畅。芙蓉度假区有山有水，灰塑博物馆展示非遗，喊声可触发喷泉，乘观光车看夜景并吃粤菜农庄。自制奶茶成功，计划加珍珠；学校赶工灯笼、月饼发霉；重游莲花山看大观音、矿洞",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "『教程』获取当前电脑使用的Windows聚焦照片",
@@ -336,6 +318,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
     },
     {
+      "title": "分享45段文案，可用于深夜发朋友圈",
+      "link": "https://lcrworld.xyz/articles/75",
+      "date": "Thu, 01 Oct 2026 10:39:09 GMT",
+      "description": "分享大量文案，共45条，可用于深夜发朋友圈",
+      "site": "lcrworld's Blog",
+      "siteUrl": "https://lcrworld.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
+    },
+    {
       "title": "万能青年旅店 一专二专分享",
       "link": "https://blog.firgt.cn/2026/10/01/omnipotent_youth_society/",
       "date": "Thu, 01 Oct 2026 05:13:51 +0000",
@@ -507,15 +498,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
     },
     {
-      "title": "九月末记 | 中秋安康+月饼活动 激情的时光",
-      "link": "https://note.redcha.cn/archives/jiu-yue-mo-ji-zhong-qiu-an-kang-yue-bing-huo-dong-ji-qing-de-shi-guang",
-      "date": "Fri, 25 Sep 2026 10:03:00 GMT",
-      "description": "中秋将至，某班班主任策划的月饼制作活动（全年级仅3个班开展），因考试调整至自习课进行，活动前设猜灯谜，同学分小组协作，因防粘粉不足、面饼量少出现操作状况，多数人完成月饼（有人偷吃），作者忘带成品。此外，彬红茶日记APP升级3.0，新增登录注册与精美UI，配套H5版本已完成，安卓应用编译约需1个月；此前丢失的近千条评论，已通过邮箱还原近200条，祝大家中秋快乐。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
       "title": "心脏病要吓出来了",
       "link": "https://lzh1.cn/?T1790328858",
       "date": "Fri, 25 Sep 2026 17:33:34 +0800",
@@ -640,42 +622,6 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
-    },
-    {
-      "title": "📱 我的NetHunter学习之旅：从零开始的渗透测试实践",
-      "link": "https://bk.zhaozhiqiang.pw/1290.html",
-      "date": "Sat, 19 Sep 2026 14:25:35 +0000",
-      "description": "我的NetHunter学习之旅：从零开始的渗透测试实践，分享真实的学习过程、遇到的问题和解决方法，以及成长感悟。 📱 我的NetHunter学习之旅：从零开始的渗透测试实践 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "🎯 实战案例：我用NetHunter发现公司WiFi安全漏洞的全过程",
-      "link": "https://bk.zhaozhiqiang.pw/1289.html",
-      "date": "Sat, 19 Sep 2026 14:19:22 +0000",
-      "description": "实战案例：我用NetHunter发现公司WiFi安全漏洞的全过程，分享真实的安全测试经历和问题解决方法。 🎯 实战案例：我用NetHunter发现公司WiFi安全漏洞的全过程 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "九月中记 | 高一的半个月",
-      "link": "https://note.redcha.cn/archives/jiu-yue-zhong-ji-gao-yi-de-ban-ge-yue",
-      "date": "Sat, 19 Sep 2026 04:23:13 GMT",
-      "description": "高一新生开学三周，数学难度提升，学校饭菜偏淡，身为重口的广东学生打算带辣酱。这届高一录取分创历史新高，学校抽调高三教师任教，实行3+1+2选科模式，语数外为必修，其余科目按排名赋分，需通过合格考拿毕业证。学校强制修社团学分，因社团少且系统卡顿，宿舍选了生物社团；校园大、老师友好，无小卖部，需周末进零食。国庆中秋若请3天假可获13天假，但高中大概率不安排，本周仅放1天补国庆。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
-      "title": "🔥 Kali NetHunter深度技术解析：从渗透测试到安全研究的专业平台",
-      "link": "https://bk.zhaozhiqiang.pw/1287.html",
-      "date": "Fri, 18 Sep 2026 23:37:03 +0000",
-      "description": "Kali NetHunter深度技术解析：从渗透测试到安全研究的专业平台，涵盖架构设计、核心功能、应用场景和最佳实践。 🔥 Kali NetHunter深度技术解析：从渗透测试到安全研究的专业平台 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "在学校真的可以使用电子设备吗 😋",
@@ -865,15 +811,6 @@
       "site": "合荒小站",
       "siteUrl": "https://hehuang.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
-    },
-    {
-      "title": "暑后九月杂记 步入高一的阶梯",
-      "link": "https://note.redcha.cn/archives/shu-hou-jiu-yue-za-ji-bu-ru-gao-yi-de-jie-ti",
-      "date": "Sat, 5 Sep 2026 10:48:00 GMT",
-      "description": "高一学生经历7天军训，期间练习基础项目、叠豆腐块内务，教官宽松可享双倍休息，军训含红歌比赛等内容，结营后离校吃到心心念念的奶茶、螺蛳粉。他还游玩门票10元（学生半价）的顺德清晖园，遇喷泉彩虹；去增城稻田感受乡野气息。开学一周适应良好，仅英语老师需检查字帖（其他老师不查，暑假作业多为建议可免做），高一采用广东3+1+2模式目前设9科，周末逛南沙欣赏海景与桥墩风景。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "不知道吃啥，那就见什么吃什么",
@@ -1182,15 +1119,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
-      "title": "川西暑漫记｜D4 稻城亚丁-勇闯4600米牛奶海，跌宕起伏的高海拔徒步之旅",
-      "link": "https://note.redcha.cn/archives/wei-ming-ming-wen-zhang-TbXi2E5F",
-      "date": "Mon, 10 Aug 2026 00:53:00 GMT",
-      "description": "这是2026年川西行第四天（8月10日）的行程记录，作者前一晚入住稻城亚丁智选假日酒店休整，与3名同组团友结伴挑战亚丁长线。当日8点多入园，乘一小时惊险盘山摆渡车从海拔2900米攀升至3900米，9点半抵达洛绒牛场，历经数小时陡坡攀登、高原缺氧、山间突发风雨冰雹，最终徒步抵达4600米海拔的牛奶海，靠景区代背服务及时撤离，深夜经惊险车程赶往稻城镇，以一顿正经红烧牛肉面收尾，作者总结这段行程体验为“",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
       "title": "试玩神人游戏《完蛋！我被男同学包围了》",
       "link": "https://474029.xyz/posts/shi-wan-wdwbntxbwl-game/",
       "date": "Sat, 08 Aug 2026 08:41:00 GMT",
@@ -1306,6 +1234,15 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
+    },
+    {
+      "title": "AI辅助渗透测试：从入门到实践",
+      "link": "https://bk.zhaozhiqiang.pw/1101.html",
+      "date": "Fri, 31 Jul 2026 15:34:49 +0000",
+      "description": "引言 在当今快速发展的网络安全领域，传统的渗透测试方法面临着全新的技术挑战。随着攻击技术的不断演进和系统复杂度 [&#8230;] AI辅助渗透测试：从入门到实践 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
@@ -1506,6 +1443,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
+      "title": "TicWatch Pro 3 智能手表刷 NetHunter 教程：全球首款支持无线注入的手表",
+      "link": "https://bk.zhaozhiqiang.pw/1000.html",
+      "date": "Thu, 11 Jun 2026 10:28:39 +0000",
+      "description": "大家好！我是赵志强，专注于零基础手机安全研究。今天给大家带来一个绝对炸裂、全网首发的教程 —— 如何把你的 T [&#8230;] TicWatch Pro 3 智能手表刷 NetHunter 教程：全球首款支持无线注入的手表 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
       "title": "如何节约游戏占用的硬盘空间？",
       "link": "https://mabbs.github.io/2026/06/01/dedupe.html",
       "date": "2026-06-01T00:00:00+08:00",
@@ -1596,6 +1542,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
+      "title": "Kali Nethunter 如何刷到任何手机上？（高阶实战教程）",
+      "link": "https://bk.zhaozhiqiang.pw/719.html",
+      "date": "Mon, 16 Feb 2026 14:43:20 +0000",
+      "description": "前言 其实，我在很早的时候就一直在研究Kali Nethunter的问题，也砸钱卖了很多设备，前前后后买了大概 [&#8230;] Kali Nethunter 如何刷到任何手机上？（高阶实战教程） 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
       "title": "就这样走过二〇二五",
       "link": "https://xinyang-gao.github.io/articles/就这样走过2025.html",
       "date": "Tue, 10 Feb 2026 00:00:00 GMT",
@@ -1603,6 +1558,15 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
+      "title": "使用Tailscale实现异地组网！",
+      "link": "https://www.memxb.top/archives/966",
+      "date": "Mon, 02 Feb 2026 07:03:59 +0000",
+      "description": "前言 本篇文章是一个通用教程，适用于本地的服务器快速实现异地组网。如果你的外网和服务器所处的内网都是同一个运营 [&#8230;]",
+      "site": "默小班",
+      "siteUrl": "https://www.memxb.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
       "title": "重生之我是蒟蒻打CTF-misc",
@@ -1639,6 +1603,15 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
+    },
+    {
+      "title": "根植岁壤，抽穗向光 —— 2025年终总结",
+      "link": "https://www.memxb.top/archives/941",
+      "date": "Wed, 31 Dec 2025 15:40:26 +0000",
+      "description": "各位好，2025年马上就要结束了(额原谅我到现在才写年度总结吧)。大家今年过得怎么样呢？我想用3个词来概括这次 [&#8230;]",
+      "site": "默小班",
+      "siteUrl": "https://www.memxb.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
       "title": "告别2025 迎接2026",
@@ -1686,6 +1659,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
     },
     {
+      "title": "Uptime Kuma美化代码",
+      "link": "https://www.memxb.top/archives/922",
+      "date": "Sat, 01 Nov 2025 10:12:16 +0000",
+      "description": "前言 各位好啊，好久没有发过啥文章了。并且距离上一个美化代码也快一年了，是时候该换个新样式了。 然后最近用AI [&#8230;]",
+      "site": "默小班",
+      "siteUrl": "https://www.memxb.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
+    },
+    {
       "title": "朗诵音乐",
       "link": "https://xinyang-gao.github.io/works/朗诵音乐/",
       "date": "Wed, 22 Oct 2025 00:00:00 GMT",
@@ -1704,6 +1686,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
+      "title": "为你的站点提速之开启BBR减少丢包",
+      "link": "https://www.memxb.top/archives/909",
+      "date": "Mon, 06 Oct 2025 10:05:30 +0000",
+      "description": "前言 很多站长在建完一个网站之后通常会选择优化和美化自己的站点，例如WordPress和Typecho等等的框 [&#8230;]",
+      "site": "默小班",
+      "siteUrl": "https://www.memxb.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
+    },
+    {
       "title": "近况",
       "link": "https://whitebear.im/archives/21/",
       "date": "Sun, 05 Oct 2025 14:08:00 +0000",
@@ -1711,6 +1702,15 @@
       "site": "白熊自留地",
       "siteUrl": "https://whitebear.im",
       "avatar": "https://jsd.oopss.top/uploads/2026/10040006.jpg"
+    },
+    {
+      "title": "2025年9月小结(水文)",
+      "link": "https://www.memxb.top/archives/894",
+      "date": "Tue, 30 Sep 2025 13:51:09 +0000",
+      "description": "前言 哈喽各位好久不见，自从上学之后就一直忙于学业。虽然每周也会放假，但因为内容选择的困难加上累所以一直没有在 [&#8230;]",
+      "site": "默小班",
+      "siteUrl": "https://www.memxb.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
       "title": "写在建立BlogsClub博客俱乐部一周年之际",
@@ -1747,51 +1747,6 @@
       "site": "灵的梦境",
       "siteUrl": "https://lemonadorable.github.io/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
-    },
-    {
-      "title": "如何为宝塔面板添加腾讯云cos备份账号，实现自动备份功能?",
-      "link": "https://www.memxb.top/archives/593",
-      "date": "Sat, 17 May 2025 01:52:38 +0000",
-      "description": "好久没写过文章了，突然发现没有发过宝塔类的教程文章，所以今天趁着周末就写一篇说一说。 这篇文章主要是介绍腾讯云 [&#8230;] The post 如何为宝塔面板添加腾讯云cos备份账号，实现自动备份功能? appeared first on 默小班 .",
-      "site": "默小班",
-      "siteUrl": "https://www.memxb.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "如何开启http3，实现站点的高速传输?",
-      "link": "https://www.memxb.top/archives/544",
-      "date": "Mon, 31 Mar 2025 00:33:40 +0000",
-      "description": "前言 之前在逛张洪大佬的博客时候发现了一篇http3的文章，想着自己的WordPress站点速度慢一言难尽，索 [&#8230;] The post 如何开启http3，实现站点的高速传输? appeared first on 默小班 .",
-      "site": "默小班",
-      "siteUrl": "https://www.memxb.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "WordPress套cdn+waf后台不可用前台样式丢失?",
-      "link": "https://www.memxb.top/archives/505",
-      "date": "Sat, 29 Mar 2025 08:31:01 +0000",
-      "description": "前言 现在你们看到我网站可能没问题了，但是之前其实有一段时间一直都是换的框架得状态，显示换到了Typecho然 [&#8230;] The post WordPress套cdn+waf后台不可用前台样式丢失? appeared first on 默小班 .",
-      "site": "默小班",
-      "siteUrl": "https://www.memxb.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "如何美化uptime kuma(水文章)",
-      "link": "https://www.memxb.top/archives/402",
-      "date": "Sat, 07 Dec 2024 08:51:59 +0000",
-      "description": "前言 最近因为手头有点富裕了，所以去土云把之前老板给我那台机器拿来当副主机来用了，先是安装了1panel，然后 [&#8230;] The post 如何美化uptime kuma(水文章) appeared first on 默小班 .",
-      "site": "默小班",
-      "siteUrl": "https://www.memxb.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "免费 领取网易云音乐黑胶vip",
-      "link": "https://www.memxb.top/archives/396",
-      "date": "Sat, 02 Nov 2024 10:39:13 +0000",
-      "description": "前言 这个算是给大家福利了，每月我会不定时的发出链接，大家纯靠手速抢，抢到就是赚到，下面的是按月分类，可以在文 [&#8230;] The post 免费 领取网易云音乐黑胶vip appeared first on 默小班 .",
-      "site": "默小班",
-      "siteUrl": "https://www.memxb.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     }
   ]
 }
