@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T05:37:50.924Z",
-  "count": 199,
+  "updated_at": "2026-10-14T10:52:51.382Z",
+  "count": 194,
   "list": [
     {
       "title": "博客系统 v3.3 更新日志：后端从 Node.js 全面迁移到 Go",
@@ -921,24 +921,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
-      "title": "Godot：音效别直接拖进脚本路径",
-      "link": "https://codevfun.work/writing/godot-audio-stream-player",
-      "date": "Sun, 30 Aug 2026 04:00:00 GMT",
-      "description": "AudioStreamPlayer 当节点，stream 用导出。同时两声用 Autoload 或再实例化一个播放器。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
-    },
-    {
-      "title": "Godot：微型游戏的目录别摊成一锅",
-      "link": "https://codevfun.work/writing/godot-project-folders",
-      "date": "Sun, 30 Aug 2026 04:00:00 GMT",
-      "description": "scenes、actors、ui、audio 分开。uid 文件跟着资源走。十个文件时就要定规矩。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
-    },
-    {
       "title": "【实测，使用梯子不一定能检测】在网站使用CF-CDN的情况下获取用户真实IP的方法",
       "link": "https://blog.firgt.cn/2026/08/29/get_real_ip/",
       "date": "Sat, 29 Aug 2026 04:36:18 +0000",
@@ -948,24 +930,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
-      "title": "Godot：AnimationPlayer 播走路",
-      "link": "https://codevfun.work/writing/godot-animationplayer-walk",
-      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
-      "description": "SpriteFrames 做循环，AnimationPlayer 做一次性动作。走路用速度切动画，不要用按键硬切。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
-    },
-    {
-      "title": "Godot：导出 HTML5 塞进博客",
-      "link": "https://codevfun.work/writing/godot-export-html5",
-      "date": "Sat, 29 Aug 2026 04:00:00 GMT",
-      "description": "Web 导出要开线程和 CORS 注意项。放进 Next 的 public 目录，用 iframe 包一层。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
-    },
-    {
       "title": "分享19首这几年喜欢的国漫音乐",
       "link": "https://blog.weasel6.cn/posts/music-cartoon/",
       "date": "Fri, 28 Aug 2026 13:12:00 GMT",
@@ -973,15 +937,6 @@
       "site": "黄鼠狼的树洞",
       "siteUrl": "https://blog.weasel6.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "Godot：子弹和碰撞层",
-      "link": "https://codevfun.work/writing/godot-bullets-collision-layers",
-      "date": "Fri, 28 Aug 2026 04:00:00 GMT",
-      "description": "子弹用 Area2D 平移。层和遮罩分清楚，才不会打到自己、穿过墙。",
-      "site": "日和",
-      "siteUrl": "https://codevfun.work",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210001.webp"
     },
     {
       "title": "她就是王者！太强了",
@@ -1263,6 +1218,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060002.webp"
     },
     {
+      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
+      "link": "https://i.limhy.cn/blog/1/",
+      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
+      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "一次制作终端版博客的经历",
       "link": "https://mabbs.github.io/2026/08/01/terminal.html",
       "date": "2026-08-01T00:00:00+08:00",
@@ -1279,6 +1243,15 @@
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
+      "link": "https://i.limhy.cn/blog/202/",
+      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
+      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "近期小记",
@@ -1443,6 +1416,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
     },
     {
+      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
+      "link": "https://i.limhy.cn/blog/189/",
+      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
+      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
+      "link": "https://i.limhy.cn/blog/188/",
+      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
+      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
+      "link": "https://i.limhy.cn/blog/187/",
+      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
+      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "TicWatch Pro 3 智能手表刷 NetHunter 教程：全球首款支持无线注入的手表",
       "link": "https://bk.zhaozhiqiang.pw/1000.html",
       "date": "Thu, 11 Jun 2026 10:28:39 +0000",
@@ -1569,33 +1569,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1623,15 +1596,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1648,15 +1612,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
