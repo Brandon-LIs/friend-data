@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-10-22T13:20:32.483Z",
+  "updated_at": "2026-10-22T18:06:04.710Z",
   "count": 179,
   "list": [
+    {
+      "title": "NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT7612U 全对比",
+      "link": "https://bk.zhaozhiqiang.pw/1326.html",
+      "date": "Thu, 22 Oct 2026 14:27:22 +0000",
+      "description": "插上外置网卡却看不到 wlan1？问题往往不在网卡而在内核。本文按「先查驱动、再挑芯片」的顺序，横向对比 AR9271、RT3070、RTL8812AU、MT7612U、MT7921AU 的监听与注入能力，给出三档具体型号、TL-WN722N 换芯片等避坑点，以及到手后 5 步验证注入是否真的可用的完整流程。 NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT761",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "Frida 抓包实战：绕过 Android 证书固定（SSL Pinning）的三种方法",
+      "link": "https://bk.zhaozhiqiang.pw/1323.html",
+      "date": "Thu, 22 Oct 2026 14:23:31 +0000",
+      "description": "装了 Burp 证书却抓不到 App 的 HTTPS 包？从 frida-server 部署到四层通用 Hook 脚本，完整讲清 Android SSL Pinning 绕过：objection 一键、TrustManager/OkHttp Hook、Flutter 与 native 层应对，附报错排查表与防御视角。 Frida 抓包实战：绕过 Android 证书固定（SSL Pinning）的",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "今天生日了！16岁快乐",
+      "link": "https://note.redcha.cn/archives/jin-tian-sheng-ri-liao-16sui-kuai-le",
+      "date": "Thu, 22 Oct 2026 14:07:41 GMT",
+      "description": "文章记录了作者周四住宿期间过生日的经历：妈妈特地到校门口栏杆处见面庆祝，并决定周六再正式过生日，顺便与家族其他人聚餐；中午同学拿小面包，十几人在宿舍唱生日歌，晚上又带来小蛋糕，缓解了疲惫和学校压力，作者感叹一年时间过得很快。文末还宣布彬红茶APP v3.0正式发布，并提供下载入口；本站域名解析到源站后不再使用CDN加速，访问速度应快了很多。",
+      "site": "彬红茶日记",
+      "siteUrl": "https://note.redcha.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
     {
       "title": "汽车安全入门：OBD-II 与 CAN 总线抓包分析完整指南（2026）",
       "link": "https://bk.zhaozhiqiang.pw/1316.html",
@@ -489,6 +516,24 @@
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
+      "title": "随笔｜已严肃预购我的世界地下城2，聊两件披风",
+      "link": "https://blog.liseezn.top/979.html/",
+      "date": "Sun, 27 Sep 2026 11:59:20 +0000",
+      "description": "已经严肃预购《我的世界：地下城2》，坐等9月30日正式发售 。(其实部分地区29好就发售) 作为原版老玩家，最 [&#8230;]",
+      "site": "Liseezn'blog",
+      "siteUrl": "https://blog.liseezn.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
+    },
+    {
+      "title": "随笔｜博客搬家，换新VPS",
+      "link": "https://blog.liseezn.top/967.html/",
+      "date": "Sun, 27 Sep 2026 11:33:43 +0000",
+      "description": "折腾了一阵子，终于把博客从Zeabur迁到独立VPS上面了。 先说下之前的方案：Zeabur平台托管，不用管服 [&#8230;]",
+      "site": "Liseezn'blog",
+      "siteUrl": "https://blog.liseezn.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
+    },
+    {
       "title": "「站长信」202609 - 无题",
       "link": "https://wowtang.top/post/litter_202609/",
       "date": "Sun, 27 Sep 2026 10:30:21 +0800",
@@ -649,15 +694,6 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
-    },
-    {
-      "title": "🎯 Kalidroid实战渗透测试完整流程指南（完整版）",
-      "link": "https://bk.zhaozhiqiang.pw/1296.html",
-      "date": "Sun, 20 Sep 2026 04:33:10 +0000",
-      "description": "💡 开篇：从理论到实战 说实话，Kalidroid虽然功能强大，但很多朋友可能不知道如何从零开始进行实际的渗透 [&#8230;] 🎯 Kalidroid实战渗透测试完整流程指南（完整版） 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "【26年37周记】大课间和雨天",
@@ -993,6 +1029,24 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060002.webp"
     },
     {
+      "title": "ESP32 / ESP8266 物联网开发环境配置指南",
+      "link": "https://blog.liseezn.top/919.html/",
+      "date": "Wed, 12 Aug 2026 13:59:40 +0000",
+      "description": "前言 ESP32 与 ESP8266 是当前物联网开发领域普及率最高的两款芯片：ESP32 搭载双核处理器，支 [&#8230;]",
+      "site": "Liseezn'blog",
+      "siteUrl": "https://blog.liseezn.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
+    },
+    {
+      "title": "Codex 接入 DeepSeek 保姆级教程｜ Codex++",
+      "link": "https://blog.liseezn.top/903.html/",
+      "date": "Wed, 12 Aug 2026 13:44:35 +0000",
+      "description": "用 Codex 写代码的朋友，大概率都遇到过这些糟心事：OpenAI 接口时不时抽风、网络不稳半天出不来结果、 [&#8230;]",
+      "site": "Liseezn'blog",
+      "siteUrl": "https://blog.liseezn.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
+    },
+    {
       "title": "我试着把一张风景照变成一束花",
       "link": "https://mingblog.site/posts/floraform-bouquet/",
       "date": "Wed, 12 Aug 2026 00:00:00 GMT",
@@ -1029,15 +1083,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
-      "title": "川西暑漫记｜D4 稻城亚丁-勇闯4600米牛奶海，跌宕起伏的高海拔徒步之旅",
-      "link": "https://note.redcha.cn/archives/wei-ming-ming-wen-zhang-TbXi2E5F",
-      "date": "Mon, 10 Aug 2026 00:53:00 GMT",
-      "description": "这是2026年川西行第四天（8月10日）的行程记录，作者前一晚入住稻城亚丁智选假日酒店休整，与3名同组团友结伴挑战亚丁长线。当日8点多入园，乘一小时惊险盘山摆渡车从海拔2900米攀升至3900米，9点半抵达洛绒牛场，历经数小时陡坡攀登、高原缺氧、山间突发风雨冰雹，最终徒步抵达4600米海拔的牛奶海，靠景区代背服务及时撤离，深夜经惊险车程赶往稻城镇，以一顿正经红烧牛肉面收尾，作者总结这段行程体验为“",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
       "title": "试玩神人游戏《完蛋！我被男同学包围了》",
       "link": "https://474029.xyz/posts/shi-wan-wdwbntxbwl-game/",
       "date": "Sat, 08 Aug 2026 08:41:00 GMT",
@@ -1063,6 +1108,15 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
+    },
+    {
+      "title": "Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略",
+      "link": "https://blog.liseezn.top/896.html/",
+      "date": "Fri, 07 Aug 2026 13:56:10 +0000",
+      "description": "这是一份面向普通用户的全流程实践指南。不论你是刚接触 Obsidian 的新手，还是想将 AI 能力彻底融入笔 [&#8230;]",
+      "site": "Liseezn'blog",
+      "siteUrl": "https://blog.liseezn.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
     },
     {
       "title": "8个月的钢笔使用感想",
@@ -1135,15 +1189,6 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
-    },
-    {
-      "title": "AI辅助渗透测试：从入门到实践",
-      "link": "https://bk.zhaozhiqiang.pw/1101.html",
-      "date": "Fri, 31 Jul 2026 15:34:49 +0000",
-      "description": "引言 在当今快速发展的网络安全领域，传统的渗透测试方法面临着全新的技术挑战。随着攻击技术的不断演进和系统复杂度 [&#8230;] AI辅助渗透测试：从入门到实践 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "近期小记",
@@ -1407,33 +1452,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "2026-02-01T02:44:53Z",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "2026-02-01T02:44:32Z",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "2026-01-30T16:00:03Z",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1461,15 +1479,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "2026-01-02T06:24:00Z",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1486,15 +1495,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "2025-12-30T16:00:00Z",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
