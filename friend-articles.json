@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-23T00:16:47.632Z",
+  "updated_at": "2026-10-23T05:07:54.179Z",
   "count": 179,
   "list": [
+    {
+      "title": "红队资产侦察三件套：subfinder + httpx + nuclei 从子域到漏洞的完整链路",
+      "link": "https://bk.zhaozhiqiang.pw/1338.html",
+      "date": "Fri, 23 Oct 2026 03:25:10 +0000",
+      "description": "资产测绘做不干净，后面的漏洞利用全是碰运气。本文把 subfinder（找面）→ httpx（筛点）→ nuclei（验伤）串成一条可复现的流水线，给出完整命令、编排脚本、限速与降噪规则、结果收敛方法，以及 httpx 同名冲突、泛解析、模板误报等六个高频坑。 红队资产侦察三件套：subfinder + httpx + nuclei 从子域到漏洞的完整链路 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "本地大模型做安全日志分析：Ollama + 规则粗筛 + LLM 研判完整实现",
+      "link": "https://bk.zhaozhiqiang.pw/1335.html",
+      "date": "Fri, 23 Oct 2026 00:38:26 +0000",
+      "description": "把日志发给云端大模型，等于用数据外泄解决数据安全问题。本文给出一套可运行的本地方案：Python 正则解析 Nginx 日志、规则打分筛出候选、再用 Ollama + qwen2.5 做研判并输出结构化 JSON。附完整代码、prompt 三原则、评估方法与边界说明——模型只做最后 5% 的判断，召回永远交给规则。 本地大模型做安全日志分析：Ollama + 规则粗筛 + LLM 研判完整实现 最",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
     {
       "title": "小米 / 红米 HyperOS 刷 NetHunter 全流程：解锁 BL 到 Kali chroot",
       "link": "https://bk.zhaozhiqiang.pw/1332.html",
@@ -30,15 +48,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
-      "title": "Frida 抓包实战：绕过 Android 证书固定（SSL Pinning）的三种方法",
-      "link": "https://bk.zhaozhiqiang.pw/1323.html",
-      "date": "Thu, 22 Oct 2026 14:23:31 +0000",
-      "description": "装了 Burp 证书却抓不到 App 的 HTTPS 包？从 frida-server 部署到四层通用 Hook 脚本，完整讲清 Android SSL Pinning 绕过：objection 一键、TrustManager/OkHttp Hook、Flutter 与 native 层应对，附报错排查表与防御视角。 Frida 抓包实战：绕过 Android 证书固定（SSL Pinning）的",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
       "title": "今天生日了！16岁快乐",
       "link": "https://note.redcha.cn/archives/jin-tian-sheng-ri-liao-16sui-kuai-le",
       "date": "Thu, 22 Oct 2026 14:07:41 GMT",
@@ -46,15 +55,6 @@
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
-      "title": "汽车安全入门：OBD-II 与 CAN 总线抓包分析完整指南（2026）",
-      "link": "https://bk.zhaozhiqiang.pw/1316.html",
-      "date": "Wed, 21 Oct 2026 09:02:08 +0000",
-      "description": "从零开始学汽车安全：OBD-II 针脚定义、CAN 总线物理层与帧结构、Linux 下用 can-utils 抓包、ISO-TP 与 UDS 诊断、差分采集定位信号、ICSim 台架练习，以及 UN R155 / ISO 21434 合规要点。 汽车安全入门：OBD-II 与 CAN 总线抓包分析完整指南（2026） 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "ZZUCTF 平台渗透事件复盘报告",
