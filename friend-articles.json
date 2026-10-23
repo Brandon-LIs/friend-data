@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-23T10:19:12.799Z",
+  "updated_at": "2026-10-23T15:17:04.799Z",
   "count": 184,
   "list": [
+    {
+      "title": "艾雪周刊 V.16—开源博客管理后台-AIOVTUE-CMS-gen",
+      "link": "https://daily.yybb.us/posts/weekly/16/",
+      "date": "Fri, 23 Oct 2026 19:20:00 +0800",
+      "description": "关于本刊 这是 艾雪期刊 的第 16 期，作为一个独立系列进行更新，更新时间在周末，主要内容为周内内容汇集以及碎碎念，有时会分享一些有趣的项目，有时是一些生活的碎碎念",
+      "site": "AIOVTUE-雪",
+      "siteUrl": "https://daily.yybb.us",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
+    },
+    {
+      "title": "测试",
+      "link": "https://lzh1.cn/?T1792751606",
+      "date": "Fri, 23 Oct 2026 18:33:26 +0800",
+      "description": "测试",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
     {
       "title": "测试",
       "link": "https://lzh1.cn/?T1792742112",
@@ -311,7 +329,7 @@
     {
       "title": "买到假AirPods4的踩坑维权经历",
       "link": "https://xice.cx/posts/fakeAirPods4/",
-      "date": "2026-10-09T00:00:00.000Z",
+      "date": "2026-10-08T16:00:00.000Z",
       "description": "其实在下单之前就已经做好了购买到假AirPods的准备，但最后还是下了单，对华强北的仿冒我确实有很大的兴趣。 2026年10月5日8:48 pm，我在闲鱼上下单了某个人闲置AirPods4 ANC，卖家还声称可以提供购买记录且在保到27年6月，常年混迹海鲜市场的估计已经看标题就猜到是假货了，我也是猜到大概率是假的且有把握维权才下的单，刚下单后卖家声称明天帮我邮寄 次日十一点半，卖家在平台上发货，挺",
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
@@ -435,6 +453,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
     },
     {
+      "title": "【日记】合成珠海校徽小游戏",
+      "link": "https://notes.iamcrl.cn/posts/game/",
+      "date": "Sun, 04 Oct 2026 00:00:00 GMT",
+      "description": "昨天突发奇想，让Deepseek给我做了一个合成珠海校徽小游戏。 居然这么多人玩！ 点我开玩！",
+      "site": "睿朗的小窝",
+      "siteUrl": "https://iamcrl.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
       "title": "第三次写周记",
       "link": "https://xfchannel.top/note/2026-10-04-%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%86%99%E5%91%A8%E8%AE%B0/",
       "date": "2026-10-04T00:00:00.000Z",
@@ -460,6 +487,15 @@
       "site": "AIOVTUE-雪",
       "siteUrl": "https://daily.yybb.us",
       "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
+    },
+    {
+      "title": "【日记】有线也得用蓝牙",
+      "link": "https://notes.iamcrl.cn/posts/wait-wired-is-also-bluetooth/",
+      "date": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "description": "因为我天生就是个很容易晕车的人，初一的时候坐公交晕车吐了一身。后来了解到戴耳机听歌可以缓解晕车，试了之后发现确实是有一定效果的。于是耳机就成了我坐公交坐大巴的必需品。 高二开始，学校允许学生入校时上交手机但不允许上交蓝牙耳机，甚至还在校门口装了X光安检机…身边有很多同学试图把耳机放在书包里拿书堆着蒙混过关，最终都被查到了。 而我无意中发现，液体可以削弱安检机射出的X光线，从而让电脑无法自动将耳机框",
+      "site": "睿朗的小窝",
+      "siteUrl": "https://iamcrl.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
       "title": "『随笔』在NAS上部署VaultWarden",
@@ -590,7 +626,7 @@
     {
       "title": "华为小米粉丝互联网骂架的深入分析",
       "link": "https://xice.cx/posts/huaweiVsXiaomi/",
-      "date": "2026-09-27T00:00:00.000Z",
+      "date": "2026-09-26T16:00:00.000Z",
       "description": "中国科技圈有两个群体，骂了将近十年，至今没有停歇的迹象。一个叫米粉，一个叫花粉，分别是小米和华为的死忠信仰级用户，这两个群体之间的战争是中国消费电子史上最持久激烈，也最荒诞的文化现象之一 荒诞在哪里？ 在于他们骂架的内容，从来不是真正的问题所在 米粉说华为是智商税，溢价严重，没有性价比。花粉说小米是组装厂，没有核心技术都是字研。双方各执一词，论据换了一轮又一轮，细节争了一个又一个，但如果你往后退一",
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
@@ -622,15 +658,6 @@
       "site": "没吃饱的天镜镜",
       "siteUrl": "https://blog.8765777.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
-    },
-    {
-      "title": "艾雪周刊 V.12—中秋节快乐！",
-      "link": "https://daily.yybb.us/posts/weekly/12/",
-      "date": "Fri, 25 Sep 2026 20:00:31 +0800",
-      "description": "关于本刊 这是 艾雪期刊 的第 12 期，作为一个独立系列进行更新，更新时间在周末，主要内容为周内内容汇集以及碎碎念，有时会分享一些有趣的项目，有时是一些生活的碎碎念",
-      "site": "AIOVTUE-雪",
-      "siteUrl": "https://daily.yybb.us",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
     },
     {
       "title": "九月末记 | 中秋安康+月饼活动 激情的时光",
@@ -669,6 +696,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
+      "title": "【日记】最近一些事",
+      "link": "https://notes.iamcrl.cn/posts/recent-things/",
+      "date": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "description": "今天是中秋节，祝大家中秋快乐。 已经两个多星期没更新了，水一期吧！ 最爱的音乐人更新了 # 坐过站 # 上周五坐大巴的时候一上车就注意到了车上的一个女生，她的下巴抹了一些白色的粉末，结合他们那天刚结束军训，猜测她应该是高一的新同学。她到A路口(不便透露具体地名，用字母代替)时站起身跟司机说了些什么，但因为我戴着耳机没有听见，在这之后她就显得很焦急，拼命朝窗外看，忽然，她转向我：“同学，你在哪里下车",
+      "site": "睿朗的小窝",
+      "siteUrl": "https://iamcrl.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
       "title": "刷机自动化脚本上线记",
       "link": "https://yujingblog.top/posts/%E6%8A%80%E6%9C%AF%E9%A1%B9%E7%9B%AE/%E5%88%B7%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E4%B8%8A%E7%BA%BF%E8%AE%B0/",
       "date": "2026-09-25T00:00:00.000Z",
@@ -696,15 +732,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
-      "title": "中国银行bili联名万事达申请指南",
-      "link": "https://xice.cx/posts/2233boc/",
-      "date": "2026-09-22T00:00:00.000Z",
-      "description": "饱受关注的2233联名万事达在今日也是开放申请了，这个卡有非常亮眼的223300卡bin和自定义卡号后六位，本文手把手教你申请和部分事项注意 申请 申卡链接： boc官网 申请手机号尽量写本人手机号 个性化定制后六位的卡号时，搜索和刷新都算次数，一共五次 拿卡 我这边是7-15工作日邮寄到网点激活，目前我也需要等（，可以关注本博客，后续会持续更新 需要注意的是，只能同时申请一个，申请完万事达不能同",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
       "title": "新手零门槛：GitHub 网页汉化 + Desktop 汉化极速上手指南",
       "link": "https://wangxinyang.top/archives/xin-shou-ling-men-jian-github-wang-ye-han-hua-desktop-ji-su-shang-shou-zhi-nan",
       "date": "Mon, 21 Sep 2026 16:26:37 GMT",
@@ -712,6 +739,15 @@
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
+    },
+    {
+      "title": "中国银行bili联名万事达申请指南",
+      "link": "https://xice.cx/posts/2233boc/",
+      "date": "2026-09-21T16:00:00.000Z",
+      "description": "饱受关注的2233联名万事达在今日也是开放申请了，这个卡有非常亮眼的223300卡bin和自定义卡号后六位，本文手把手教你申请和部分事项注意 申请 申卡链接： boc官网 申请手机号尽量写本人手机号 个性化定制后六位的卡号时，搜索和刷新都算次数，一共五次 拿卡 我这边是7-15工作日邮寄到网点激活，目前我也需要等（，可以关注本博客，后续会持续更新 需要注意的是，只能同时申请一个，申请完万事达不能同",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "城市远方的怪声",
@@ -750,18 +786,9 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
     },
     {
-      "title": "那个猫它走了",
-      "link": "https://lzh1.cn/?T1789724220",
-      "date": "Fri, 18 Sep 2026 17:37:00 +0800",
-      "description": "我已经有两三天没有看到那只小猫了。它去哪里了，什么时候走的，没有人知道。它是一只",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
       "title": "深入聊聊apple设备间生态体验",
       "link": "https://xice.cx/posts/onlyAppleCanDo/",
-      "date": "2026-09-18T00:00:00.000Z",
+      "date": "2026-09-17T16:00:00.000Z",
       "description": "前不久一段时间，我的Samsung手机在我游玩Terraria的时候，当时在游戏里扔了个雷管，随着雷管爆炸声响起，我的手机屏幕直接白掉了，最后查出原因是用的时间太久了，老了元器件不行了，就死了，由于本身我也有iPad和Mac了，那下一台手机就不由自主变成iPhone了 接下来我会简单讲一下早期我从Android/Google生态转移到iOS/iCloud生态的过程，如果您不想看可以直接跳到下方 正",
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
@@ -838,6 +865,24 @@
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
+    },
+    {
+      "title": "【日记】高三第一周",
+      "link": "https://notes.iamcrl.cn/posts/first-week-of-senior-year/",
+      "date": "Sun, 06 Sep 2026 15:27:53 GMT",
+      "description": "新老师 # 新学期一开学，班上的任课老师几乎全换了，只有政治老师没动。新换来的老师都是刚带完高三毕业班下来的，教学水平比高一高二的老师高出不少。我们班也沾了光，被称为所谓的“次重点班”——大部分任课老师同时也在重点班任教，配置几乎和重点班一样。 新舍友 # 由于今年的高三新建立了“春苗班”，也就是春招班，他们要单独住一个宿舍，导致我们的宿舍申请表填不满，我和一个同学被分到了另一个班的宿舍，也就是说",
+      "site": "睿朗的小窝",
+      "siteUrl": "https://iamcrl.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
+      "title": "【投稿】高三",
+      "link": "https://notes.iamcrl.cn/posts/grade-12/",
+      "date": "Sun, 06 Sep 2026 15:00:53 GMT",
+      "description": "本文为朋友投稿。 投稿者：CANILLE 高三。 现在是2026年的8月31日晚上11点40分，我拿着没交给家长的备用机躺在家里的床上，听着音乐。嗯，很舒服吧，但是也很痛苦。我睡不着，不知道因为什么。我现在有好多想说的话。 上个学期很短，但是很开心。我体验到了走读的滋味，那是一段非常开心的回忆。但是和班上的好朋友产生一些误会，导致分班前才解开误解。这是我的一个心结吧，我很后悔没有在最后的日子好好相",
+      "site": "睿朗的小窝",
+      "siteUrl": "https://iamcrl.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
       "title": "给静态博客文章添加Lottie表情包",
@@ -948,15 +993,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100009.webp"
     },
     {
-      "title": "Google相册迁移到iCloud分享",
-      "link": "https://xice.cx/posts/googlePhoto2iCloud/",
-      "date": "2026-08-27T00:00:00.000Z",
-      "description": "分享一下Google photo转iCloud的经历",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
       "title": "开始上高一了，比较忙，停更一段时间，各位互链站长勿下链！！！🙏",
       "link": "https://wowtang.top/post/kai-shi-shang-gao-yi-liaoting-geng-yi-duan-shi-jiange-wei-hu-lian-zhan-chang-wu-xia-lian/",
       "date": "Thu, 27 Aug 2026 05:45:02 +0800",
@@ -964,6 +1000,15 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
+    },
+    {
+      "title": "Google相册迁移到iCloud分享",
+      "link": "https://xice.cx/posts/googlePhoto2iCloud/",
+      "date": "2026-08-26T16:00:00.000Z",
+      "description": "分享一下Google photo转iCloud的经历",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "《ソレヨリノ前奏詩》杂谈",
@@ -1452,33 +1497,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "2026-02-01T02:44:53Z",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "2026-02-01T02:44:32Z",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "2026-01-30T16:00:03Z",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1506,15 +1524,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "2026-01-02T06:24:00Z",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1531,15 +1540,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "2025-12-30T16:00:00Z",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
