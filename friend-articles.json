@@ -1,48 +1,57 @@
 {
-  "updated_at": "2026-10-23T05:08:07.612Z",
+  "updated_at": "2026-10-23T10:19:12.799Z",
   "count": 184,
   "list": [
     {
-      "title": "红队资产侦察三件套：subfinder + httpx + nuclei 从子域到漏洞的完整链路",
-      "link": "https://bk.zhaozhiqiang.pw/1338.html",
-      "date": "Fri, 23 Oct 2026 03:25:10 +0000",
-      "description": "资产测绘做不干净，后面的漏洞利用全是碰运气。本文把 subfinder（找面）→ httpx（筛点）→ nuclei（验伤）串成一条可复现的流水线，给出完整命令、编排脚本、限速与降噪规则、结果收敛方法，以及 httpx 同名冲突、泛解析、模板误报等六个高频坑。 红队资产侦察三件套：subfinder + httpx + nuclei 从子域到漏洞的完整链路 最先出现在 星宇安全实验室 。",
+      "title": "测试",
+      "link": "https://lzh1.cn/?T1792742112",
+      "date": "Fri, 23 Oct 2026 15:55:12 +0800",
+      "description": "测试",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "Nmap 常用命令速查：从主机发现到 NSE 脚本的 20 个实战组合",
+      "link": "https://bk.zhaozhiqiang.pw/1359.html",
+      "date": "Fri, 23 Oct 2026 06:27:45 +0000",
+      "description": "为什么别人的 nmap 命令你跑就报 requires root privileges？先搞清 -sS / -sT / -sU 三种原理的区别。本文按主机发现、端口扫描、版本识别、NSE 脚本、输出留档、速度与隐蔽六个维度整理常用参数，给出 20 个可直接复制的实战组合和七个高频坑。 Nmap 常用命令速查：从主机发现到 NSE 脚本的 20 个实战组合 最先出现在 星宇安全实验室 。",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
-      "title": "本地大模型做安全日志分析：Ollama + 规则粗筛 + LLM 研判完整实现",
-      "link": "https://bk.zhaozhiqiang.pw/1335.html",
-      "date": "Fri, 23 Oct 2026 00:38:26 +0000",
-      "description": "把日志发给云端大模型，等于用数据外泄解决数据安全问题。本文给出一套可运行的本地方案：Python 正则解析 Nginx 日志、规则打分筛出候选、再用 Ollama + qwen2.5 做研判并输出结构化 JSON。附完整代码、prompt 三原则、评估方法与边界说明——模型只做最后 5% 的判断，召回永远交给规则。 本地大模型做安全日志分析：Ollama + 规则粗筛 + LLM 研判完整实现 最",
+      "title": "Frida 脚本入门：Hook Java 方法的 10 个常用模板",
+      "link": "https://bk.zhaozhiqiang.pw/1356.html",
+      "date": "Fri, 23 Oct 2026 06:24:52 +0000",
+      "description": "每次写 Frida 脚本都要重想「怎么 hook 构造函数」「怎么处理重载」「改返回值怎么写」？本文把最常见的 10 种场景做成可直接改用的模板：参数返回值、重载、构造函数、改返回、读写字段、遍历实例、接口、静态方法、native 拦截、调用栈，并给出 ClassNotFoundException 的 ClassLoader 解法与六种报错对照。 Frida 脚本入门：Hook Java 方法的 ",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
-      "title": "小米 / 红米 HyperOS 刷 NetHunter 全流程：解锁 BL 到 Kali chroot",
-      "link": "https://bk.zhaozhiqiang.pw/1332.html",
-      "date": "Fri, 23 Oct 2026 00:07:07 +0000",
-      "description": "小米/红米刷 NetHunter 为什么比一加难？BL 解锁政策收紧、Android 13+ 的 init_boot 分区、GKI 内核、ARB 反回滚，四个坑一个都躲不开。本文按顺序走完解锁 BL、提取 init_boot、Magisk 修补、关闭 verity、替换 NetHunter 内核、Magisk 模块安装的完整链路，每步标注出错后果与救砖方法。 小米 / 红米 HyperOS 刷 N",
+      "title": "Termux 入门到进阶：免 root 把 Android 变成 Linux 工作站",
+      "link": "https://bk.zhaozhiqiang.pw/1353.html",
+      "date": "Fri, 23 Oct 2026 06:21:43 +0000",
+      "description": "Termux 不是手机版 Kali——它免 root、装了就能用，是日常最实用的移动 Linux 环境。本文从正确安装（Play 版已废弃）讲到换源、包管理、proot-distro 跑完整 Debian、SSH 把手机变成随身服务器、Termux:API 调用硬件，以及 Android 12+ 幻影进程导致后台被杀的三种解法。 Termux 入门到进阶：免 root 把 Android 变成 L",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
-      "title": "UDS 诊断协议入门：从 CAN 帧到 ISO 14229 的完整实战",
-      "link": "https://bk.zhaozhiqiang.pw/1329.html",
-      "date": "Fri, 23 Oct 2026 00:04:26 +0000",
-      "description": "抓到了 0x7E0 / 0x7E8 却读不懂？本文从 ISO-TP 的四种帧讲起，梳理 UDS 报文结构、正负响应与 0x78 等待码、11 个常用服务、诊断地址寻址方式，给出用 candump 读 VIN 的完整流程和 python-can + isotp + udsoncan 的可运行代码，并说明安全访问 0x27 的原理与写服务的风险边界。 UDS 诊断协议入门：从 CAN 帧到 ISO 1",
+      "title": "Burp Suite 汉化与配置指南：中文显示、必备插件与六个必改设置",
+      "link": "https://bk.zhaozhiqiang.pw/1350.html",
+      "date": "Fri, 23 Oct 2026 06:19:07 +0000",
+      "description": "很多人搜「Burp 汉化」，真正卡住的其实是中文显示成方块。本文把界面翻译和字符编码两个问题拆开：先给出字体 + UTF-8 + GBK 响应的完整修复方案，再说明汉化补丁的原理与三个真实风险，最后列出代理、证书、内存、拦截规则等六项基础设置和 Logger++、Autorize 等六个必装插件。 Burp Suite 汉化与配置指南：中文显示、必备插件与六个必改设置 最先出现在 星宇安全实验室 ",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
-      "title": "NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT7612U 全对比",
-      "link": "https://bk.zhaozhiqiang.pw/1326.html",
-      "date": "Thu, 22 Oct 2026 14:27:22 +0000",
-      "description": "插上外置网卡却看不到 wlan1？问题往往不在网卡而在内核。本文按「先查驱动、再挑芯片」的顺序，横向对比 AR9271、RT3070、RTL8812AU、MT7612U、MT7921AU 的监听与注入能力，给出三档具体型号、TL-WN722N 换芯片等避坑点，以及到手后 5 步验证注入是否真的可用的完整流程。 NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT761",
+      "title": "零基础安全实验环境搭建指南：虚拟机、Docker、靶场与手机全方案",
+      "link": "https://bk.zhaozhiqiang.pw/1347.html",
+      "date": "Fri, 23 Oct 2026 06:16:59 +0000",
+      "description": "学安全的第一件事不是装工具，而是先有一个能随便搞坏、能一秒还原的环境。本文对比虚拟机 / Docker / 手机三种形态的适用场景与资源占用，给出 Kali 虚拟机的完整配置、vulhub 靶场的一条命令复现、Host-Only 网络隔离的正确做法，以及三个基线快照策略和六个高频坑。 零基础安全实验环境搭建指南：虚拟机、Docker、靶场与手机全方案 最先出现在 星宇安全实验室 。",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
@@ -766,15 +775,6 @@
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
-    },
-    {
-      "title": "我捡的猫它自己回来了",
-      "link": "https://lzh1.cn/?T1789382980",
-      "date": "Mon, 14 Sep 2026 18:49:40 +0800",
-      "description": "今天中午吃饭的时候阿姨跟我说我小猫自己跑回来了，这只猫是我在9月1日晚上捡的在我",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "周记：开学第一、二周",
