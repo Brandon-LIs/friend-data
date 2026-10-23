@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-22T21:49:07.638Z",
-  "count": 184,
+  "updated_at": "2026-10-23T00:16:47.632Z",
+  "count": 179,
   "list": [
+    {
+      "title": "小米 / 红米 HyperOS 刷 NetHunter 全流程：解锁 BL 到 Kali chroot",
+      "link": "https://bk.zhaozhiqiang.pw/1332.html",
+      "date": "Fri, 23 Oct 2026 00:07:07 +0000",
+      "description": "小米/红米刷 NetHunter 为什么比一加难？BL 解锁政策收紧、Android 13+ 的 init_boot 分区、GKI 内核、ARB 反回滚，四个坑一个都躲不开。本文按顺序走完解锁 BL、提取 init_boot、Magisk 修补、关闭 verity、替换 NetHunter 内核、Magisk 模块安装的完整链路，每步标注出错后果与救砖方法。 小米 / 红米 HyperOS 刷 N",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "UDS 诊断协议入门：从 CAN 帧到 ISO 14229 的完整实战",
+      "link": "https://bk.zhaozhiqiang.pw/1329.html",
+      "date": "Fri, 23 Oct 2026 00:04:26 +0000",
+      "description": "抓到了 0x7E0 / 0x7E8 却读不懂？本文从 ISO-TP 的四种帧讲起，梳理 UDS 报文结构、正负响应与 0x78 等待码、11 个常用服务、诊断地址寻址方式，给出用 candump 读 VIN 的完整流程和 python-can + isotp + udsoncan 的可运行代码，并说明安全访问 0x27 的原理与写服务的风险边界。 UDS 诊断协议入门：从 CAN 帧到 ISO 1",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
     {
       "title": "NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT7612U 全对比",
       "link": "https://bk.zhaozhiqiang.pw/1326.html",
@@ -1335,15 +1353,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
     },
     {
-      "title": "TicWatch Pro 3 智能手表刷 NetHunter 教程：全球首款支持无线注入的手表",
-      "link": "https://bk.zhaozhiqiang.pw/1000.html",
-      "date": "Thu, 11 Jun 2026 10:28:39 +0000",
-      "description": "大家好！我是赵志强，专注于零基础手机安全研究。今天给大家带来一个绝对炸裂、全网首发的教程 —— 如何把你的 T [&#8230;] TicWatch Pro 3 智能手表刷 NetHunter 教程：全球首款支持无线注入的手表 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
       "title": "如何节约游戏占用的硬盘空间？",
       "link": "https://mabbs.github.io/2026/06/01/dedupe.html",
       "date": "2026-06-01T00:00:00+08:00",
@@ -1425,15 +1434,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
-      "title": "Kali Nethunter 如何刷到任何手机上？（高阶实战教程）",
-      "link": "https://bk.zhaozhiqiang.pw/719.html",
-      "date": "Mon, 16 Feb 2026 14:43:20 +0000",
-      "description": "前言 其实，我在很早的时候就一直在研究Kali Nethunter的问题，也砸钱卖了很多设备，前前后后买了大概 [&#8230;] Kali Nethunter 如何刷到任何手机上？（高阶实战教程） 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
       "title": "就这样走过二〇二五",
       "link": "https://xinyang-gao.github.io/articles/就这样走过2025.html",
       "date": "Tue, 10 Feb 2026 00:00:00 GMT",
@@ -1450,33 +1450,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "重生之我是蒟蒻打CTF-misc",
@@ -1506,15 +1479,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1531,15 +1495,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
