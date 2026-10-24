@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-24T06:24:39.486Z",
+  "updated_at": "2026-10-24T09:41:09.528Z",
   "count": 184,
   "list": [
+    {
+      "title": "把 PCL 关掉的下载功能接回来：fixpcl 的逆向分析与 IL 手术实录",
+      "link": "https://upxuu.com/posts/fixpcl-pcl-299-download-restore/",
+      "date": "Sat, 24 Oct 2026 07:30:00 GMT",
+      "description": "PCL 2.99.0.0 以\"遵守相关法律法规\"为由关闭了 MC 下载功能。本文记录完整的分析过程：从版本 diff 定位到编译期常量折叠，确认二进制中幸存的安装链路，用 dnlib 做六处 IL 手术恢复功能并禁用自更新，最终打包成双击即用的单文件工具。",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
     {
       "title": "我的作业写不完了。",
       "link": "https://blog.0c0.ren/archives/29/",
@@ -388,15 +397,6 @@
       "site": "YuJing的记忆终端",
       "siteUrl": "https://www.yujingblog.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/10050010.webp"
-    },
-    {
-      "title": "最有生活的九月",
-      "link": "https://upxuu.com/posts/my-2026-09/",
-      "date": "Mon, 05 Oct 2026 23:58:53 GMT",
-      "description": "其实这两天一直在忙着复习，不过还是决定写篇小文记录一下吧 开学伊始 其实自从上了初中以来，开学带给我",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "『视频分享』第一次剪辑",
