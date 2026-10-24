@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-24T19:37:45.004Z",
+  "updated_at": "2026-10-24T22:08:43.217Z",
   "count": 189,
   "list": [
+    {
+      "title": "WiFi 渗透：能破的，从来都是弱密码",
+      "link": "https://bk.zhaozhiqiang.pw/1397.html",
+      "date": "Sat, 24 Oct 2026 22:04:51 +0000",
+      "description": "WPA2 的加密从没被攻破过，所有「破解 WiFi」本质都是在猜密码。这篇讲完整流程和每一步的真实成功率：怎么读 airodump 的输出、PMKID 为什么不用等客户端、deauth 的副作用、802.11w 为什么会让你打不动，以及那些听起来厉害但基本没用的手段。 WiFi 渗透：能破的，从来都是弱密码 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "SQL 注入还没死，只是换了地方",
+      "link": "https://bk.zhaozhiqiang.pw/1394.html",
+      "date": "Sat, 24 Oct 2026 22:02:05 +0000",
+      "description": "2026 年了，一个单引号还能让后台吐出 SQL 报错。这篇不教什么是注入，只讲三件事：它为什么还活着（老代码、拼接、ORM 的错觉）、报错注入/盲注/联合查询现在哪些还灵、以及参数化管不着的四个位置——表名、列名、ORDER BY 和 LIMIT。附 sqlmap 的 --level 与 --risk 到底该怎么用。 SQL 注入还没死，只是换了地方 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
     {
       "title": "我的blog设计理念",
       "link": "https://xice.cx/posts/myBlogDesign/",
@@ -79,24 +97,6 @@
       "link": "https://bk.zhaozhiqiang.pw/1356.html",
       "date": "Fri, 23 Oct 2026 06:24:52 +0000",
       "description": "每次写 Frida 脚本都要重想「怎么 hook 构造函数」「怎么处理重载」「改返回值怎么写」？本文把最常见的 10 种场景做成可直接改用的模板：参数返回值、重载、构造函数、改返回、读写字段、遍历实例、接口、静态方法、native 拦截、调用栈，并给出 ClassNotFoundException 的 ClassLoader 解法与六种报错对照。 Frida 脚本入门：Hook Java 方法的 ",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "Termux 入门到进阶：免 root 把 Android 变成 Linux 工作站",
-      "link": "https://bk.zhaozhiqiang.pw/1353.html",
-      "date": "Fri, 23 Oct 2026 06:21:43 +0000",
-      "description": "Termux 不是手机版 Kali——它免 root、装了就能用，是日常最实用的移动 Linux 环境。本文从正确安装（Play 版已废弃）讲到换源、包管理、proot-distro 跑完整 Debian、SSH 把手机变成随身服务器、Termux:API 调用硬件，以及 Android 12+ 幻影进程导致后台被杀的三种解法。 Termux 入门到进阶：免 root 把 Android 变成 L",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "Burp Suite 汉化与配置指南：中文显示、必备插件与六个必改设置",
-      "link": "https://bk.zhaozhiqiang.pw/1350.html",
-      "date": "Fri, 23 Oct 2026 06:19:07 +0000",
-      "description": "很多人搜「Burp 汉化」，真正卡住的其实是中文显示成方块。本文把界面翻译和字符编码两个问题拆开：先给出字体 + UTF-8 + GBK 响应的完整修复方案，再说明汉化补丁的原理与三个真实风险，最后列出代理、证书、内存、拦截规则等六项基础设置和 Logger++、Autorize 等六个必装插件。 Burp Suite 汉化与配置指南：中文显示、必备插件与六个必改设置 最先出现在 星宇安全实验室 ",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
