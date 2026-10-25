@@ -1,21 +1,48 @@
 {
-  "updated_at": "2026-10-24T22:08:43.217Z",
+  "updated_at": "2026-10-25T00:26:05.797Z",
   "count": 189,
   "list": [
     {
-      "title": "WiFi 渗透：能破的，从来都是弱密码",
-      "link": "https://bk.zhaozhiqiang.pw/1397.html",
-      "date": "Sat, 24 Oct 2026 22:04:51 +0000",
-      "description": "WPA2 的加密从没被攻破过，所有「破解 WiFi」本质都是在猜密码。这篇讲完整流程和每一步的真实成功率：怎么读 airodump 的输出、PMKID 为什么不用等客户端、deauth 的副作用、802.11w 为什么会让你打不动，以及那些听起来厉害但基本没用的手段。 WiFi 渗透：能破的，从来都是弱密码 最先出现在 星宇安全实验室 。",
+      "title": "越权：扫描器永远发现不了的那类漏洞",
+      "link": "https://bk.zhaozhiqiang.pw/1409.html",
+      "date": "Sat, 24 Oct 2026 22:17:54 +0000",
+      "description": "SQL 注入有 payload 特征，XSS 有反射点，越权什么都没有——它就是一次完全正常的请求，只不过 ID 换成了别人的。这篇讲水平/垂直/未授权的测法差异、改参数名删参数换方法这些具体手法、怎么判断「返回 200」到底是不是洞，以及为什么这类漏洞永远修不完。 越权：扫描器永远发现不了的那类漏洞 最先出现在 星宇安全实验室 。",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
-      "title": "SQL 注入还没死，只是换了地方",
-      "link": "https://bk.zhaozhiqiang.pw/1394.html",
-      "date": "Sat, 24 Oct 2026 22:02:05 +0000",
-      "description": "2026 年了，一个单引号还能让后台吐出 SQL 报错。这篇不教什么是注入，只讲三件事：它为什么还活着（老代码、拼接、ORM 的错觉）、报错注入/盲注/联合查询现在哪些还灵、以及参数化管不着的四个位置——表名、列名、ORDER BY 和 LIMIT。附 sqlmap 的 --level 与 --risk 到底该怎么用。 SQL 注入还没死，只是换了地方 最先出现在 星宇安全实验室 。",
+      "title": "TCP 排查：重传、窗口和那个永远被忽略的 MTU",
+      "link": "https://bk.zhaozhiqiang.pw/1406.html",
+      "date": "Sat, 24 Oct 2026 22:11:58 +0000",
+      "description": "用户说慢，运维说服务器正常，开发说接口只有 80 毫秒。抓个包十分钟能出结论，前提是知道看哪三个数：重传率、零窗口、带宽延迟积。这篇讲排查顺序，以及为什么大部分「网络慢」最后都不是网络问题。 TCP 排查：重传、窗口和那个永远被忽略的 MTU 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "HTTP/2 和 HTTP/3 抓包：为什么 Follow TCP Stream 不好使了",
+      "link": "https://bk.zhaozhiqiang.pw/1403.html",
+      "date": "Sat, 24 Oct 2026 22:09:47 +0000",
+      "description": "以前右键 Follow TCP Stream 就能看完一次请求，现在屏幕上全是交错的 HEADERS 和 DATA。因为 HTTP/2 把多条流压进同一条 TCP，HTTP/3 干脆换了 UDP。这篇讲清 h2 怎么按 streamid 锁定、HPACK 头部怎么过滤，以及 h3 为什么抓不到、什么时候根本不该抓包。 HTTP/2 和 HTTP/3 抓包：为什么 Follow TCP Stream",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "Wireshark 入门：比抓包更难的是知道抓哪里",
+      "link": "https://bk.zhaozhiqiang.pw/1400.html",
+      "date": "Sat, 24 Oct 2026 22:07:28 +0000",
+      "description": "Wireshark 真正难的地方不在抓包，在抓对位置和过滤噪音。这篇讲包从哪来（交换机隔离、无线监听、Windows 回环）、两种过滤器为什么不能混、五个够用八成的过滤表达式、Follow TCP Stream 的中文乱码，以及「校验和错误」「抓一会儿就丢包」这三个经典问题。 Wireshark 入门：比抓包更难的是知道抓哪里 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "WiFi 渗透：能破的，从来都是弱密码",
+      "link": "https://bk.zhaozhiqiang.pw/1397.html",
+      "date": "Sat, 24 Oct 2026 22:04:51 +0000",
+      "description": "WPA2 的加密从没被攻破过，所有「破解 WiFi」本质都是在猜密码。这篇讲完整流程和每一步的真实成功率：怎么读 airodump 的输出、PMKID 为什么不用等客户端、deauth 的副作用、802.11w 为什么会让你打不动，以及那些听起来厉害但基本没用的手段。 WiFi 渗透：能破的，从来都是弱密码 最先出现在 星宇安全实验室 。",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
@@ -57,15 +84,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
     },
     {
-      "title": "1024：写给还在折腾的我们",
-      "link": "https://bk.zhaozhiqiang.pw/1363.html",
-      "date": "Sat, 24 Oct 2026 03:17:01 +0000",
-      "description": "1024 是 2 的 10 次方，也是四个少年凑在一起的又一个秋天。这篇不聊技术，聊那些装不上的虚拟机、半夜挂掉的服务器、被自己推翻的方案，以及从兴趣小组到个体户工作室的那一步。写给团队，也写给所有还在自学的人。 1024：写给还在折腾的我们 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
       "title": "AI与纯音乐",
       "link": "https://notes.iamcrl.cn/posts/ai-and-music/",
       "date": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -82,24 +100,6 @@
       "site": "AIOVTUE-雪",
       "siteUrl": "https://daily.yybb.us",
       "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
-    },
-    {
-      "title": "Nmap 常用命令速查：从主机发现到 NSE 脚本的 20 个实战组合",
-      "link": "https://bk.zhaozhiqiang.pw/1359.html",
-      "date": "Fri, 23 Oct 2026 06:27:45 +0000",
-      "description": "为什么别人的 nmap 命令你跑就报 requires root privileges？先搞清 -sS / -sT / -sU 三种原理的区别。本文按主机发现、端口扫描、版本识别、NSE 脚本、输出留档、速度与隐蔽六个维度整理常用参数，给出 20 个可直接复制的实战组合和七个高频坑。 Nmap 常用命令速查：从主机发现到 NSE 脚本的 20 个实战组合 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "Frida 脚本入门：Hook Java 方法的 10 个常用模板",
-      "link": "https://bk.zhaozhiqiang.pw/1356.html",
-      "date": "Fri, 23 Oct 2026 06:24:52 +0000",
-      "description": "每次写 Frida 脚本都要重想「怎么 hook 构造函数」「怎么处理重载」「改返回值怎么写」？本文把最常见的 10 种场景做成可直接改用的模板：参数返回值、重载、构造函数、改返回、读写字段、遍历实例、接口、静态方法、native 拦截、调用栈，并给出 ClassNotFoundException 的 ClassLoader 解法与六种报错对照。 Frida 脚本入门：Hook Java 方法的 ",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "今天生日了！16岁快乐",
