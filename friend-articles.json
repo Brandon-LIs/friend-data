@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T00:26:05.797Z",
-  "count": 189,
+  "updated_at": "2026-10-25T05:01:56.509Z",
+  "count": 184,
   "list": [
     {
       "title": "越权：扫描器永远发现不了的那类漏洞",
@@ -543,6 +543,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
+      "title": "探囊取物",
+      "link": "https://github.com/Xinyang-Gao/bundle-stash",
+      "date": "Thu, 01 Oct 2026 00:00:00 +0800",
+      "description": "一个 Minecraft Mod，侧栏一览所有收纳袋内容，支持分类、拼音搜索与一键存取",
+      "site": "高新炀的小站",
+      "siteUrl": "https://gxy.cn.mt",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
       "title": "如何制作一个“完整”的博客压缩包？",
       "link": "https://mabbs.github.io/2026/10/01/quine.html",
       "date": "2026-10-01T00:00:00+08:00",
@@ -669,6 +678,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
     },
     {
+      "title": "SVG绘制动画",
+      "link": "https://xinyang-gao.github.io/works/SVG绘制动画/",
+      "date": "Sat, 26 Sep 2026 00:00:00 +0800",
+      "description": "一个 Python 工具，将 SVG 路径转换为数学表达式（参数方程），支持分段精确表达式和傅里叶级数拟合",
+      "site": "高新炀的小站",
+      "siteUrl": "https://gxy.cn.mt",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
       "title": "九月末记 | 中秋安康+月饼活动 激情的时光",
       "link": "https://note.redcha.cn/archives/jiu-yue-mo-ji-zhong-qiu-an-kang-yue-bing-huo-dong-ji-qing-de-shi-guang",
       "date": "Fri, 25 Sep 2026 10:03:00 GMT",
@@ -784,6 +802,15 @@
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
+    },
+    {
+      "title": "家乡的秋天",
+      "link": "https://xinyang-gao.github.io/articles/家乡的秋天.html",
+      "date": "Sat, 19 Sep 2026 00:00:00 +0800",
+      "description": "从影子的角度描绘城市的秋景。",
+      "site": "高新炀的小站",
+      "siteUrl": "https://gxy.cn.mt",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
       "title": "那个猫它走了",
@@ -993,6 +1020,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
+      "title": "我帮 Tooltip 治好了\"强迫换行症\"，过程比想象中曲折",
+      "link": "https://xinyang-gao.github.io/articles/我帮Tooltip治好了强迫换行症过程比想象中曲折.html",
+      "date": "Fri, 28 Aug 2026 00:00:00 +0800",
+      "description": "网站的开发日志，Tooltip 组件的一个诡异问题修复经历",
+      "site": "高新炀的小站",
+      "siteUrl": "https://gxy.cn.mt",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
       "title": "三个小工具，三个小问题",
       "link": "https://mingblog.site/posts/recent-side-projects/",
       "date": "Thu, 27 Aug 2026 00:00:00 GMT",
@@ -1092,6 +1128,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060002.webp"
     },
     {
+      "title": "pixiv图片检索",
+      "link": "https://xinyang-gao.github.io/works/pixiv图片检索/",
+      "date": "Fri, 14 Aug 2026 00:00:00 +0800",
+      "description": "pixiv 图片检索小工具，通过 pixiv.re 获取图片",
+      "site": "高新炀的小站",
+      "siteUrl": "https://gxy.cn.mt",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
+    },
+    {
       "title": "ESP32 / ESP8266 物联网开发环境配置指南",
       "link": "https://blog.liseezn.top/919.html/",
       "date": "Wed, 12 Aug 2026 13:59:40 +0000",
@@ -1135,15 +1180,6 @@
       "site": "逸树の小屋",
       "siteUrl": "https://474029.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120001.webp"
-    },
-    {
-      "title": "太阳偷喝了柿子酒",
-      "link": "https://xinyang-gao.github.io/articles/太阳偷喝了柿子酒.html",
-      "date": "Tue, 11 Aug 2026 00:00:00 GMT",
-      "description": "被日落的景色迷住了…天空永远是那么迷人",
-      "site": "高新炀的小站",
-      "siteUrl": "https://gxy.cn.mt",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
     },
     {
       "title": "试玩神人游戏《完蛋！我被男同学包围了》",
@@ -1279,15 +1315,6 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
-    },
-    {
-      "title": "BlogsClub二周年快乐",
-      "link": "https://blog.elysium-stack.cn/posts/bc-2nd-anniversary/",
-      "date": "Wed, 22 Jul 2026 15:37:00 GMT",
-      "description": "BlogsClub二周年快乐，迟来的庆贺文与纪念品返图！",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "今天是0721哦，Ciallo～(∠・ω< )⌒☆",
@@ -1470,24 +1497,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
-      "title": "从一株小草开始",
-      "link": "https://xinyang-gao.github.io/articles/从一株小草开始.html",
-      "date": "Wed, 18 Mar 2026 00:00:00 GMT",
-      "description": "记叙体育课一千米测试时，一株从水泥与假草缝隙中钻出的真草，给了我坚持跑完全程的勇气。",
-      "site": "高新炀的小站",
-      "siteUrl": "https://gxy.cn.mt",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "就这样走过二〇二五",
-      "link": "https://xinyang-gao.github.io/articles/就这样走过2025.html",
-      "date": "Tue, 10 Feb 2026 00:00:00 GMT",
-      "description": "一次诗歌尝试",
-      "site": "高新炀的小站",
-      "siteUrl": "https://gxy.cn.mt",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
       "title": "使用Tailscale实现异地组网！",
       "link": "https://www.memxb.top/archives/966",
       "date": "Mon, 02 Feb 2026 07:03:59 +0000",
@@ -1531,15 +1540,6 @@
       "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
       "siteUrl": "https://66619.eu.org",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
-    },
-    {
-      "title": "明日方舟终末地工具站汇总",
-      "link": "https://blog.elysium-stack.cn/posts/arknights-endfield-tools/",
-      "date": "Thu, 22 Jan 2026 11:19:00 GMT",
-      "description": "汇总明日方舟终末地相关工具网站，涵盖协议终端、基质规划器、量化计算器、排轴终端、互动地图、剧情检索、一图流、拼图解密、Wiki及MAA小助手等实用资源",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "🌌 最终测试：超弦虚空接口",
@@ -1587,15 +1587,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
-      "title": "告别2025 迎接2026",
-      "link": "https://blog.elysium-stack.cn/posts/happy-new-year-2026/",
-      "date": "Mon, 29 Dec 2025 17:19:00 GMT",
-      "description": "2025年终总结，回顾博客建设、情感生活、明日方舟、旅行与演唱会等",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
-    },
-    {
       "title": "2025年末总结",
       "link": "https://whitebear.im/archives/22/",
       "date": "Wed, 17 Dec 2025 13:56:00 +0000",
@@ -1603,24 +1594,6 @@
       "site": "白熊自留地",
       "siteUrl": "https://whitebear.im",
       "avatar": "https://jsd.oopss.top/uploads/2026/10040006.jpg"
-    },
-    {
-      "title": "马生复宋濂书",
-      "link": "https://xinyang-gao.github.io/articles/马生复宋濂书.html",
-      "date": "Tue, 09 Dec 2025 00:00:00 GMT",
-      "description": "模仿《送东阳马生序》中马生的口吻，以文言文回信宋濂。表达对先生勤学精神的敬佩，反省自身优越条件，承诺以圣贤之道为归，不负教诲。",
-      "site": "高新炀的小站",
-      "siteUrl": "https://gxy.cn.mt",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "2025.12.2 祝我生日快乐",
-      "link": "https://blog.elysium-stack.cn/posts/birthday-20251202/",
-      "date": "Tue, 02 Dec 2025 12:02:00 GMT",
-      "description": "生日感悟——学会与自己和解、学会珍惜、学会告别",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "“Abord”的开发碎碎念",
@@ -1639,24 +1612,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "朗诵音乐",
-      "link": "https://xinyang-gao.github.io/works/朗诵音乐/",
-      "date": "Wed, 22 Oct 2025 00:00:00 GMT",
-      "description": "一次语文朗诵比赛需要的朗诵背景，包含两个页面",
-      "site": "高新炀的小站",
-      "siteUrl": "https://gxy.cn.mt",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "Elysium-Meting-Api公益服务",
-      "link": "https://blog.elysium-stack.cn/posts/elysium-meting-api/",
-      "date": "Sat, 11 Oct 2025 18:15:00 GMT",
-      "description": "基于Meting-API自建的公开音乐API服务，支持网易云、QQ音乐等多平台搜索与播放链接获取",
-      "site": "ElysiumStack",
-      "siteUrl": "https://blog.elysium-stack.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "为你的站点提速之开启BBR减少丢包",
