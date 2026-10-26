@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-26T00:53:40.153Z",
+  "updated_at": "2026-10-26T05:37:29.060Z",
   "count": 189,
   "list": [
+    {
+      "title": "我的文章是怎么写出来的，以及我对ai写文的看法",
+      "link": "https://xice.cx/posts/howIwriteBlog/",
+      "date": "2026-10-25T16:00:00.000Z",
+      "description": "最近挺多朋友问我关于 blog 的事，其中最让他们头疼的，便是怎么写一篇文章。这个我还是挺有话语权的 首先不能有光环焦虑，就当作普普通通写一篇文章就行，也不需要在乎给谁看。（当然教程这种有明确读者的除外）我的 blog 分了四个分类，实际上就三类： 日记 、 技术文 、 随笔 日记 ，也就是平时生活中的一些趣事之类的，记录一下。这个其实没啥，写给自己当备忘用的 技术文 ，有教程型、讲解式之分。写这",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
     {
       "title": "SSRF：让服务器替你发请求",
       "link": "https://bk.zhaozhiqiang.pw/1412.html",
@@ -822,15 +831,6 @@
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
-      "title": "深入聊聊apple设备间生态体验",
-      "link": "https://xice.cx/posts/onlyAppleCanDo/",
-      "date": "2026-09-17T16:00:00.000Z",
-      "description": "前不久一段时间，我的Samsung手机在我游玩Terraria的时候，当时在游戏里扔了个雷管，随着雷管爆炸声响起，我的手机屏幕直接白掉了，最后查出原因是用的时间太久了，老了元器件不行了，就死了，由于本身我也有iPad和Mac了，那下一台手机就不由自主变成iPhone了 接下来我会简单讲一下早期我从Android/Google生态转移到iOS/iCloud生态的过程，如果您不想看可以直接跳到下方 正",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
       "title": "GPT 与 Claude 混合双打的 72 小时：2026 数模 A 题赛博修仙实录",
       "link": "https://wangxinyang.top/archives/gpt-yu-claude-hun-he-shuang-da-de-72-xiao-shi-2026-shu-mo-a-ti-sai-bo-xiu-xian-shi-lu",
       "date": "Tue, 15 Sep 2026 06:10:05 GMT",
@@ -1517,7 +1517,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "date": "2026-02-01T02:44:53Z",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1526,7 +1526,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "date": "2026-02-01T02:44:32Z",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1535,7 +1535,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "date": "2026-01-30T16:00:03Z",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1571,7 +1571,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "date": "2026-01-02T06:24:00Z",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1598,7 +1598,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "date": "2025-12-30T16:00:00Z",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
