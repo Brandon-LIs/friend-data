@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-27T13:26:59.614Z",
+  "updated_at": "2026-10-27T18:49:17.016Z",
   "count": 194,
   "list": [
+    {
+      "title": "静态博客后台-开源啦！",
+      "link": "https://daily.yybb.us/posts/aiovtue/aiovtue-cms/cms-gen/",
+      "date": "Tue, 27 Oct 2026 22:08:13 +0800",
+      "description": "介绍 总览 之前有发过一篇 主题升级—Hugo博客后台 ,那么现在，项目开源啦（一半），本次开源的是通配版本，适配各种静态架构，理论上只要是走的github仓库托管，都能使用，其实在周刊写过介绍了，但是还是单独发一篇介绍一下，也可以直接跳转 开源文档 AIOVTUE-CMS 是基于 Pages CMS 的自托管内容管理系统，源 Pages CMS 项目已经能做到后台管理，但是个人觉得不太够用，同时",
+      "site": "AIOVTUE-雪",
+      "siteUrl": "https://daily.yybb.us",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
+    },
     {
       "title": "【比赛日记】2026中国国际大学生创新大赛（广东赛区）华农行",
       "link": "https://wangxinyang.top/archives/ji-zhong-guo-guo-ji-da-xue-sheng-chuang-xin-da-sai-yuan-man-jie-shu",
@@ -514,15 +523,6 @@
       "site": "0c0 的小窝",
       "siteUrl": "https://blog.0c0.ren",
       "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
-    },
-    {
-      "title": "艾雪周刊 V.13—国庆快乐！",
-      "link": "https://daily.yybb.us/posts/weekly/13/",
-      "date": "Fri, 02 Oct 2026 21:50:56 +0800",
-      "description": "关于本刊 这是 艾雪期刊 的第 13 期，作为一个独立系列进行更新，更新时间在周末，主要内容为周内内容汇集以及碎碎念，有时会分享一些有趣的项目，有时是一些生活的碎碎念",
-      "site": "AIOVTUE-雪",
-      "siteUrl": "https://daily.yybb.us",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10050006.png"
     },
     {
       "title": "【日记】有线也得用蓝牙",
