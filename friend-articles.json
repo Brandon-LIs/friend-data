@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T01:27:43.437Z",
-  "count": 189,
+  "updated_at": "2026-10-30T06:23:43.864Z",
+  "count": 194,
   "list": [
     {
       "title": "函数可以结束，但也可以暂停：Python的yield",
@@ -1353,6 +1353,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
     },
     {
+      "title": "BlogsClub二周年快乐",
+      "link": "https://blog.elysium-stack.cn/posts/bc-2nd-anniversary/",
+      "date": "Wed, 22 Jul 2026 15:37:00 GMT",
+      "description": "BlogsClub二周年快乐，迟来的庆贺文与纪念品返图！",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "今天是0721哦，Ciallo～(∠・ω< )⌒☆",
       "link": "https://blog.mcxiaochen.top/posts/2026-Ciallo/",
       "date": "Tue, 21 Jul 2026 07:21:00 GMT",
@@ -1587,6 +1596,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
     },
     {
+      "title": "明日方舟终末地工具站汇总",
+      "link": "https://blog.elysium-stack.cn/posts/arknights-endfield-tools/",
+      "date": "Thu, 22 Jan 2026 11:19:00 GMT",
+      "description": "汇总明日方舟终末地相关工具网站，涵盖协议终端、基质规划器、量化计算器、排轴终端、互动地图、剧情检索、一图流、拼图解密、Wiki及MAA小助手等实用资源",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "🌌 最终测试：超弦虚空接口",
       "link": "https://lemonadorable.github.io/blog/test-mdx",
       "date": "Sat, 10 Jan 2026 00:00:00 GMT",
@@ -1632,6 +1650,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
+      "title": "告别2025 迎接2026",
+      "link": "https://blog.elysium-stack.cn/posts/happy-new-year-2026/",
+      "date": "Mon, 29 Dec 2025 17:19:00 GMT",
+      "description": "2025年终总结，回顾博客建设、情感生活、明日方舟、旅行与演唱会等",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "2025年末总结",
       "link": "https://whitebear.im/archives/22/",
       "date": "Wed, 17 Dec 2025 13:56:00 +0000",
@@ -1639,6 +1666,15 @@
       "site": "白熊自留地",
       "siteUrl": "https://whitebear.im",
       "avatar": "https://jsd.oopss.top/uploads/2026/10040006.jpg"
+    },
+    {
+      "title": "2025.12.2 祝我生日快乐",
+      "link": "https://blog.elysium-stack.cn/posts/birthday-20251202/",
+      "date": "Tue, 02 Dec 2025 12:02:00 GMT",
+      "description": "生日感悟——学会与自己和解、学会珍惜、学会告别",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "“Abord”的开发碎碎念",
@@ -1657,6 +1693,15 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
+    },
+    {
+      "title": "Elysium-Meting-Api公益服务",
+      "link": "https://blog.elysium-stack.cn/posts/elysium-meting-api/",
+      "date": "Sat, 11 Oct 2025 18:15:00 GMT",
+      "description": "基于Meting-API自建的公开音乐API服务，支持网易云、QQ音乐等多平台搜索与播放链接获取",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "为你的站点提速之开启BBR减少丢包",
