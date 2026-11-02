@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-02T02:38:12.507Z",
+  "updated_at": "2026-11-02T10:17:02.868Z",
   "count": 194,
   "list": [
+    {
+      "title": "程序员为什么为编程语言发起圣战？技术族群主义的结构分析",
+      "link": "https://xice.cx/posts/Techno-Tribalism/",
+      "date": "2026-11-01T16:00:00.000Z",
+      "description": "每一场编程语言圣战、发行版之争、框架对立的背后，争的从来不是技术本身。本文提出\"技术族群主义\"这一概念，从器我融合、动机性推理、族群防御机制三个层面，解析开发者社区身份认同的完整结构",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
     {
       "title": "川西暑漫记 | D5 稻城‑理塘‑塔公草原‑八美，超长车程奔波日，邂逅草原晚霞与治愈彩虹",
       "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d5-dao-cheng-li-tang-ta-gong-cao-yuan-ba-mei-chao-chang-che-cheng-ben-bo-ri-xie-hou-cao-yuan-wan-xia-yu-zhi-yu-cai-hong",
@@ -712,15 +721,6 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
-    },
-    {
-      "title": "华为小米粉丝互联网骂架的深入分析",
-      "link": "https://xice.cx/posts/huaweiVsXiaomi/",
-      "date": "2026-09-26T16:00:00.000Z",
-      "description": "中国科技圈有两个群体，骂了将近十年，至今没有停歇的迹象。一个叫米粉，一个叫花粉，分别是小米和华为的死忠信仰级用户，这两个群体之间的战争是中国消费电子史上最持久激烈，也最荒诞的文化现象之一 荒诞在哪里？ 在于他们骂架的内容，从来不是真正的问题所在 米粉说华为是智商税，溢价严重，没有性价比。花粉说小米是组装厂，没有核心技术都是字研。双方各执一词，论据换了一轮又一轮，细节争了一个又一个，但如果你往后退一",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "博客主题开源了！",
