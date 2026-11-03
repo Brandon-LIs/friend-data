@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-03T02:29:40.835Z",
+  "updated_at": "2026-11-03T09:54:02.472Z",
   "count": 189,
   "list": [
+    {
+      "title": "LiMhy 更新手记，这次从一条自动封禁记录查起",
+      "link": "https://i.lilog.cn/post/limhy-update-20261102",
+      "date": "Tue, 03 Nov 2026 01:41:00 +0800",
+      "description": "从一条自动封禁记录查起，聊聊 LiMhy 这轮在安全处置、访问环境、F12 探针和后台体验上的调整，以及全系统审查后的修复与完整包更新。",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
+    },
     {
       "title": "程序员为什么为编程语言发起圣战？技术族群主义的结构分析",
       "link": "https://xice.cx/posts/Techno-Tribalism/",
@@ -725,7 +734,7 @@
     {
       "title": "博客主题开源了！",
       "link": "https://loneapex.cn/shuoshuo/%e5%8d%9a%e5%ae%a2%e4%b8%bb%e9%a2%98%e5%bc%80%e6%ba%90%e4%ba%86%ef%bc%81",
-      "date": "Sat, 26 Sep 2026 14:41:05 +0000",
+      "date": "2026-09-26T14:41:05Z",
       "description": "终于等到这一天了。目前这个站点使用的Wordpress主题已经开源到GitHub上了。 当然，现在只是处在「把仓库传了上去」的阶段。这个几乎完全用AI写的主题目前还存在一堆问题，等国庆假期大概会搓一个使用文档，并且对代码进行重构，到那时候估...",
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
@@ -923,7 +932,7 @@
     {
       "title": "这几天",
       "link": "https://loneapex.cn/shuoshuo/%e8%bf%99%e5%87%a0%e5%a4%a9",
-      "date": "Sat, 12 Sep 2026 10:39:14 +0000",
+      "date": "2026-09-12T10:39:14Z",
       "description": "看了电影《奥德赛》。这部作品可以说出乎我的预料了。导演是诺兰，加上我对这种远古历史题材向来不太感兴趣，本以为会晦涩难懂到睡着，结果整整三个小时都看得非常入迷。 也庆幸看之前稍微了解了一下《荷马史诗》与一些古希腊神话的典故，对于这部作品的理解...",
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
@@ -941,7 +950,7 @@
     {
       "title": "八月，键曲回响、轻音少女、键等联动",
       "link": "https://loneapex.cn/archives/5907",
-      "date": "Mon, 07 Sep 2026 16:00:23 +0000",
+      "date": "2026-09-07T16:00:23Z",
       "description": "夏天的尾声。",
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
@@ -1103,7 +1112,7 @@
     {
       "title": "《ソレヨリノ前奏詩》杂谈",
       "link": "https://loneapex.cn/archives/5862",
-      "date": "Wed, 26 Aug 2026 00:41:05 +0000",
+      "date": "2026-08-26T00:41:05Z",
       "description": "这是由已经倒闭的minori社在2015年发行的作品。",
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
@@ -1441,15 +1450,6 @@
       "site": "辰渊尘の博客",
       "siteUrl": "https://blog.mcxiaochen.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060004.webp"
-    },
-    {
-      "title": "7月你好，也该继续记录生活了",
-      "link": "https://i.lilog.cn/post/199",
-      "date": "Wed, 01 Jul 2026 18:52:00 +0800",
-      "description": "时间过得好快，不知不觉又来到新的一个月了，7月你好。 上次写生活文，还是6月初的事情。最近翻了一下，发现现在确实没有以前刚开始折腾博客时那么勤快了。以前好像有点什么事情都会写一篇，换个主题、改个功能、吃顿饭，甚至只是后台哪里不顺手，都想记录一下。现在反而经常是想写，但想着想着就放下了。 前几天我回看旧博客“李的日志”的统计，博客运行已经有460天了，但生活记录文也就只写了三十多篇。从2025年7月",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "Vibe Coding新体验",
