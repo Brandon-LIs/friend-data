@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T09:54:02.472Z",
+  "updated_at": "2026-11-03T17:26:29.186Z",
   "count": 189,
   "list": [
     {
@@ -10,6 +10,15 @@
       "site": "LiMhy'Blog",
       "siteUrl": "https://i.lilog.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
+    },
+    {
+      "title": "打开b站，莫名其妙就被骂",
+      "link": "https://xfchannel.top/note/2026-11-03-%E6%89%93%E5%BC%80b%E7%AB%99%EF%BC%8C%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%B0%B1%E8%A2%AB%E9%AA%82/",
+      "date": "2026-11-02T16:00:00.000Z",
+      "description": "讲一下我打开B站莫名其妙被骂的事情啊 首先，我回到家，打开QQ和朋友们聊，昨天又打开UP去看一下有什么好东西，然后就去打开B站了 然后呢，看到有八条回复，哎，我挺高兴的，对吧？那做一个B站UP主，有回复，他说，啊，有消息说明你可能视频被点赞了，或",
+      "site": "xf_blog",
+      "siteUrl": "https://xfchannel.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "程序员为什么为编程语言发起圣战？技术族群主义的结构分析",
@@ -352,15 +361,6 @@
       "site": "没吃饱的天镜镜",
       "siteUrl": "https://blog.8765777.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
-    },
-    {
-      "title": "记录我这普通的一天，顺便提前祝我的朋友生日快乐",
-      "link": "https://xfchannel.top/note/2026-10-17-%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E6%88%91%E8%BF%99%E6%99%AE%E9%80%9A%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%8C%E9%A1%BA%E4%BE%BF%E6%8F%90%E5%89%8D%E7%A5%9D%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/",
-      "date": "2026-10-16T16:00:00.000Z",
-      "description": "不知道大伙在 B 站上看到有个东西叫做“大溜理论”吗？就是出门溜达那个“溜”。 我之前晚上睡觉前刷 B 站偶然刷到了这个视频，大意是说：如果你心情不好、觉得干什么都没意义，那就一句话，别多想，直接出去溜达；也不要去想为什么要溜达，完全不需要想。这样就能把烦恼抛",
-      "site": "xf_blog",
-      "siteUrl": "https://xfchannel.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "考完月考就去天台玩吧",
@@ -734,7 +734,7 @@
     {
       "title": "博客主题开源了！",
       "link": "https://loneapex.cn/shuoshuo/%e5%8d%9a%e5%ae%a2%e4%b8%bb%e9%a2%98%e5%bc%80%e6%ba%90%e4%ba%86%ef%bc%81",
-      "date": "2026-09-26T14:41:05Z",
+      "date": "Sat, 26 Sep 2026 14:41:05 +0000",
       "description": "终于等到这一天了。目前这个站点使用的Wordpress主题已经开源到GitHub上了。 当然，现在只是处在「把仓库传了上去」的阶段。这个几乎完全用AI写的主题目前还存在一堆问题，等国庆假期大概会搓一个使用文档，并且对代码进行重构，到那时候估...",
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
@@ -912,15 +912,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
-      "title": "游玩日记·第三期",
-      "link": "https://blog.weasel6.cn/posts/life-third/",
-      "date": "Sun, 13 Sep 2026 13:49:00 GMT",
-      "description": "无聊的主包记录最近吃吃喝喝的放纵生活",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
       "title": "【26年36周记】军训 &#038; 高一开学",
       "link": "https://www.haoyu233.com/2693.html",
       "date": "Sat, 12 Sep 2026 17:49:55 +0000",
@@ -932,7 +923,7 @@
     {
       "title": "这几天",
       "link": "https://loneapex.cn/shuoshuo/%e8%bf%99%e5%87%a0%e5%a4%a9",
-      "date": "2026-09-12T10:39:14Z",
+      "date": "Sat, 12 Sep 2026 10:39:14 +0000",
       "description": "看了电影《奥德赛》。这部作品可以说出乎我的预料了。导演是诺兰，加上我对这种远古历史题材向来不太感兴趣，本以为会晦涩难懂到睡着，结果整整三个小时都看得非常入迷。 也庆幸看之前稍微了解了一下《荷马史诗》与一些古希腊神话的典故，对于这部作品的理解...",
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
@@ -950,7 +941,7 @@
     {
       "title": "八月，键曲回响、轻音少女、键等联动",
       "link": "https://loneapex.cn/archives/5907",
-      "date": "2026-09-07T16:00:23Z",
+      "date": "Mon, 07 Sep 2026 16:00:23 +0000",
       "description": "夏天的尾声。",
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
@@ -964,15 +955,6 @@
       "site": "睿朗的小窝",
       "siteUrl": "https://iamcrl.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
-    },
-    {
-      "title": "给静态博客文章添加Lottie表情包",
-      "link": "https://blog.weasel6.cn/posts/lottie/",
-      "date": "Sun, 06 Sep 2026 10:09:00 GMT",
-      "description": "博客增添了新玩意儿，折腾不止~",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "博客如何写文章",
@@ -1065,15 +1047,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
-      "title": "分享19首这几年喜欢的国漫音乐",
-      "link": "https://blog.weasel6.cn/posts/music-cartoon/",
-      "date": "Fri, 28 Aug 2026 13:12:00 GMT",
-      "description": "19首国漫音乐，重温追番时那些热血沸腾、戳心动容的专属记忆",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
       "title": "她就是王者！太强了",
       "link": "https://i.lilog.cn/post/203",
       "date": "Fri, 28 Aug 2026 01:18:00 +0800",
@@ -1112,20 +1085,11 @@
     {
       "title": "《ソレヨリノ前奏詩》杂谈",
       "link": "https://loneapex.cn/archives/5862",
-      "date": "2026-08-26T00:41:05Z",
+      "date": "Wed, 26 Aug 2026 00:41:05 +0000",
       "description": "这是由已经倒闭的minori社在2015年发行的作品。",
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
-    },
-    {
-      "title": "《斩神之凡尘神域Ⅱ》观后感",
-      "link": "https://blog.weasel6.cn/posts/cartoon-zhanshen2/",
-      "date": "Tue, 25 Aug 2026 10:36:00 GMT",
-      "description": "制作在线，剧情注水，前半季耍帅凹造型，后半程才找回第一季的味道",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "展望高三：向前就好",
@@ -1162,15 +1126,6 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
-    },
-    {
-      "title": "游玩日记·第二期",
-      "link": "https://blog.weasel6.cn/posts/life-second/",
-      "date": "Wed, 19 Aug 2026 11:16:00 GMT",
-      "description": "记录近期日常：广州返程被导航坑到错过城际、游戏抽卡欧气爆棚、七夕与老婆吃烧烤",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
@@ -1560,6 +1515,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1587,6 +1569,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1603,6 +1594,15 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
