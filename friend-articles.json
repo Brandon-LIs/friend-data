@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-03T17:26:29.186Z",
-  "count": 189,
+  "updated_at": "2026-11-03T22:25:11.298Z",
+  "count": 194,
   "list": [
+    {
+      "title": "小馋猫的第二个100天",
+      "link": "https://blog.8765777.xyz/talks/talk_5acluyj29icd/",
+      "date": "Tue, 03 Nov 2026 15:22:00 GMT",
+      "description": "小馋猫的第二个100天",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
+    },
     {
       "title": "LiMhy 更新手记，这次从一条自动封禁记录查起",
       "link": "https://i.lilog.cn/post/limhy-update-20261102",
@@ -750,15 +759,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
     },
     {
-      "title": "博客 v0.4.7 重构：如何营造沉浸舒服的文章浏览体验？",
-      "link": "https://blog.8765777.xyz/posts/post-20260926-bw0x8g/",
-      "date": "Sat, 26 Sep 2026 00:00:00 GMT",
-      "description": "把文章页推倒重做的一个通宵，和藏在新版里的几个决定",
-      "site": "没吃饱的天镜镜",
-      "siteUrl": "https://blog.8765777.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
-    },
-    {
       "title": "SVG绘制动画",
       "link": "https://xinyang-gao.github.io/works/SVG绘制动画/",
       "date": "Sat, 26 Sep 2026 00:00:00 +0800",
@@ -912,6 +912,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
+      "title": "游玩日记·第三期",
+      "link": "https://blog.weasel6.cn/posts/life-third/",
+      "date": "Sun, 13 Sep 2026 13:49:00 GMT",
+      "description": "无聊的主包记录最近吃吃喝喝的放纵生活",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
       "title": "【26年36周记】军训 &#038; 高一开学",
       "link": "https://www.haoyu233.com/2693.html",
       "date": "Sat, 12 Sep 2026 17:49:55 +0000",
@@ -955,6 +964,15 @@
       "site": "睿朗的小窝",
       "siteUrl": "https://iamcrl.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
+      "title": "给静态博客文章添加Lottie表情包",
+      "link": "https://blog.weasel6.cn/posts/lottie/",
+      "date": "Sun, 06 Sep 2026 10:09:00 GMT",
+      "description": "博客增添了新玩意儿，折腾不止~",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "博客如何写文章",
@@ -1047,6 +1065,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
+      "title": "分享19首这几年喜欢的国漫音乐",
+      "link": "https://blog.weasel6.cn/posts/music-cartoon/",
+      "date": "Fri, 28 Aug 2026 13:12:00 GMT",
+      "description": "19首国漫音乐，重温追番时那些热血沸腾、戳心动容的专属记忆",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
       "title": "她就是王者！太强了",
       "link": "https://i.lilog.cn/post/203",
       "date": "Fri, 28 Aug 2026 01:18:00 +0800",
@@ -1092,6 +1119,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
     },
     {
+      "title": "《斩神之凡尘神域Ⅱ》观后感",
+      "link": "https://blog.weasel6.cn/posts/cartoon-zhanshen2/",
+      "date": "Tue, 25 Aug 2026 10:36:00 GMT",
+      "description": "制作在线，剧情注水，前半季耍帅凹造型，后半程才找回第一季的味道",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
       "title": "展望高三：向前就好",
       "link": "https://hehuang.site/p/just-go-forward/",
       "date": "Tue, 25 Aug 2026 13:50:00 +0800",
@@ -1126,6 +1162,15 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
+    },
+    {
+      "title": "游玩日记·第二期",
+      "link": "https://blog.weasel6.cn/posts/life-second/",
+      "date": "Wed, 19 Aug 2026 11:16:00 GMT",
+      "description": "记录近期日常：广州返程被导航坑到错过城际、游戏抽卡欧气爆棚、七夕与老婆吃烧烤",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
