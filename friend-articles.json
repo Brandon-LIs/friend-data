@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-11-05T11:16:42.019Z",
+  "updated_at": "2026-11-05T18:52:12.699Z",
   "count": 189,
   "list": [
+    {
+      "title": "在vs code内使用 Platform IO插件来对Seeed Studio XIAO ESP32-S3 Sense进行开发",
+      "link": "https://wangxinyang.top/archives/shi-yong-vs-code-dui-seeed-studio-xiao-esp32-s3-sensejin-xing-kai-fa",
+      "date": "Thu, 5 Nov 2026 16:19:34 GMT",
+      "description": "这两天，在上课的时候，听到老师推荐的板子，顿时来了兴趣，这个板子就是Seeed Studio XIAO ESP32-S3 Sense，他的体积非常小巧，重点是这个板子虽然小，五脏俱全，拇指大的板子上竟然还集成了摄像头模块，这个板子应该能拿来做许多非常有意思的小项目，虽然板子有些小贵，但还是咬咬牙，买",
+      "site": "wangxinyang",
+      "siteUrl": "https://wangxinyang.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
+    },
+    {
+      "title": "闲鱼小法庭硬了",
+      "link": "https://lcrworld.xyz/articles/81",
+      "date": "Thu, 05 Nov 2026 12:43:55 GMT",
+      "description": "前两天花216买了一块Applewatch，今天到手后发现背面玻璃已经碎了，和卖家扯皮了几句被他“告”上了法庭，结果下午就赢了",
+      "site": "lcrworld's Blog",
+      "siteUrl": "https://lcrworld.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
+    },
+    {
+      "title": "免费域名邮箱-CyberPersons",
+      "link": "https://daily.yybb.us/posts/memos/free-email-smtp/",
+      "date": "Thu, 05 Nov 2026 20:40:48 +0800",
+      "description": "简介 这是一个简介 内容 好啦不开玩笑，是因为雪发现一个有趣的东西，忍不住分享一下，那么有人问了，这么好的水字数的机会咋不写周刊里呢，嘿嘿，因为没人看，言归正传，雪发现的是一个名为 CyberPersons 的免费域名邮箱项目",
+      "site": "AIOVTUE-雪",
+      "siteUrl": "https://daily.yybb.us",
+      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
+    },
     {
       "title": "雪有自己的表情包啦~",
       "link": "https://daily.yybb.us/posts/painting/biaoqinbao-xue/",
@@ -271,15 +298,6 @@
       "site": "睿朗的小窝",
       "siteUrl": "https://iamcrl.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
-    },
-    {
-      "title": "艾雪周刊 V.16—开源博客管理后台-AIOVTUE-CMS-gen",
-      "link": "https://daily.yybb.us/posts/weekly/16/",
-      "date": "Fri, 23 Oct 2026 19:20:00 +0800",
-      "description": "关于本刊 这是 艾雪期刊 的第 16 期，作为一个独立系列进行更新，更新时间在周末，主要内容为周内内容汇集以及碎碎念，有时会分享一些有趣的项目，有时是一些生活的碎碎念",
-      "site": "AIOVTUE-雪",
-      "siteUrl": "https://daily.yybb.us",
-      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
     },
     {
       "title": "今天生日了！16岁快乐",
@@ -559,15 +577,6 @@
       "site": "云白",
       "siteUrl": "https://yyzb.sumora.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
-      "title": "奇妙的中国移动拦截了 cc.cd 后缀域名",
-      "link": "https://lcrworld.xyz/articles/76",
-      "date": "Sun, 04 Oct 2026 12:24:00 GMT",
-      "description": "blogsclub.cc.cd 在中国移动网络下无法访问，但同一服务器上的其他域名正常。多点验证后，问题指向中国移动对 .cc.cd 后缀的连接级拦截。",
-      "site": "lcrworld's Blog",
-      "siteUrl": "https://lcrworld.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
     },
     {
       "title": "【日记】合成珠海校徽小游戏",
@@ -856,15 +865,6 @@
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
-      "title": "GPT 与 Claude 混合双打的 72 小时：2026 数模 A 题赛博修仙实录",
-      "link": "https://wangxinyang.top/archives/gpt-yu-claude-hun-he-shuang-da-de-72-xiao-shi-2026-shu-mo-a-ti-sai-bo-xiu-xian-shi-lu",
-      "date": "Tue, 15 Sep 2026 06:10:05 GMT",
-      "description": "作者使用Claude Opus 5和GPT 5.6两款顶级AI辅助完成2026年数模国赛A题，经历72小时高强度比赛。初期以为能轻松\"躺赢\"，现实中却沦为两个AI之间的\"人肉裁判\"——两个模型在数值稳定性和求解逻辑上各执一词、互相博弈，团队被迫在缺觉状态下用数值分析知识裁决。比赛虽辛苦但收获颇丰，也借此反思AI辅助的边界：工具再强，核心判断仍需人来把关。作者将这次经历视为大学数模的收官之战，既是一",
-      "site": "wangxinyang",
-      "siteUrl": "https://wangxinyang.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
       "title": "我捡的猫它自己回来了",
