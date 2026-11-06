@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-06T04:13:12.176Z",
+  "updated_at": "2026-11-06T12:19:01.516Z",
   "count": 189,
   "list": [
+    {
+      "title": "艾雪周刊 V.18—社交类游戏感想",
+      "link": "https://daily.yybb.us/posts/weekly/18/",
+      "date": "Fri, 06 Nov 2026 19:15:26 +0800",
+      "description": "关于本刊 这是 艾雪期刊 的第 18 期，作为一个独立系列进行更新，更新时间在周末，主要内容为周内内容汇集以及碎碎念，有时会分享一些有趣的项目，有时是一些生活的碎碎念",
+      "site": "AIOVTUE-雪",
+      "siteUrl": "https://daily.yybb.us",
+      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
+    },
+    {
+      "title": "Kalidroid 这类免 root 方案，边界到底在哪",
+      "link": "https://bk.zhaozhiqiang.pw/1422.html",
+      "date": "Fri, 06 Nov 2026 11:06:41 +0000",
+      "description": "站内已经有两篇讲 Kalidroid 能做什么，这篇反过来写它做不到什么。「免 root」免掉的是内核模块、raw socket 和系统分区，换来的是装个 APK 就能用。虚拟化走 AVF 还是容器，决定了你的网卡能不能用；「支持无线注入」这句话，得先满足三个前提才成立。 Kalidroid 这类免 root 方案，边界到底在哪 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
     {
       "title": "在vs code内使用 Platform IO插件来对Seeed Studio XIAO ESP32-S3 Sense进行开发",
       "link": "https://wangxinyang.top/archives/shi-yong-vs-code-dui-seeed-studio-xiao-esp32-s3-sensejin-xing-kai-fa",
@@ -192,15 +210,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
-      "title": "又一个爱好-石塑黏土！",
-      "link": "https://daily.yybb.us/posts/memos/day-26-10-26/",
-      "date": "Mon, 26 Oct 2026 21:40:56 +0800",
-      "description": "简介 突然发现写文的时候每次都喜欢在顶上写个简介的标题哈哈，不知道咋开头了属于是，本期浅浅分享一下最近的一些小玩意儿，因为突然发现好久没发普通文章了，一直在更新周刊，今天就发一篇啦（水一篇），最近雪迷上了捏黏土，不知道大家刷到过没有，或者听说过没，就是拿着黏土捏处各种各样的手办，雪刷的大部分都是捏的人物，还有一些小摆件什么的，看着可心动了，浅浅了解了一下，黏土的种类还怪多的，有什么石塑黏土，超轻黏",
-      "site": "AIOVTUE-雪",
-      "siteUrl": "https://daily.yybb.us",
-      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
-    },
-    {
       "title": "我的文章是怎么写出来的，以及我对ai写文的看法",
       "link": "https://xice.cx/posts/howIwriteBlog/",
       "date": "2026-10-25T16:00:00.000Z",
@@ -223,33 +232,6 @@
       "link": "https://bk.zhaozhiqiang.pw/1409.html",
       "date": "Sat, 24 Oct 2026 22:17:54 +0000",
       "description": "SQL 注入有 payload 特征，XSS 有反射点，越权什么都没有——它就是一次完全正常的请求，只不过 ID 换成了别人的。这篇讲水平/垂直/未授权的测法差异、改参数名删参数换方法这些具体手法、怎么判断「返回 200」到底是不是洞，以及为什么这类漏洞永远修不完。 越权：扫描器永远发现不了的那类漏洞 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "TCP 排查：重传、窗口和那个永远被忽略的 MTU",
-      "link": "https://bk.zhaozhiqiang.pw/1406.html",
-      "date": "Sat, 24 Oct 2026 22:11:58 +0000",
-      "description": "用户说慢，运维说服务器正常，开发说接口只有 80 毫秒。抓个包十分钟能出结论，前提是知道看哪三个数：重传率、零窗口、带宽延迟积。这篇讲排查顺序，以及为什么大部分「网络慢」最后都不是网络问题。 TCP 排查：重传、窗口和那个永远被忽略的 MTU 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "HTTP/2 和 HTTP/3 抓包：为什么 Follow TCP Stream 不好使了",
-      "link": "https://bk.zhaozhiqiang.pw/1403.html",
-      "date": "Sat, 24 Oct 2026 22:09:47 +0000",
-      "description": "以前右键 Follow TCP Stream 就能看完一次请求，现在屏幕上全是交错的 HEADERS 和 DATA。因为 HTTP/2 把多条流压进同一条 TCP，HTTP/3 干脆换了 UDP。这篇讲清 h2 怎么按 streamid 锁定、HPACK 头部怎么过滤，以及 h3 为什么抓不到、什么时候根本不该抓包。 HTTP/2 和 HTTP/3 抓包：为什么 Follow TCP Stream",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "Wireshark 入门：比抓包更难的是知道抓哪里",
-      "link": "https://bk.zhaozhiqiang.pw/1400.html",
-      "date": "Sat, 24 Oct 2026 22:07:28 +0000",
-      "description": "Wireshark 真正难的地方不在抓包，在抓对位置和过滤噪音。这篇讲包从哪来（交换机隔离、无线监听、Windows 回环）、两种过滤器为什么不能混、五个够用八成的过滤表达式、Follow TCP Stream 的中文乱码，以及「校验和错误」「抓一会儿就丢包」这三个经典问题。 Wireshark 入门：比抓包更难的是知道抓哪里 最先出现在 星宇安全实验室 。",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
@@ -829,6 +811,24 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
+    },
+    {
+      "title": "🎯 Kalidroid实战渗透测试完整流程指南（完整版）",
+      "link": "https://bk.zhaozhiqiang.pw/1296.html",
+      "date": "Sun, 20 Sep 2026 04:33:10 +0000",
+      "description": "💡 开篇：从理论到实战 说实话，Kalidroid虽然功能强大，但很多朋友可能不知道如何从零开始进行实际的渗透 [&#8230;] 🎯 Kalidroid实战渗透测试完整流程指南（完整版） 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "🔥 Kalidroid深度评测：无需Root的移动Kali Linux革命",
+      "link": "https://bk.zhaozhiqiang.pw/1292.html",
+      "date": "Sat, 19 Sep 2026 23:28:20 +0000",
+      "description": "Kalidroid深度评测：无需Root的移动Kali Linux革命，详细分析其技术优势、功能特点、与NetHunter对比以及实际应用场景。 🔥 Kalidroid深度评测：无需Root的移动Kali Linux革命 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "【26年37周记】大课间和雨天",
@@ -1517,7 +1517,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "date": "2026-02-01T02:44:53Z",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1526,7 +1526,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "date": "2026-02-01T02:44:32Z",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1535,7 +1535,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "date": "2026-01-30T16:00:03Z",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1571,7 +1571,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "date": "2026-01-02T06:24:00Z",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1598,7 +1598,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "date": "2025-12-30T16:00:00Z",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
