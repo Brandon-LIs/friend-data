@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T16:41:31.147Z",
-  "count": 189,
+  "updated_at": "2026-11-07T20:36:19.701Z",
+  "count": 184,
   "list": [
     {
       "title": "JWT 的坑，几乎都不在签名上",
@@ -10,6 +10,33 @@
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "他真好看",
+      "link": "https://blog.8765777.xyz/talks/talk_qheyuvoccvqe/",
+      "date": "Sat, 07 Nov 2026 02:02:00 GMT",
+      "description": "他真好看",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
+    },
+    {
+      "title": "沃要开始复习了",
+      "link": "https://blog.8765777.xyz/talks/talk_mfyba8e6m8yi/",
+      "date": "Sat, 07 Nov 2026 02:01:00 GMT",
+      "description": "沃要开始复习了",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
+    },
+    {
+      "title": "初中的太阳很好看",
+      "link": "https://blog.8765777.xyz/posts/post-20261107-dojrza/",
+      "date": "Sat, 07 Nov 2026 00:00:00 GMT",
+      "description": "回忆录",
+      "site": "没吃饱的天镜镜",
+      "siteUrl": "https://blog.8765777.xyz",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
     },
     {
       "title": "关于我的电脑莫名其妙的无法开机的修复记录",
@@ -100,15 +127,6 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
-      "title": "小馋猫的第二个100天",
-      "link": "https://blog.8765777.xyz/talks/talk_5acluyj29icd/",
-      "date": "Tue, 03 Nov 2026 15:22:00 GMT",
-      "description": "小馋猫的第二个100天",
-      "site": "没吃饱的天镜镜",
-      "siteUrl": "https://blog.8765777.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
     },
     {
       "title": "LiMhy 更新手记，这次从一条自动封禁记录查起",
@@ -361,24 +379,6 @@
       "site": "彬红茶日记",
       "siteUrl": "https://note.redcha.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
-      "title": "和朋友吵完一架后又重归于好的感觉就像新生的树苗破图而出沐浴阳光的感觉",
-      "link": "https://blog.8765777.xyz/talks/talk_7pk66ibuiaj8/",
-      "date": "Fri, 16 Oct 2026 18:19:00 GMT",
-      "description": "和朋友吵完一架后又重归于好的感觉就像新生的树苗破图而出沐浴阳光的感觉",
-      "site": "没吃饱的天镜镜",
-      "siteUrl": "https://blog.8765777.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
-    },
-    {
-      "title": "《关于因为自己太想学习就开发了个终生可用的数据库软件这件事》\n嘿嘿，最后一版的学",
-      "link": "https://blog.8765777.xyz/talks/talk_1n83x3hfdbyj/",
-      "date": "Fri, 16 Oct 2026 18:14:00 GMT",
-      "description": "《关于因为自己太想学习就开发了个终生可用的数据库软件这件事》 嘿嘿，最后一版的学习软件更新(maybe) 这下真是地表最强数据库了 代码量是blog项目的2倍awa https://jiyiku.8765777.xyz",
-      "site": "没吃饱的天镜镜",
-      "siteUrl": "https://blog.8765777.xyz",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210003.webp"
     },
     {
       "title": "考完月考就去天台玩吧",
@@ -1209,15 +1209,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
     },
     {
-      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
-      "link": "https://i.limhy.cn/blog/1/",
-      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
-      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
       "title": "一次制作终端版博客的经历",
       "link": "https://mabbs.github.io/2026/08/01/terminal.html",
       "date": "2026-08-01T00:00:00+08:00",
@@ -1225,15 +1216,6 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
-    },
-    {
-      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
-      "link": "https://i.limhy.cn/blog/202/",
-      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
-      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "近期小记",
@@ -1378,33 +1360,6 @@
       "site": "TT清沫uk",
       "siteUrl": "https://ttquk.netlify.app",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
-    },
-    {
-      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
-      "link": "https://i.limhy.cn/blog/189/",
-      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
-      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
-      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
-      "link": "https://i.limhy.cn/blog/188/",
-      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
-      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
-    },
-    {
-      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
-      "link": "https://i.limhy.cn/blog/187/",
-      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
-      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
-      "site": "LiMhy Blog",
-      "siteUrl": "https://i.limhy.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "WTF！小米MiMo送百万亿Token!",
