@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-07T10:47:31.344Z",
-  "count": 184,
+  "updated_at": "2026-11-07T16:41:31.147Z",
+  "count": 189,
   "list": [
+    {
+      "title": "JWT 的坑，几乎都不在签名上",
+      "link": "https://bk.zhaozhiqiang.pw/1682.html",
+      "date": "Sat, 07 Nov 2026 15:16:11 +0000",
+      "description": "JWT 是签名不是加密，payload 谁都能解开看。真正天天出事的地方不是 alg:none，而是没有吊销机制（改密码、封号后 token 依然有效）、有效期设成七天、密钥用 secret 这种字典词，以及把 JWT 当 session 用。附三个快速自查动作。 JWT 的坑，几乎都不在签名上 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "关于我的电脑莫名其妙的无法开机的修复记录",
+      "link": "https://xfchannel.top/note/2026-11-07-2026-11-07-%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E7%94%B5%E8%84%91%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E7%9A%84%E6%97%A0%E6%B3%95%E5%BC%80%E6%9C%BA%E7%9A%84%E4%BF%AE%E5%A4%8D%E8%AE%B0%E5%BD%95/",
+      "date": "2026-11-06T16:00:00.000Z",
+      "description": "不管怎么说，我现在在和梁光月打电话，在用语音频道聊天，但我先把麦克风关了，先来写博客。我直接把这个全删了得了。 在今天 18:40 的时候，我准备拿出我的台式机组上去，因为我和杨烈答应要玩《泰拉瑞亚》。现在应该好了，点进去应该能玩了，所以我就先去把我的 Win",
+      "site": "xf_blog",
+      "siteUrl": "https://xfchannel.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+    },
     {
       "title": "艾雪周刊 V.18—社交类游戏感想",
       "link": "https://daily.yybb.us/posts/weekly/18/",
@@ -10,15 +28,6 @@
       "site": "AIOVTUE-雪",
       "siteUrl": "https://daily.yybb.us",
       "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
-    },
-    {
-      "title": "Kalidroid 这类免 root 方案，边界到底在哪",
-      "link": "https://bk.zhaozhiqiang.pw/1422.html",
-      "date": "Fri, 06 Nov 2026 11:06:41 +0000",
-      "description": "站内已经有两篇讲 Kalidroid 能做什么，这篇反过来写它做不到什么。「免 root」免掉的是内核模块、raw socket 和系统分区，换来的是装个 APK 就能用。虚拟化走 AVF 还是容器，决定了你的网卡能不能用；「支持无线注入」这句话，得先满足三个前提才成立。 Kalidroid 这类免 root 方案，边界到底在哪 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "周记：开学第六、七、八、九、十周",
@@ -39,7 +48,7 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
-      "title": "闲鱼小法庭硬了",
+      "title": "闲鱼小法庭赢了",
       "link": "https://lcrworld.xyz/articles/81",
       "date": "Thu, 05 Nov 2026 12:43:55 GMT",
       "description": "前两天花216买了一块Applewatch，今天到手后发现背面玻璃已经碎了，和卖家扯皮了几句被他“告”上了法庭，结果下午就赢了",
@@ -112,7 +121,7 @@
     },
     {
       "title": "打开b站，莫名其妙就被骂",
-      "link": "https://xfchannel.top/note/2026-11-03-%E6%89%93%E5%BC%80b%E7%AB%99%EF%BC%8C%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%B0%B1%E8%A2%AB%E9%AA%82/",
+      "link": "https://xfchannel.top/note/2026-11-03-2026-11-03-%E6%89%93%E5%BC%80b%E7%AB%99%EF%BC%8C%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%B0%B1%E8%A2%AB%E9%AA%82/",
       "date": "2026-11-02T16:00:00.000Z",
       "description": "讲一下我打开B站莫名其妙被骂的事情啊 首先，我回到家，打开QQ和朋友们聊，昨天又打开UP去看一下有什么好东西，然后就去打开B站了 然后呢，看到有八条回复，哎，我挺高兴的，对吧？那做一个B站UP主，有回复，他说，啊，有消息说明你可能视频被点赞了，或",
       "site": "xf_blog",
@@ -148,7 +157,7 @@
     },
     {
       "title": "偶然看到 dsh go，试试这个项目",
-      "link": "https://xfchannel.top/tech/2026-11-01-%E5%81%B6%E7%84%B6%E7%9C%8B%E5%88%B0%20dsh%20go%EF%BC%8C%E8%AF%95%E8%AF%95%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE/",
+      "link": "https://xfchannel.top/tech/2026-11-01-2026-11-01-%E5%81%B6%E7%84%B6%E7%9C%8B%E5%88%B0-dsh-go%EF%BC%8C%E8%AF%95%E8%AF%95%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE/",
       "date": "2026-10-31T16:00:00.000Z",
       "description": "这是昨天写的，忘了，今天发 今天又要更新了。毕竟作为个人站长，更新博客还是很有必要的。 不过今天有点小感冒，但不影响写博客。写博客不像做视频，有什么错误的地方改一下就行；要是做视频，出错了可能",
       "site": "xf_blog",
@@ -184,7 +193,7 @@
     },
     {
       "title": "忆养龟",
-      "link": "https://xfchannel.top/note/2026-10-28-%E5%BF%86%E5%85%BB%E9%BE%9F/",
+      "link": "https://xfchannel.top/note/2026-10-28-2026-10-28-%E5%BF%86%E5%85%BB%E9%BE%9F/",
       "date": "2026-10-27T16:00:00.000Z",
       "description": "做日梦，忆养龟，大梦到终，写此篇 曾养一龟，掌心大，通体深绿，带一丝红，终日在塑盒中住。 此龟乃长兄所购，长兄未在家，给我所养 初见胆怯，人在变缩头，终日不出，给食不吃，一龟所待",
       "site": "xf_blog",
@@ -226,24 +235,6 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
-      "title": "SSRF：让服务器替你发请求",
-      "link": "https://bk.zhaozhiqiang.pw/1412.html",
-      "date": "Sun, 25 Oct 2026 07:08:07 +0000",
-      "description": "SSRF 的关键不是「读到了什么」，而是服务器替你发了一个请求。这篇讲三个判断前提、盲打型怎么用带外通道确认、内网里哪些目标值得试，以及为什么「过滤 127.0.0.1」这种黑名单永远堵不完——真正有效的是白名单、解析后校验、禁跳转和出网防火墙。 SSRF：让服务器替你发请求 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "越权：扫描器永远发现不了的那类漏洞",
-      "link": "https://bk.zhaozhiqiang.pw/1409.html",
-      "date": "Sat, 24 Oct 2026 22:17:54 +0000",
-      "description": "SQL 注入有 payload 特征，XSS 有反射点，越权什么都没有——它就是一次完全正常的请求，只不过 ID 换成了别人的。这篇讲水平/垂直/未授权的测法差异、改参数名删参数换方法这些具体手法、怎么判断「返回 200」到底是不是洞，以及为什么这类漏洞永远修不完。 越权：扫描器永远发现不了的那类漏洞 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "我的blog设计理念",
@@ -310,18 +301,9 @@
     },
     {
       "title": "介绍一个新的语言输入法",
-      "link": "https://xfchannel.top/note/2026-10-20-%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E8%AF%AD%E8%A8%80%E8%BE%93%E5%85%A5%E6%B3%95/",
+      "link": "https://xfchannel.top/note/2026-10-20-2026-10-20-%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E8%AF%AD%E8%A8%80%E8%BE%93%E5%85%A5%E6%B3%95/",
       "date": "2026-10-19T16:00:00.000Z",
       "description": "最近呢，我把我的输入法语音输入法从 Typeless 换成了 Voltip。为什么呢？因为 Typeless 它在安卓系统上有非常非常多的 bug，比如说你下通时栏，哎，它就没了，你这些数全部都没了。然后呢，有时候它还莫名其妙崩溃，啊，有很久几次我写着写着，哎，突然就崩溃了",
-      "site": "xf_blog",
-      "siteUrl": "https://xfchannel.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
-      "title": "我咋没醒",
-      "link": "https://xfchannel.top/note/2026-10-20-%E6%88%91%E5%92%8B%E6%B2%A1%E9%86%92%E4%BA%86/",
-      "date": "2026-10-19T16:00:00.000Z",
-      "description": "哎，给讲一下今天的事吧。早上就先不说了，直接从下午讲起。 中午午自习的时候，大家都在写作业，但是我实在太困了，就不写了直接去睡觉。 结果睡着睡着，我忽然感觉被谁推了一下。我一转头发现，我去，是班主任！ 然后我看讲台上已经在讲数学题了",
       "site": "xf_blog",
       "siteUrl": "https://xfchannel.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
@@ -795,24 +777,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
-      "title": "🎯 Kalidroid实战渗透测试完整流程指南（完整版）",
-      "link": "https://bk.zhaozhiqiang.pw/1296.html",
-      "date": "Sun, 20 Sep 2026 04:33:10 +0000",
-      "description": "💡 开篇：从理论到实战 说实话，Kalidroid虽然功能强大，但很多朋友可能不知道如何从零开始进行实际的渗透 [&#8230;] 🎯 Kalidroid实战渗透测试完整流程指南（完整版） 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "🔥 Kalidroid深度评测：无需Root的移动Kali Linux革命",
-      "link": "https://bk.zhaozhiqiang.pw/1292.html",
-      "date": "Sat, 19 Sep 2026 23:28:20 +0000",
-      "description": "Kalidroid深度评测：无需Root的移动Kali Linux革命，详细分析其技术优势、功能特点、与NetHunter对比以及实际应用场景。 🔥 Kalidroid深度评测：无需Root的移动Kali Linux革命 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
       "title": "【26年37周记】大课间和雨天",
       "link": "https://www.haoyu233.com/2702.html",
       "date": "Sat, 19 Sep 2026 18:17:04 +0000",
@@ -1245,6 +1209,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
     },
     {
+      "title": "我们的静态博客：把速度、内容与发布放回简单的秩序",
+      "link": "https://i.limhy.cn/blog/1/",
+      "date": "Sun, 02 Aug 2026 02:10:58 +0800",
+      "description": "从静态优先、按需动态到可回滚发布，记录这套博客如何把阅读体验与日常维护放回简单而可靠的秩序。",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "一次制作终端版博客的经历",
       "link": "https://mabbs.github.io/2026/08/01/terminal.html",
       "date": "2026-08-01T00:00:00+08:00",
@@ -1252,6 +1225,15 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
+    },
+    {
+      "title": "服务器扛不住，嘴倒挺硬：先解析我IP，再来骂我女朋友",
+      "link": "https://i.limhy.cn/blog/202/",
+      "date": "Fri, 31 Jul 2026 15:09:00 +0800",
+      "description": "🍉 吃瓜交流群，也欢迎简笔记（陈立彦）： 点击加入QQ群 事情按顺序说。 前几天，简笔记和个站商店被异常流量打得连续访问异常，部分租户站也跟着“陪葬”。就在这个时候，他的相关域名一度解析到了我的服务器IP。 到了今天，他又跑来我的博客，连续留下两段话： “江有川，弱智人一个，生活也只能展示些和女朋友煮烂饭日志了，没啥好展示的，有空我就来看你的垃圾日志。” “",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
     },
     {
       "title": "近期小记",
@@ -1398,6 +1380,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
     },
     {
+      "title": "个站商店、简笔记泄邮箱后，阶级哥在群里破防了",
+      "link": "https://i.limhy.cn/blog/189/",
+      "date": "Sun, 21 Jun 2026 17:02:00 +0800",
+      "description": "今天上午，我又看见阶级哥在 QQ 交流群里表演了一轮。 起因很简单：有个之前被他莫名其妙下架博客的博主，帮我转发了几篇我之前写的文章。就是那几篇关于简笔记邮箱泄露、直链 500、个站商店删站、阶层哥嘴臭的文章。 这几篇其实能串成一条很清楚的线： 文章 主题 链接 《邮箱泄露只是开始，简笔记的问题不止这些》 从邮箱明文泄露开始，记录问题怎么被发现、怎么修、怎么",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "简笔记这套付费系统，十年了老bug还在反复发作",
+      "link": "https://i.limhy.cn/blog/188/",
+      "date": "Sat, 20 Jun 2026 11:27:00 +0800",
+      "description": "先说说简笔记是个什么东西。一套博客建站系统，运营了十来年，收费的。按理说十年打磨，该稳了吧？现实是：评论区邮箱明文泄露、文章直链打开500、修bug永远只修表面不修根。关键是——这些都不是新问题，是老bug反复发作。 先说邮箱泄露这事 这系统的评论区接口会直接把用户的邮箱地址明文返回前端，任何人打开浏览器开发者工具就能复制。这本身不是多复杂的漏洞——主流博客",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
+      "title": "追更：个站商店 & 简笔记作者脱口秀专场",
+      "link": "https://i.limhy.cn/blog/187/",
+      "date": "Sun, 14 Jun 2026 18:05:00 +0800",
+      "description": "本来觉得上一篇说完了，该躺躺该睡睡。结果6月13号，简笔记系统作者在自己博客发了一篇新文章，标题《生活在底层的人》。不是道歉，不是技术复盘，不是修复说明——是对着我来的。 既然他主动加场，那我就接着聊。 先说清楚背景。我邮箱是在他那个付费独立版博客系统上泄露的。用他系统那位博主不懂开发语言，当晚发现后就发文致歉了，也向作者提交了修复诉求。作者收到之后呢，只把",
+      "site": "LiMhy Blog",
+      "siteUrl": "https://i.limhy.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160004.webp"
+    },
+    {
       "title": "WTF！小米MiMo送百万亿Token!",
       "link": "https://blog.wudarensheng.top/posts/xiaomi-mimo-free-api/",
       "date": "Sun, 03 May 2026 00:00:00 GMT",
@@ -1459,6 +1468,33 @@
       "site": "Firgt's Blog",
       "siteUrl": "https://blog.firgt.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
+    },
+    {
+      "title": "解决Ubuntu 安装出现E: Sub-process /usr/bin/dpkg returned an error code (1)异常（轮子）",
+      "link": "https://bk.zhaozhiqiang.pw/707.html",
+      "date": "Mon, 16 Feb 2026 14:03:57 +0000",
+      "description": "cd /var/lib/dpkg/ sudo mv info/ info.bak # 现将info文件夹更名 [&#8230;] 解决Ubuntu 安装出现E: Sub-process /usr/bin/dpkg returned an error code (1)异常（轮子） 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "一加7pro刷入nethunter",
+      "link": "https://bk.zhaozhiqiang.pw/635.html",
+      "date": "Sun, 15 Feb 2026 11:03:44 +0000",
+      "description": "背景：由于平时参加攻防演练，购入一台二手的一加7pro，计划刷入nethunter做近源渗透使用。 下载所需文 [&#8230;] 一加7pro刷入nethunter 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "2025年一加7pro刷twpr / magisk / kali nethunter教程+资源下载+避坑指南",
+      "link": "https://bk.zhaozhiqiang.pw/624.html",
+      "date": "Sun, 15 Feb 2026 00:14:28 +0000",
+      "description": "从二手市场500淘了一个一加7pro 12+256 ,根据网上教程刷机但很多坑，折腾一周后搞定，记录下给后人避 [&#8230;] 2025年一加7pro刷twpr / magisk / kali nethunter教程+资源下载+避坑指南 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "使用Tailscale实现异地组网！",
@@ -1585,6 +1621,15 @@
       "site": "ElysiumStack",
       "siteUrl": "https://blog.elysium-stack.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
+      "title": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录",
+      "link": "https://bk.zhaozhiqiang.pw/53.html",
+      "date": "Wed, 19 Nov 2025 11:43:04 +0000",
+      "description": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录 作者：星宇安全实验室 一、前言：为何选择 [&#8230;] 从零开始：在一加6T上成功刷入Kali NetHunter全过程记录 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "“Abord”的开发碎碎念",
