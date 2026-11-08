@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-11-08T00:04:43.765Z",
-  "count": 184,
+  "updated_at": "2026-11-08T06:24:25.603Z",
+  "count": 185,
   "list": [
+    {
+      "title": "我的新博客",
+      "link": "https://lzh1.cn/wo-de-xin-bo-ke-2/",
+      "date": "2026-11-08T13:15:24+08:00",
+      "description": "想来想去还是要有个新博客写写日记，【博客故事】主要是写随笔文章不太适合写日记，而碎碎念只适合短一点的日常过长了超出了就很难看了，所以用静态博客重启日记本。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "『碎碎念』9月、10月小结",
+      "link": "https://blog.byside.top/archives/20261108_1",
+      "date": "Sun, 8 Nov 2026 04:22:38 GMT",
+      "description": "作者分享了9月和10月的高二生活经历。9月开学适应新环境，福建炎热天气影响学习，台风突袭导致停课，走读生欢呼，住宿生冒雨回宿舍。10月国庆假期平淡，月考成绩下滑，校运会班级口号响亮，作者拍照记录，傍晚欣赏绝美晚霞。作者感谢读者，传递积极态度，希望未来少叹气多笑容。",
+      "site": "拥抱日出的小屋",
+      "siteUrl": "https://blog.byside.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
+    },
+    {
+      "title": "先及格，再满分",
+      "link": "https://hehuang.site/p/pass-then-perfect/",
+      "date": "Sun, 08 Nov 2026 09:48:00 +0800",
+      "description": "好久不见，我是合荒！ &#xA; 一转眼就到11月份了，最近又没怎么更新博文（断更30天+）。虽然有一方面受限于时间，但又不是仅仅受限于时间。 &#xA; 其实我不是没有话题。我攒了很多想写的话题，也给它们列过行文思路，也写过几句最想表达的话，甚至有些已经开工了。但其中的大多数，都停在了那个开头和一些逻辑混乱的话语上…… &#xA; 每次想接着写，我就忍不住先把前面改到自己满意。结果前面还没有改好",
+      "site": "合荒小站",
+      "siteUrl": "https://hehuang.site/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
+    },
     {
       "title": "JWT 的坑，几乎都不在签名上",
       "link": "https://bk.zhaozhiqiang.pw/1682.html",
@@ -552,15 +579,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
-      "title": "【日记】合成珠海校徽小游戏",
-      "link": "https://notes.iamcrl.cn/posts/game/",
-      "date": "Sun, 04 Oct 2026 00:00:00 GMT",
-      "description": "昨天突发奇想，让Deepseek给我做了一个合成珠海校徽小游戏。 居然这么多人玩！ 点我开玩！",
-      "site": "睿朗的小窝",
-      "siteUrl": "https://iamcrl.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
-    },
-    {
       "title": "晚自习不能在教室走动吗，那我就去过国庆了。",
       "link": "https://blog.0c0.ren/archives/23/",
       "date": "Sat, 03 Oct 2026 07:31:00 +0000",
@@ -622,15 +640,6 @@
       "site": "Mayx的博客",
       "siteUrl": "https://mabbs.github.io",
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
-    },
-    {
-      "title": "『小站日记』国庆前，我终于把博客迁回云服务器",
-      "link": "https://blog.byside.top/archives/20260930_1",
-      "date": "Wed, 30 Sep 2026 15:11:21 GMT",
-      "description": "9月初，博客服务器阻断非中国大陆连接，导致博客无法访问。作者临时迁移到NAS，但网络问题导致友链RSS抓取失败，影响读者体验。作者9月27日发邮件承诺9月30日迁移到阿里云服务器。9月30日购买服务器，开始迁移：初始化环境、部署框架、导入数据、测试RSS抓取、检查友链订阅。恢复需时间，读者需耐心，欢迎反馈异常。感谢支持，博客继续运行，RSS尽量不落。",
-      "site": "拥抱日出的小屋",
-      "siteUrl": "https://blog.byside.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08210004.webp"
     },
     {
       "title": "创赛PPT、PDF如何高清压缩？一文教你解决",
@@ -867,6 +876,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
+      "title": "【投稿】高三",
+      "link": "https://notes.iamcrl.cn/posts/grade-12/",
+      "date": "Sun, 06 Sep 2026 15:00:53 GMT",
+      "description": "本文为朋友投稿。 投稿者：CANILLE 高三。 现在是2026年的8月31日晚上11点40分，我拿着没交给家长的备用机躺在家里的床上，听着音乐。嗯，很舒服吧，但是也很痛苦。我睡不着，不知道因为什么。我现在有好多想说的话。 上个学期很短，但是很开心。我体验到了走读的滋味，那是一段非常开心的回忆。但是和班上的好朋友产生一些误会，导致分班前才解开误解。这是我的一个心结吧，我很后悔没有在最后的日子好好相",
+      "site": "睿朗的小窝",
+      "siteUrl": "https://iamcrl.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
       "title": "给静态博客文章添加Lottie表情包",
       "link": "https://blog.weasel6.cn/posts/lottie/",
       "date": "Sun, 06 Sep 2026 10:09:00 GMT",
@@ -1027,15 +1045,6 @@
       "site": "黄鼠狼的树洞",
       "siteUrl": "https://blog.weasel6.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "展望高三：向前就好",
-      "link": "https://hehuang.site/p/just-go-forward/",
-      "date": "Tue, 25 Aug 2026 13:50:00 +0800",
-      "description": "还有不到三百天，就要走进高考了。整个暑假过得并不算太好，总会有些时候莫名其妙地想很多，想过去，想未来，想自己究竟能走到哪里？ &#xA; 我高中前两年的成绩，大概是一条相当不漂亮的曲线。高一的时候，我还在校排前 5%；到了高二上期中，一度掉到前 40%；后来又一点一点爬回来，到现在的前15%。中间走了很大的弯路，也不太愿意回忆了。 &#xA; 我们班主任曾经和我聊天，说我如果能够一直保持高一那种状",
-      "site": "合荒小站",
-      "siteUrl": "https://hehuang.site/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
       "title": "近期计划",
