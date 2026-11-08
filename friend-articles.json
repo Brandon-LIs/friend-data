@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-08T13:42:23.445Z",
-  "count": 180,
+  "updated_at": "2026-11-08T18:35:26.705Z",
+  "count": 175,
   "list": [
+    {
+      "title": "「说说」已严肃在workbuddy运行Windows 10",
+      "link": "https://upxuu.com/talk/2026-11-08-已严肃在workbuddy运行window--10/",
+      "date": "Sun, 08 Nov 2026 13:36:06 GMT",
+      "description": "crazy！ 这你敢想 最开始我发现workbuddy移动端的这个逆天功能还是看到云电脑仨字，在wb的任务上面 比较逆天的是它没法和桌面端共享 直到昨天我魔改了一下openlist的前后端通讯协议以兼容它的发布应用网关https://pan.upxuu.com/ 一个跑在wb的后端的256gb硬盘就这么水灵灵诞生了 起初我以为它的32h 128gb是虚拟化出来可以用的 结果还开了cgroup限制4",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
     {
       "title": "在可怕的期中考后",
       "link": "https://blog.0c0.ren/archives/31/",
@@ -46,6 +55,15 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
+    },
+    {
+      "title": "生活博客的意义",
+      "link": "https://yyzb.sumora.cn/posts/dwxp5ftsmmV/",
+      "date": "Sun, 08 Nov 2026 08:00:00 +0800",
+      "description": "生活随想类博客的本质是什么，其实就是随时写一些自己想写的想法， 不用语句多通畅，不用修辞多美丽，不用打草稿随心所欲，不用足够的高效简洁；不用在乎文章的长短，为了凑字数而凑字数。不用关注写出来的东西有没有意义。不用担心自己写的句子有没有语病、不用在意标点符号有没有用错。 26年11月八号没有什么特殊的意义，就和无数个平淡的日子一样，只是闲着没事想用一下键盘。其实不必每件事都得找出来一个意义。",
+      "site": "云白",
+      "siteUrl": "https://yyzb.sumora.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
       "title": "我今天真的真的很难过",
@@ -190,15 +208,6 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
-      "title": "LiMhy 更新手记，这次从一条自动封禁记录查起",
-      "link": "https://i.lilog.cn/post/limhy-update-20261102",
-      "date": "Tue, 03 Nov 2026 01:41:00 +0800",
-      "description": "从一条自动封禁记录查起，聊聊 LiMhy 这轮在安全处置、访问环境、F12 探针和后台体验上的调整，以及全系统审查后的修复与完整包更新。",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "打开b站，莫名其妙就被骂",
@@ -469,15 +478,6 @@
       "site": "lcrworld's Blog",
       "siteUrl": "https://lcrworld.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
-    },
-    {
-      "title": "WorkBuddy AI 国际版 API 逆向全解析：把免费的 DeepSeek V4.1 Flash 变成自己的 OpenAI 接口",
-      "link": "https://upxuu.com/posts/workbuddy-api-reverse/",
-      "date": "Sun, 11 Oct 2026 09:40:00 GMT",
-      "description": "实测 WorkBuddy AI 国际版 v2.137.1：Electron 壳里藏着一个 CodeBuddy CLI sidecar，模型请求其实就是一个普通的 OpenAI 接口。附 asar 解包、token 收割、网关四个怪癖的完整解决方案，以及一个零依赖的 Python 代理（含 Web 控制台 + 多账号池）。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "『插件』plugin-BlogsClub-OAuth发布啦",
@@ -831,15 +831,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
-      "title": "游玩日记·第三期",
-      "link": "https://blog.weasel6.cn/posts/life-third/",
-      "date": "Sun, 13 Sep 2026 13:49:00 GMT",
-      "description": "无聊的主包记录最近吃吃喝喝的放纵生活",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
       "title": "【26年36周记】军训 &#038; 高一开学",
       "link": "https://www.haoyu233.com/2693.html",
       "date": "Sat, 12 Sep 2026 17:49:55 +0000",
@@ -885,15 +876,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
-      "title": "给静态博客文章添加Lottie表情包",
-      "link": "https://blog.weasel6.cn/posts/lottie/",
-      "date": "Sun, 06 Sep 2026 10:09:00 GMT",
-      "description": "博客增添了新玩意儿，折腾不止~",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
       "title": "博客如何写文章",
       "link": "https://iluc.cn/posts/2026-09-06-00/",
       "date": "Sun, 06 Sep 2026 00:00:00 GMT",
@@ -903,15 +885,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
-      "title": "杂记：自然醒、佤味鸡爪和吃不完的西瓜",
-      "link": "https://i.lilog.cn/post/207",
-      "date": "Sat, 05 Sep 2026 22:33:00 +0800",
-      "description": "依旧自然醒，醒来一看又快到中午了。我俩现在完全没什么事做，她不是打游戏，就是在那看红果 AI 剧。自从出去玩回来，她做饭也明显少了，不是点外卖，就是出门吃饭。现在做饭这个事情，差不多就是三天打鱼两天晒网，哈哈。 今天给我安排上了午饭：鸡杂、豆腐炒肉，一个青菜。她自己点的是两菜一汤，我这边就是家常小炒配饭，吃着也挺舒服。 前几天她在抖音上刷到自制佤味鸡爪，看完就惦记上了。我们以前很少吃佤味这一类的.",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
-    },
-    {
       "title": "博客更新计划 & 好久不见，我还活着",
       "link": "https://hehuang.site/p/waterpost/",
       "date": "Sat, 05 Sep 2026 19:28:00 +0800",
@@ -919,15 +892,6 @@
       "site": "合荒小站",
       "siteUrl": "https://hehuang.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
-    },
-    {
-      "title": "不知道吃啥，那就见什么吃什么",
-      "link": "https://i.lilog.cn/post/206",
-      "date": "Fri, 04 Sep 2026 14:15:00 +0800",
-      "description": "依旧睡到自然醒，睁眼的时候已经快到中午了。 起来以后，我们俩又遇到了每天都会遇到的问题：今天吃什么？ 这个问题看起来简单，真要认真想，反而比写代码还难。想了半天也没想出个结果，最后还是先出门逛商场。反正人一出门，吃什么总会有答案。 逛到卡玛王子，顺手买了些面包和甜品，准备带回家当下午茶。 我们俩出门一般都有明确目的，基本就是吃。附近的商场、美食广场，能吃的地方基本都被我们摸过一遍；有新开的店，只要",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "计划性报废以及断货焦虑",
@@ -943,24 +907,6 @@
       "link": "https://yyzb.sumora.cn/posts/dwxP75WrDJx/",
       "date": "Wed, 02 Sep 2026 08:00:00 +0800",
       "description": "诺兰稳定发挥，奥德赛重新让我燃起了踏进电影院的热爱。台词功底扎实，紧凑的无划水的剧情看的时候都舍不得中途去上厕所。网上有几个高频评价，以我的体验来回答一下感受： IMAX全画幅真的很重要吗？ 我觉得不重要，剧情片，没有也并不影响观感，我认为更多是作为一个营销噱头。 有些画面很恐怖？ 个人认为电影并没有任何吓人的地方，也许是接受度不一样的原因。网上的论调集中在：主角一行人被困巨人洞里和女巫把士兵搓成",
-      "site": "云白",
-      "siteUrl": "https://yyzb.sumora.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
-      "title": "LiMhy博客系统 v5.0 发布：把前面没顾上的细节，一项项补上了",
-      "link": "https://i.lilog.cn/post/205",
-      "date": "Tue, 01 Sep 2026 20:46:00 +0800",
-      "description": "LiMhy v5.0 发布了。这次没有急着做一个“看起来很大”的新版本，而是把安全、评论、后台、写作和前台互动里那些前面没顾上的小地方，重新认真做了一遍。",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
-    },
-    {
-      "title": "揭秘日影评",
-      "link": "https://yyzb.sumora.cn/posts/dwx2gCU3GL9/",
-      "date": "Tue, 01 Sep 2026 08:00:00 +0800",
-      "description": "奔着今天有空，打算看部电影，于是打开了之前下载但一直没空看的揭秘日。 我是如此的懊悔的打开一部我连评价都不想评价的电影。 当我看到三分之二的时候，实在忍不住了开始拉进度。最后我给出的评价是： 这是我自打成年以来看过最无聊，最神经，最意义不明的电影。 这个电影的故事大概就是： 主角：我要让这个世界上所有人都知道，外星人是存在的，他们有知道的权利。 反派：人类接受不了这种事实，如果让人类知道了有外星人",
       "site": "云白",
       "siteUrl": "https://yyzb.sumora.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
@@ -982,24 +928,6 @@
       "site": "Firgt's Blog",
       "siteUrl": "https://blog.firgt.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
-    },
-    {
-      "title": "分享19首这几年喜欢的国漫音乐",
-      "link": "https://blog.weasel6.cn/posts/music-cartoon/",
-      "date": "Fri, 28 Aug 2026 13:12:00 GMT",
-      "description": "19首国漫音乐，重温追番时那些热血沸腾、戳心动容的专属记忆",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "她就是王者！太强了",
-      "link": "https://i.lilog.cn/post/203",
-      "date": "Fri, 28 Aug 2026 01:18:00 +0800",
-      "description": "最近拿家里平板更新了王者荣耀，已经有几年没怎么玩过游戏了，但是都有经常看游戏直播。偶尔会拿对象的账号去体验体验她英雄皮肤，哈哈不让我去打排位，因为她自己控好几个号都王者几十星以上，甚至百星，上分还是有压力的。 这个星期折腾完LiMhy博客系统v5.0，这个月底前会推送发布上线。我也整王者荣耀了，这游戏玩着真让人上瘾，输了就想继续，赢了也是，但是打一天可能都白打，因为输输赢赢，就像我睡醒就打，最后这",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "我帮 Tooltip 治好了\"强迫换行症\"，过程比想象中曲折",
@@ -1038,15 +966,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
     },
     {
-      "title": "《斩神之凡尘神域Ⅱ》观后感",
-      "link": "https://blog.weasel6.cn/posts/cartoon-zhanshen2/",
-      "date": "Tue, 25 Aug 2026 10:36:00 GMT",
-      "description": "制作在线，剧情注水，前半季耍帅凹造型，后半程才找回第一季的味道",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
       "title": "近期计划",
       "link": "https://yujingblog.top/plan2026-08-24/",
       "date": "2026-08-24T00:00:00.000Z",
@@ -1072,15 +991,6 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
-    },
-    {
-      "title": "游玩日记·第二期",
-      "link": "https://blog.weasel6.cn/posts/life-second/",
-      "date": "Wed, 19 Aug 2026 11:16:00 GMT",
-      "description": "记录近期日常：广州返程被导航坑到错过城际、游戏抽卡欧气爆棚、七夕与老婆吃烧烤",
-      "site": "黄鼠狼的树洞",
-      "siteUrl": "https://blog.weasel6.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
@@ -1470,6 +1380,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "2026-02-01T02:44:53Z",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "2026-02-01T02:44:32Z",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "2026-01-30T16:00:03Z",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1497,6 +1434,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "2026-01-02T06:24:00Z",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1513,6 +1459,15 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "2025-12-30T16:00:00Z",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
