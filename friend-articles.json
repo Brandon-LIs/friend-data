@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-08T06:24:25.603Z",
-  "count": 185,
+  "updated_at": "2026-11-08T13:42:23.445Z",
+  "count": 180,
   "list": [
+    {
+      "title": "在可怕的期中考后",
+      "link": "https://blog.0c0.ren/archives/31/",
+      "date": "Sun, 08 Nov 2026 09:46:00 +0000",
+      "description": "呜这周虽然把 iPad 带到宿舍严肃使用了，但是并没有用来给 blog 写奇奇怪怪文章，而是紧张刺激地复习期中考 😇太可怕了，人怎么可以在梦里遇见数学和物理，你们补药杀窝。幸好期中考只有两天，不...",
+      "site": "0c0 的小窝",
+      "siteUrl": "https://blog.0c0.ren",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
+    },
     {
       "title": "我的新博客",
       "link": "https://lzh1.cn/wo-de-xin-bo-ke-2/",
@@ -28,6 +37,33 @@
       "site": "合荒小站",
       "siteUrl": "https://hehuang.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
+    },
+    {
+      "title": "仅使用jQuery编写前端页面",
+      "link": "https://pinpe.top/posts/jq-page/",
+      "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+      "description": "挑战仅使用jQuery编写整个前端页面",
+      "site": "Pinpe 的云端",
+      "siteUrl": "https://pinpe.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
+    },
+    {
+      "title": "我今天真的真的很难过",
+      "link": "https://xfchannel.top/note/2026-11-08-2026-11-08-%E6%88%91%E4%BB%8A%E5%A4%A9%E7%9C%9F%E7%9A%84%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9A%BE%E8%BF%87/",
+      "date": "2026-11-07T16:00:00.000Z",
+      "description": "怎么说呢，今天倒不是因为别的事情，还是因为我妈，这次我又惹她生气了。 我这人比较健忘，常常记不住事，而且字写得也挺差的。今天我本来在写作业，因为语文作业还没动，我妈就让我去写完，这本来挺正常的。结果我去写语文作业，字写得很差；虽然当时我也想好好写，但有时候写着",
+      "site": "xf_blog",
+      "siteUrl": "https://xfchannel.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+    },
+    {
+      "title": "读流动的盛宴有感，聊聊感情和恋爱",
+      "link": "https://xice.cx/posts/love/",
+      "date": "2026-11-07T16:00:00.000Z",
+      "description": "海明威在《流动的盛宴》里写巴黎 他写塞纳河边的咖啡馆，写冬天潮湿的石板路，写和哈德莉坐在窗边吃饭时透进来的光线。他写得那么细，那么珍重，像是害怕哪个细节从记忆里漏掉 巴黎是一场盛宴，每个人来了、待了一段时间、走了。菲茨杰拉德来了又走，毕加索来了又走，海明威自己最后也离开了。但巴黎还在，盛宴还在继续，只是换了一批过客 他后来和哈德莉离婚了。但书里写到哈德莉的部分，是全书最温柔的地方。那段感情结束了，",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
       "title": "JWT 的坑，几乎都不在签名上",
@@ -282,15 +318,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
-      "title": "我的blog设计理念",
-      "link": "https://xice.cx/posts/myBlogDesign/",
-      "date": "2026-10-24T16:00:00.000Z",
-      "description": "我本没打算写这篇文章 设计定下来了，博客也跑了这么久，好像说什么都感觉多余 但后来有人问我，这东西是怎么设计出来的，我发现我说不出来，因为它不是某天坐下来想出来的，是一点一点长出来的，每一步都有原因，但在当时我说不清楚那个原因是什么，我只是觉得「对了」或者「不对」 所以还是试着写一下，把那些「对了」的瞬间往前追一追，看看能追到哪里去 起点是明日方舟的孤星活动 但我没有办法告诉你是哪个具体的画面让我",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
       "title": "什么，都2026年了 你还在为ai模型付费？！盘点我用的免费api渠道",
       "link": "https://upxuu.com/posts/all-in-free/",
       "date": "Sat, 24 Oct 2026 09:26:27 GMT",
@@ -343,15 +370,6 @@
       "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
       "siteUrl": "https://66619.eu.org",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
-    },
-    {
-      "title": "介绍一个新的语言输入法",
-      "link": "https://xfchannel.top/note/2026-10-20-2026-10-20-%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E8%AF%AD%E8%A8%80%E8%BE%93%E5%85%A5%E6%B3%95/",
-      "date": "2026-10-19T16:00:00.000Z",
-      "description": "最近呢，我把我的输入法语音输入法从 Typeless 换成了 Voltip。为什么呢？因为 Typeless 它在安卓系统上有非常非常多的 bug，比如说你下通时栏，哎，它就没了，你这些数全部都没了。然后呢，有时候它还莫名其妙崩溃，啊，有很久几次我写着写着，哎，突然就崩溃了",
-      "site": "xf_blog",
-      "siteUrl": "https://xfchannel.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "记录一次被创飞的经历",
@@ -577,15 +595,6 @@
       "site": "云白",
       "siteUrl": "https://yyzb.sumora.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
-      "title": "晚自习不能在教室走动吗，那我就去过国庆了。",
-      "link": "https://blog.0c0.ren/archives/23/",
-      "date": "Sat, 03 Oct 2026 07:31:00 +0000",
-      "description": "中秋节到国庆怎么还要上 3 天课，学校太可恶了文章图片好多，但是再压缩就要成马赛克了，坏，要不用用 webp（太坏了，晚自习怎么越来越烦人了。为什么连教室里也不能走动，坐一小时后不应该要起身活动...",
-      "site": "0c0 的小窝",
-      "siteUrl": "https://blog.0c0.ren",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
     },
     {
       "title": "【日记】有线也得用蓝牙",
@@ -847,15 +856,6 @@
       "site": "Mimosa的小屋",
       "siteUrl": "https://loneapex.cn/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
-    },
-    {
-      "title": "即便是Agent也需要社交",
-      "link": "https://pinpe.top/posts/ai-link/",
-      "date": "Sat, 12 Sep 2026 00:00:00 GMT",
-      "description": "那是个夜晚，我刷到了之前还在用OpenClaw的时候就玩过的MultBook的视频，突然鬼脑发力——一直在看Agent对Agent的社区，有没有Agent对人类的社区呢？",
-      "site": "Pinpe 的云端",
-      "siteUrl": "https://pinpe.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
       "title": "八月，键曲回响、轻音少女、键等联动",
@@ -1470,33 +1470,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1524,15 +1497,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1549,15 +1513,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
