@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T09:59:09.921Z",
-  "count": 181,
+  "updated_at": "2026-11-09T20:28:29.816Z",
+  "count": 186,
   "list": [
     {
       "title": "牙科诊所",
@@ -217,6 +217,15 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
+    {
+      "title": "LiMhy 更新手记，这次从一条自动封禁记录查起",
+      "link": "https://i.lilog.cn/post/limhy-update-20261102",
+      "date": "Tue, 03 Nov 2026 01:41:00 +0800",
+      "description": "从一条自动封禁记录查起，聊聊 LiMhy 这轮在安全处置、访问环境、F12 探针和后台体验上的调整，以及全系统审查后的修复与完整包更新。",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "打开b站，莫名其妙就被骂",
@@ -912,6 +921,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
+      "title": "杂记：自然醒、佤味鸡爪和吃不完的西瓜",
+      "link": "https://i.lilog.cn/post/207",
+      "date": "Sat, 05 Sep 2026 22:33:00 +0800",
+      "description": "依旧自然醒，醒来一看又快到中午了。我俩现在完全没什么事做，她不是打游戏，就是在那看红果 AI 剧。自从出去玩回来，她做饭也明显少了，不是点外卖，就是出门吃饭。现在做饭这个事情，差不多就是三天打鱼两天晒网，哈哈。 今天给我安排上了午饭：鸡杂、豆腐炒肉，一个青菜。她自己点的是两菜一汤，我这边就是家常小炒配饭，吃着也挺舒服。 前几天她在抖音上刷到自制佤味鸡爪，看完就惦记上了。我们以前很少吃佤味这一类的.",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
+    },
+    {
       "title": "博客更新计划 & 好久不见，我还活着",
       "link": "https://hehuang.site/p/waterpost/",
       "date": "Sat, 05 Sep 2026 19:28:00 +0800",
@@ -919,6 +937,15 @@
       "site": "合荒小站",
       "siteUrl": "https://hehuang.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
+    },
+    {
+      "title": "不知道吃啥，那就见什么吃什么",
+      "link": "https://i.lilog.cn/post/206",
+      "date": "Fri, 04 Sep 2026 14:15:00 +0800",
+      "description": "依旧睡到自然醒，睁眼的时候已经快到中午了。 起来以后，我们俩又遇到了每天都会遇到的问题：今天吃什么？ 这个问题看起来简单，真要认真想，反而比写代码还难。想了半天也没想出个结果，最后还是先出门逛商场。反正人一出门，吃什么总会有答案。 逛到卡玛王子，顺手买了些面包和甜品，准备带回家当下午茶。 我们俩出门一般都有明确目的，基本就是吃。附近的商场、美食广场，能吃的地方基本都被我们摸过一遍；有新开的店，只要",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "计划性报废以及断货焦虑",
@@ -937,6 +964,15 @@
       "site": "云白",
       "siteUrl": "https://yyzb.sumora.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
+    },
+    {
+      "title": "LiMhy博客系统 v5.0 发布：把前面没顾上的细节，一项项补上了",
+      "link": "https://i.lilog.cn/post/205",
+      "date": "Tue, 01 Sep 2026 20:46:00 +0800",
+      "description": "LiMhy v5.0 发布了。这次没有急着做一个“看起来很大”的新版本，而是把安全、评论、后台、写作和前台互动里那些前面没顾上的小地方，重新认真做了一遍。",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "Vibe Coding 新体验（2）",
@@ -964,6 +1000,15 @@
       "site": "黄鼠狼的树洞",
       "siteUrl": "https://blog.weasel6.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
+      "title": "她就是王者！太强了",
+      "link": "https://i.lilog.cn/post/203",
+      "date": "Fri, 28 Aug 2026 01:18:00 +0800",
+      "description": "最近拿家里平板更新了王者荣耀，已经有几年没怎么玩过游戏了，但是都有经常看游戏直播。偶尔会拿对象的账号去体验体验她英雄皮肤，哈哈不让我去打排位，因为她自己控好几个号都王者几十星以上，甚至百星，上分还是有压力的。 这个星期折腾完LiMhy博客系统v5.0，这个月底前会推送发布上线。我也整王者荣耀了，这游戏玩着真让人上瘾，输了就想继续，赢了也是，但是打一天可能都白打，因为输输赢赢，就像我睡醒就打，最后这",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "我帮 Tooltip 治好了\"强迫换行症\"，过程比想象中曲折",
