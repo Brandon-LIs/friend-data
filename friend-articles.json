@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T11:34:18.994Z",
-  "count": 187,
+  "updated_at": "2026-11-11T19:00:10.405Z",
+  "count": 177,
   "list": [
     {
       "title": "手机变砖之后：从 fastboot 到 9008",
@@ -109,15 +109,6 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
-      "title": "JWT 的坑，几乎都不在签名上",
-      "link": "https://bk.zhaozhiqiang.pw/1682.html",
-      "date": "Sat, 07 Nov 2026 15:16:11 +0000",
-      "description": "JWT 是签名不是加密，payload 谁都能解开看。真正天天出事的地方不是 alg:none，而是没有吊销机制（改密码、封号后 token 依然有效）、有效期设成七天、密钥用 secret 这种字典词，以及把 JWT 当 session 用。附三个快速自查动作。 JWT 的坑，几乎都不在签名上 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "他真好看",
@@ -235,15 +226,6 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
-      "title": "LiMhy 更新手记，这次从一条自动封禁记录查起",
-      "link": "https://i.lilog.cn/post/limhy-update-20261102",
-      "date": "Tue, 03 Nov 2026 01:41:00 +0800",
-      "description": "从一条自动封禁记录查起，聊聊 LiMhy 这轮在安全处置、访问环境、F12 探针和后台体验上的调整，以及全系统审查后的修复与完整包更新。",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "打开b站，莫名其妙就被骂",
@@ -399,10 +381,28 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
+      "title": "Burp Suite 汉化与配置指南：中文显示、必备插件与六个必改设置",
+      "link": "https://bk.zhaozhiqiang.pw/1350.html",
+      "date": "Fri, 23 Oct 2026 06:19:07 +0000",
+      "description": "很多人搜「Burp 汉化」，真正卡住的其实是中文显示成方块。本文把界面翻译和字符编码两个问题拆开：先给出字体 + UTF-8 + GBK 响应的完整修复方案，再说明汉化补丁的原理与三个真实风险，最后列出代理、证书、内存、拦截规则等六项基础设置和 Logger++、Autorize 等六个必装插件。 Burp Suite 汉化与配置指南：中文显示、必备插件与六个必改设置 最先出现在 星宇安全实验室 ",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
       "title": "小米 / 红米 HyperOS 刷 NetHunter 全流程：解锁 BL 到 Kali chroot",
       "link": "https://bk.zhaozhiqiang.pw/1332.html",
       "date": "Fri, 23 Oct 2026 00:07:07 +0000",
       "description": "小米/红米刷 NetHunter 为什么比一加难？BL 解锁政策收紧、Android 13+ 的 init_boot 分区、GKI 内核、ARB 反回滚，四个坑一个都躲不开。本文按顺序走完解锁 BL、提取 init_boot、Magisk 修补、关闭 verity、替换 NetHunter 内核、Magisk 模块安装的完整链路，每步标注出错后果与救砖方法。 小米 / 红米 HyperOS 刷 N",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT7612U 全对比",
+      "link": "https://bk.zhaozhiqiang.pw/1326.html",
+      "date": "Thu, 22 Oct 2026 14:27:22 +0000",
+      "description": "插上外置网卡却看不到 wlan1？问题往往不在网卡而在内核。本文按「先查驱动、再挑芯片」的顺序，横向对比 AR9271、RT3070、RTL8812AU、MT7612U、MT7921AU 的监听与注入能力，给出三档具体型号、TL-WN722N 换芯片等避坑点，以及到手后 5 步验证注入是否真的可用的完整流程。 NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT761",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
@@ -948,15 +948,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
-      "title": "杂记：自然醒、佤味鸡爪和吃不完的西瓜",
-      "link": "https://i.lilog.cn/post/207",
-      "date": "Sat, 05 Sep 2026 22:33:00 +0800",
-      "description": "依旧自然醒，醒来一看又快到中午了。我俩现在完全没什么事做，她不是打游戏，就是在那看红果 AI 剧。自从出去玩回来，她做饭也明显少了，不是点外卖，就是出门吃饭。现在做饭这个事情，差不多就是三天打鱼两天晒网，哈哈。 今天给我安排上了午饭：鸡杂、豆腐炒肉，一个青菜。她自己点的是两菜一汤，我这边就是家常小炒配饭，吃着也挺舒服。 前几天她在抖音上刷到自制佤味鸡爪，看完就惦记上了。我们以前很少吃佤味这一类的.",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
-    },
-    {
       "title": "博客更新计划 & 好久不见，我还活着",
       "link": "https://hehuang.site/p/waterpost/",
       "date": "Sat, 05 Sep 2026 19:28:00 +0800",
@@ -964,15 +955,6 @@
       "site": "合荒小站",
       "siteUrl": "https://hehuang.site/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
-    },
-    {
-      "title": "不知道吃啥，那就见什么吃什么",
-      "link": "https://i.lilog.cn/post/206",
-      "date": "Fri, 04 Sep 2026 14:15:00 +0800",
-      "description": "依旧睡到自然醒，睁眼的时候已经快到中午了。 起来以后，我们俩又遇到了每天都会遇到的问题：今天吃什么？ 这个问题看起来简单，真要认真想，反而比写代码还难。想了半天也没想出个结果，最后还是先出门逛商场。反正人一出门，吃什么总会有答案。 逛到卡玛王子，顺手买了些面包和甜品，准备带回家当下午茶。 我们俩出门一般都有明确目的，基本就是吃。附近的商场、美食广场，能吃的地方基本都被我们摸过一遍；有新开的店，只要",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "计划性报废以及断货焦虑",
@@ -991,15 +973,6 @@
       "site": "云白",
       "siteUrl": "https://yyzb.sumora.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
-      "title": "LiMhy博客系统 v5.0 发布：把前面没顾上的细节，一项项补上了",
-      "link": "https://i.lilog.cn/post/205",
-      "date": "Tue, 01 Sep 2026 20:46:00 +0800",
-      "description": "LiMhy v5.0 发布了。这次没有急着做一个“看起来很大”的新版本，而是把安全、评论、后台、写作和前台互动里那些前面没顾上的小地方，重新认真做了一遍。",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "Vibe Coding 新体验（2）",
@@ -1027,15 +1000,6 @@
       "site": "黄鼠狼的树洞",
       "siteUrl": "https://blog.weasel6.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
-    },
-    {
-      "title": "她就是王者！太强了",
-      "link": "https://i.lilog.cn/post/203",
-      "date": "Fri, 28 Aug 2026 01:18:00 +0800",
-      "description": "最近拿家里平板更新了王者荣耀，已经有几年没怎么玩过游戏了，但是都有经常看游戏直播。偶尔会拿对象的账号去体验体验她英雄皮肤，哈哈不让我去打排位，因为她自己控好几个号都王者几十星以上，甚至百星，上分还是有压力的。 这个星期折腾完LiMhy博客系统v5.0，这个月底前会推送发布上线。我也整王者荣耀了，这游戏玩着真让人上瘾，输了就想继续，赢了也是，但是打一天可能都白打，因为输输赢赢，就像我睡醒就打，最后这",
-      "site": "LiMhy'Blog",
-      "siteUrl": "https://i.lilog.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "我帮 Tooltip 治好了\"强迫换行症\"，过程比想象中曲折",
@@ -1407,15 +1371,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
     },
     {
-      "title": "终于！三星 S10 系列 NetHunter 无线注入完美修复教程",
-      "link": "https://bk.zhaozhiqiang.pw/971.html",
-      "date": "Sat, 06 Jun 2026 14:39:35 +0000",
-      "description": "大家好！我是赵志强，星宇安全实验室安全研究员，专注于零基础手机安全研究。今天给大家带来一个全网首发、千呼万唤的 [&#8230;] 终于！三星 S10 系列 NetHunter 无线注入完美修复教程 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
       "title": "WTF！小米MiMo送百万亿Token!",
       "link": "https://blog.wudarensheng.top/posts/xiaomi-mimo-free-api/",
       "date": "Sun, 03 May 2026 00:00:00 GMT",
@@ -1488,33 +1443,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1542,15 +1470,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1567,15 +1486,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
