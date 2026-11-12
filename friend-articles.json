@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-11-12T08:33:21.296Z",
-  "count": 167,
+  "updated_at": "2026-11-12T17:14:17.086Z",
+  "count": 178,
   "list": [
     {
-      "title": "手机变砖之后：从 fastboot 到 9008",
-      "link": "https://bk.zhaozhiqiang.pw/1715.html",
-      "date": "Tue, 10 Nov 2026 04:58:17 +0000",
-      "description": "刷机失败黑屏，先别慌——「砖」分三种，处理方式完全不同。能进 fastboot 的九成能救回来，进不去的要看能不能进 9008。这篇讲清三种状态的判断方法、常见报错的含义，以及哪些情况是真的救不回来（比如防回滚 ARB）。 手机变砖之后：从 fastboot 到 9008 最先出现在 星宇安全实验室 。",
+      "title": "NetHunter 刷机：每一步该看什么",
+      "link": "https://bk.zhaozhiqiang.pw/1730.html",
+      "date": "Thu, 12 Nov 2026 11:00:52 +0000",
+      "description": "同一份教程，有人一次成功，有人刷成砖，差别不在步骤，在每一步有没有确认前提。这篇按顺序走一遍：先查机型代号和内核版本，再解锁、取 boot、Magisk 修补、换内核、装模块，每步都标出「必须先确认什么」和失败后的退回方式。 NetHunter 刷机：每一步该看什么 最先出现在 星宇安全实验室 。",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "意外中奖了",
+      "link": "https://lzh1.cn/yi-wai-zhong-jiang-liao/",
+      "date": "2026-11-12T17:21:11+08:00",
+      "description": "之前电动车品牌方推出了一个二手跳蚤市场，我以为就是个二手交易的平台。 我闲着无聊把一个客服照片挂了上去还引起不小反响。 周二的时候客服发了一张中奖图上面有我的名字中了一个骑行眼镜，我才知道跳蚤市场不只是跳蚤市场还关联了一个小活动。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "初二上学期，我那本写小说的小册子和那个写小说的我",
+      "link": "https://xfchannel.top/note/2026-11-12-2026-11-12-%E5%88%9D%E4%BA%8C%E4%B8%8A%E5%AD%A6%E6%9C%9F%EF%BC%8C%E6%88%91%E9%82%A3%E6%9C%AC%E5%86%99%E5%B0%8F%E8%AF%B4%E7%9A%84%E5%B0%8F%E5%86%8C%E5%AD%90%E5%92%8C%E9%82%A3%E4%B8%AA%E5%86%99%E5%B0%8F%E8%AF%B4%E7%9A%84%E6%88%91/",
+      "date": "2026-11-12T00:00:00.000Z",
+      "description": "这期博客标签有个叫“旧纸重提”的，打这标签的博客有三篇，但实际上啥是旧纸重提的？只能说是一篇，也就是我那篇将我做甲沟炎手术的文章算是的，是不要紧，反正打都打了，就算了 这期讲的是我初二上学期的时候写小说，我记得当时初一的时候，英语老师让我们买个小册子，然后记单",
+      "site": "xf_blog",
+      "siteUrl": "https://xfchannel.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "差点以为这个博客要完蛋了",
@@ -298,15 +316,6 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
-    },
-    {
-      "title": "忆养龟",
-      "link": "https://xfchannel.top/note/2026-10-28-2026-10-28-%E5%BF%86%E5%85%BB%E9%BE%9F/",
-      "date": "2026-10-27T16:00:00.000Z",
-      "description": "做日梦，忆养龟，大梦到终，写此篇 曾养一龟，掌心大，通体深绿，带一丝红，终日在塑盒中住。 此龟乃长兄所购，长兄未在家，给我所养 初见胆怯，人在变缩头，终日不出，给食不吃，一龟所待",
-      "site": "xf_blog",
-      "siteUrl": "https://xfchannel.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
     },
     {
       "title": "大疆的傲慢与代价：从GeekCon报警事件说起",
@@ -876,6 +885,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
+      "title": "游玩日记·第三期",
+      "link": "https://blog.weasel6.cn/posts/life-third/",
+      "date": "Sun, 13 Sep 2026 13:49:00 GMT",
+      "description": "无聊的主包记录最近吃吃喝喝的放纵生活",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
       "title": "【26年36周记】军训 &#038; 高一开学",
       "link": "https://www.haoyu233.com/2693.html",
       "date": "Sat, 12 Sep 2026 17:49:55 +0000",
@@ -919,6 +937,15 @@
       "site": "睿朗的小窝",
       "siteUrl": "https://iamcrl.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
+    },
+    {
+      "title": "给静态博客文章添加Lottie表情包",
+      "link": "https://blog.weasel6.cn/posts/lottie/",
+      "date": "Sun, 06 Sep 2026 10:09:00 GMT",
+      "description": "博客增添了新玩意儿，折腾不止~",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "博客如何写文章",
@@ -975,6 +1002,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
+      "title": "分享19首这几年喜欢的国漫音乐",
+      "link": "https://blog.weasel6.cn/posts/music-cartoon/",
+      "date": "Fri, 28 Aug 2026 13:12:00 GMT",
+      "description": "19首国漫音乐，重温追番时那些热血沸腾、戳心动容的专属记忆",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
       "title": "我帮 Tooltip 治好了\"强迫换行症\"，过程比想象中曲折",
       "link": "https://xinyang-gao.github.io/articles/我帮Tooltip治好了强迫换行症过程比想象中曲折.html",
       "date": "Fri, 28 Aug 2026 00:00:00 +0800",
@@ -1011,6 +1047,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120009.webp"
     },
     {
+      "title": "《斩神之凡尘神域Ⅱ》观后感",
+      "link": "https://blog.weasel6.cn/posts/cartoon-zhanshen2/",
+      "date": "Tue, 25 Aug 2026 10:36:00 GMT",
+      "description": "制作在线，剧情注水，前半季耍帅凹造型，后半程才找回第一季的味道",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
+    },
+    {
       "title": "近期计划",
       "link": "https://yujingblog.top/plan2026-08-24/",
       "date": "2026-08-24T00:00:00.000Z",
@@ -1036,6 +1081,15 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
+    },
+    {
+      "title": "游玩日记·第二期",
+      "link": "https://blog.weasel6.cn/posts/life-second/",
+      "date": "Wed, 19 Aug 2026 11:16:00 GMT",
+      "description": "记录近期日常：广州返程被导航坑到错过城际、游戏抽卡欧气爆棚、七夕与老婆吃烧烤",
+      "site": "黄鼠狼的树洞",
+      "siteUrl": "https://blog.weasel6.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080005.webp"
     },
     {
       "title": "看了《主持人大赛（新闻主播季）》的一些小感想",
@@ -1207,6 +1261,15 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
+    },
+    {
+      "title": "BlogsClub二周年快乐",
+      "link": "https://blog.elysium-stack.cn/posts/bc-2nd-anniversary/",
+      "date": "Wed, 22 Jul 2026 15:37:00 GMT",
+      "description": "BlogsClub二周年快乐，迟来的庆贺文与纪念品返图！",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "今天是0721哦，Ciallo～(∠・ω< )⌒☆",
@@ -1398,6 +1461,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
     },
     {
+      "title": "明日方舟终末地工具站汇总",
+      "link": "https://blog.elysium-stack.cn/posts/arknights-endfield-tools/",
+      "date": "Thu, 22 Jan 2026 11:19:00 GMT",
+      "description": "汇总明日方舟终末地相关工具网站，涵盖协议终端、基质规划器、量化计算器、排轴终端、互动地图、剧情检索、一图流、拼图解密、Wiki及MAA小助手等实用资源",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "🌌 最终测试：超弦虚空接口",
       "link": "https://lemonadorable.github.io/blog/test-mdx",
       "date": "Sat, 10 Jan 2026 00:00:00 GMT",
@@ -1425,6 +1497,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
+      "title": "告别2025 迎接2026",
+      "link": "https://blog.elysium-stack.cn/posts/happy-new-year-2026/",
+      "date": "Mon, 29 Dec 2025 17:19:00 GMT",
+      "description": "2025年终总结，回顾博客建设、情感生活、明日方舟、旅行与演唱会等",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
       "title": "2025年末总结",
       "link": "https://whitebear.im/archives/22/",
       "date": "Wed, 17 Dec 2025 13:56:00 +0000",
@@ -1432,6 +1513,15 @@
       "site": "白熊自留地",
       "siteUrl": "https://whitebear.im",
       "avatar": "https://jsd.oopss.top/uploads/2026/10040006.jpg"
+    },
+    {
+      "title": "2025.12.2 祝我生日快乐",
+      "link": "https://blog.elysium-stack.cn/posts/birthday-20251202/",
+      "date": "Tue, 02 Dec 2025 12:02:00 GMT",
+      "description": "生日感悟——学会与自己和解、学会珍惜、学会告别",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录",
@@ -1459,6 +1549,15 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
+    },
+    {
+      "title": "Elysium-Meting-Api公益服务",
+      "link": "https://blog.elysium-stack.cn/posts/elysium-meting-api/",
+      "date": "Sat, 11 Oct 2025 18:15:00 GMT",
+      "description": "基于Meting-API自建的公开音乐API服务，支持网易云、QQ音乐等多平台搜索与播放链接获取",
+      "site": "ElysiumStack",
+      "siteUrl": "https://blog.elysium-stack.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
     },
     {
       "title": "为你的站点提速之开启BBR减少丢包",
