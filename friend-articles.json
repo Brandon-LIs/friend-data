@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-13T11:19:10.063Z",
+  "updated_at": "2026-11-13T18:37:41.598Z",
   "count": 183,
   "list": [
+    {
+      "title": "艾雪周刊 V.19—聊天室互通上线啦！",
+      "link": "https://daily.yybb.us/posts/weekly/19/",
+      "date": "Fri, 13 Nov 2026 21:30:52 +0800",
+      "description": "关于本刊 这是 艾雪期刊 的第 19 期，作为一个独立系列进行更新，更新时间在周末，主要内容为周内内容汇集以及碎碎念，有时会分享一些有趣的项目，有时是一些生活的碎碎念",
+      "site": "AIOVTUE-雪",
+      "siteUrl": "https://daily.yybb.us",
+      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
+    },
     {
       "title": "一加 8 / 8T 刷 NetHunter：先把代号搞对",
       "link": "https://bk.zhaozhiqiang.pw/1738.html",
@@ -336,15 +345,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
-      "title": "静态博客后台-开源啦！",
-      "link": "https://daily.yybb.us/posts/aiovtue/aiovtue-cms/cms-gen/",
-      "date": "Tue, 27 Oct 2026 22:08:13 +0800",
-      "description": "介绍 总览 之前有发过一篇 主题升级—Hugo博客后台 ,那么现在，项目开源啦（一半），本次开源的是通配版本，适配各种静态架构，理论上只要是走的github仓库托管，都能使用，其实在周刊写过介绍了，但是还是单独发一篇介绍一下，也可以直接跳转 开源文档 AIOVTUE-CMS 是基于 Pages CMS 的自托管内容管理系统，源 Pages CMS 项目已经能做到后台管理，但是个人觉得不太够用，同时",
-      "site": "AIOVTUE-雪",
-      "siteUrl": "https://daily.yybb.us",
-      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
-    },
-    {
       "title": "【比赛日记】2026中国国际大学生创新大赛（广东赛区）华农行",
       "link": "https://wangxinyang.top/archives/ji-zhong-guo-guo-ji-da-xue-sheng-chuang-xin-da-sai-yuan-man-jie-shu",
       "date": "Mon, 26 Oct 2026 14:22:19 GMT",
@@ -403,15 +403,6 @@
       "link": "https://bk.zhaozhiqiang.pw/1350.html",
       "date": "Fri, 23 Oct 2026 06:19:07 +0000",
       "description": "很多人搜「Burp 汉化」，真正卡住的其实是中文显示成方块。本文把界面翻译和字符编码两个问题拆开：先给出字体 + UTF-8 + GBK 响应的完整修复方案，再说明汉化补丁的原理与三个真实风险，最后列出代理、证书、内存、拦截规则等六项基础设置和 Logger++、Autorize 等六个必装插件。 Burp Suite 汉化与配置指南：中文显示、必备插件与六个必改设置 最先出现在 星宇安全实验室 ",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "小米 / 红米 HyperOS 刷 NetHunter 全流程：解锁 BL 到 Kali chroot",
-      "link": "https://bk.zhaozhiqiang.pw/1332.html",
-      "date": "Fri, 23 Oct 2026 00:07:07 +0000",
-      "description": "小米/红米刷 NetHunter 为什么比一加难？BL 解锁政策收紧、Android 13+ 的 init_boot 分区、GKI 内核、ARB 反回滚，四个坑一个都躲不开。本文按顺序走完解锁 BL、提取 init_boot、Magisk 修补、关闭 verity、替换 NetHunter 内核、Magisk 模块安装的完整链路，每步标注出错后果与救砖方法。 小米 / 红米 HyperOS 刷 N",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
@@ -1452,6 +1443,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
+      "title": "从零开始构建 Kali NetHunter：完整指南",
+      "link": "https://bk.zhaozhiqiang.pw/722.html",
+      "date": "Wed, 18 Feb 2026 00:45:10 +0000",
+      "description": "从零开始构建 Kali NetHunter：完整指南 手把手教你从源码构建属于自己的移动渗透测试平台 前言 K [&#8230;] 从零开始构建 Kali NetHunter：完整指南 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
       "title": "使用Tailscale实现异地组网！",
       "link": "https://www.memxb.top/archives/966",
       "date": "Mon, 02 Feb 2026 07:03:59 +0000",
@@ -1463,7 +1463,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "date": "2026-02-01T02:44:53Z",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1472,7 +1472,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "date": "2026-02-01T02:44:32Z",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1481,7 +1481,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "date": "2026-01-30T16:00:03Z",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1517,7 +1517,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "date": "2026-01-02T06:24:00Z",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1544,7 +1544,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "date": "2025-12-30T16:00:00Z",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
