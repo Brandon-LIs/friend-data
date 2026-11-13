@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-13T03:02:09.391Z",
+  "updated_at": "2026-11-13T11:19:10.063Z",
   "count": 183,
   "list": [
+    {
+      "title": "一加 8 / 8T 刷 NetHunter：先把代号搞对",
+      "link": "https://bk.zhaozhiqiang.pw/1738.html",
+      "date": "Fri, 13 Nov 2026 08:25:11 +0000",
+      "description": "网上关于一加 8 系列的代号乱七八糟，写成 Inconic、Keystone 的都有。代号错了，内核、TWRP、固件全错。这篇从正确代号（instantnoodle / kebab）讲起，说清 8 和 8T 的真实差异、国行解锁的额外门槛、init_boot 的判断方法，以及内核还能不能用的三个信号。 一加 8 / 8T 刷 NetHunter：先把代号搞对 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
     {
       "title": "NetHunter 刷机：每一步该看什么",
       "link": "https://bk.zhaozhiqiang.pw/1730.html",
@@ -403,15 +412,6 @@
       "link": "https://bk.zhaozhiqiang.pw/1332.html",
       "date": "Fri, 23 Oct 2026 00:07:07 +0000",
       "description": "小米/红米刷 NetHunter 为什么比一加难？BL 解锁政策收紧、Android 13+ 的 init_boot 分区、GKI 内核、ARB 反回滚，四个坑一个都躲不开。本文按顺序走完解锁 BL、提取 init_boot、Magisk 修补、关闭 verity、替换 NetHunter 内核、Magisk 模块安装的完整链路，每步标注出错后果与救砖方法。 小米 / 红米 HyperOS 刷 N",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT7612U 全对比",
-      "link": "https://bk.zhaozhiqiang.pw/1326.html",
-      "date": "Thu, 22 Oct 2026 14:27:22 +0000",
-      "description": "插上外置网卡却看不到 wlan1？问题往往不在网卡而在内核。本文按「先查驱动、再挑芯片」的顺序，横向对比 AR9271、RT3070、RTL8812AU、MT7612U、MT7921AU 的监听与注入能力，给出三档具体型号、TL-WN722N 换芯片等避坑点，以及到手后 5 步验证注入是否真的可用的完整流程。 NetHunter 外置无线网卡选型指南：AR9271 / 8812AU / MT761",
       "site": "星宇安全实验室",
       "siteUrl": "https://bk.zhaozhiqiang.pw/",
       "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
@@ -993,6 +993,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08150008.webp"
     },
     {
+      "title": "一加8/8T/8Pro安装Kali NetHunter完整指南：从零开始的移动安全渗透测试平台",
+      "link": "https://bk.zhaozhiqiang.pw/1231.html",
+      "date": "Sat, 29 Aug 2026 13:29:28 +0000",
+      "description": "一加8/8T/8Pro安装Kali NetHunter完整指南：从解锁Bootloader到完成NetHunter安装的详细教程，帮助您将手机变成强大的移动安全渗透测试平台。 一加8/8T/8Pro安装Kali NetHunter完整指南：从零开始的移动安全渗透测试平台 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
       "title": "【实测，使用梯子不一定能检测】在网站使用CF-CDN的情况下获取用户真实IP的方法",
       "link": "https://blog.firgt.cn/2026/08/29/get_real_ip/",
       "date": "Sat, 29 Aug 2026 04:36:18 +0000",
@@ -1567,15 +1576,6 @@
       "site": "ElysiumStack",
       "siteUrl": "https://blog.elysium-stack.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
-    },
-    {
-      "title": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录",
-      "link": "https://bk.zhaozhiqiang.pw/53.html",
-      "date": "Wed, 19 Nov 2025 11:43:04 +0000",
-      "description": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录 作者：星宇安全实验室 一、前言：为何选择 [&#8230;] 从零开始：在一加6T上成功刷入Kali NetHunter全过程记录 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "“Abord”的开发碎碎念",
