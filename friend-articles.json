@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-11-15T02:16:31.046Z",
-  "count": 193,
+  "updated_at": "2026-11-15T09:40:19.211Z",
+  "count": 194,
   "list": [
+    {
+      "title": "DSH 自托管部署：镜像、反代与多用户隔离",
+      "link": "https://blog.liseezn.top/1008.html/",
+      "date": "Sun, 15 Nov 2026 07:47:23 +0000",
+      "description": "个人公网场景下对多款 DeepSeek Harness 社区 Docker 镜像的选型记录，非权威评测；结合踩坑经验区分适用场景。采用 runzhliu 固定版本 GHCR 原始镜像，不使用镜像加速，搭配 SamWaf 反向代理，搭建带网页自动化、多用户账号隔离的公网 AI 智能体，附带备份脚本与故障排查方案。",
+      "site": "Liseezn'blog",
+      "siteUrl": "https://blog.liseezn.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
+    },
+    {
+      "title": "用 CNB + 帽子云，把静态博客跑起来",
+      "link": "https://lzh1.cn/yong-cnb-mao-zi-yunba-jing-tai-bo-ke-pao-qi-lai/",
+      "date": "2026-11-15T15:21:19+08:00",
+      "description": "国外那几个 Git 仓库 + Cloudflare + Netlify 的组合，国内访问越来越抽风，有时候页面能打开但 Webhook 死活不通，构建状态转半天没反应而且用户访问也不友好。加上Makers 商业化不再按照次数计费后，我把手上的静态站部署到了 CNB 存代码、跑构建，帽子云托管页面。 ：代码在 CNB，页面在帽子云，国内访问稳，静态站免费。 不买服务器，不配 Nginx，不自己管证书",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "Zeabur将关停！20个应用迁移1Panel实战复盘（含官方迁移Agent教程）",
+      "link": "https://blog.liseezn.top/995.html/",
+      "date": "Sun, 15 Nov 2026 03:28:09 +0000",
+      "description": "Zeabur 即将关服！本文基于20个应用真实迁移实战，详解导出Zeabur项目配置，迁移至自建服务器私有化部署。平台两次遭攻击是停运主因，官方发布Coding Agent迁出指南辅助用户迁移，降低搬家成本，包含避坑要点、迁移风险与托管平台私有化转型思路。",
+      "site": "Liseezn'blog",
+      "siteUrl": "https://blog.liseezn.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
+    },
     {
       "title": "「说说」介绍一下我自己",
       "link": "https://upxuu.com/talk/2026-11-15-介绍一下我自己/",
@@ -1182,15 +1209,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
     },
     {
-      "title": "Codex 接入 DeepSeek 保姆级教程｜ Codex++",
-      "link": "https://blog.liseezn.top/903.html/",
-      "date": "Wed, 12 Aug 2026 13:44:35 +0000",
-      "description": "用 Codex 写代码的朋友，大概率都遇到过这些糟心事：OpenAI 接口时不时抽风、网络不稳半天出不来结果、 [&#8230;]",
-      "site": "Liseezn'blog",
-      "siteUrl": "https://blog.liseezn.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
-    },
-    {
       "title": "我试着把一张风景照变成一束花",
       "link": "https://mingblog.site/posts/floraform-bouquet/",
       "date": "Wed, 12 Aug 2026 00:00:00 GMT",
@@ -1243,15 +1261,6 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
-    },
-    {
-      "title": "Obsidian  AI 知识库搭建教程：从 DeepSeek API 到本地模型、RAG 与 Agent 全攻略",
-      "link": "https://blog.liseezn.top/896.html/",
-      "date": "Fri, 07 Aug 2026 13:56:10 +0000",
-      "description": "这是一份面向普通用户的全流程实践指南。不论你是刚接触 Obsidian 的新手，还是想将 AI 能力彻底融入笔 [&#8230;]",
-      "site": "Liseezn'blog",
-      "siteUrl": "https://blog.liseezn.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
     },
     {
       "title": "使用Cloudflare部署Cap Standalone",
@@ -1544,7 +1553,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "date": "2026-02-01T02:44:53Z",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1553,7 +1562,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "date": "2026-02-01T02:44:32Z",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1562,7 +1571,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "date": "2026-01-30T16:00:03Z",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1598,7 +1607,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "date": "2026-01-02T06:24:00Z",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1625,7 +1634,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "date": "2025-12-30T16:00:00Z",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
