@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-17T10:56:04.528Z",
+  "updated_at": "2026-11-17T19:29:06.105Z",
   "count": 184,
   "list": [
+    {
+      "title": "「说说」记录人生中第一个被墙ip",
+      "link": "https://upxuu.com/talk/2026-11-17-记录人生中第一个被墙ip/",
+      "date": "Tue, 17 Nov 2026 13:15:33 GMT",
+      "description": "没啥好说的，真是tm太逆天了莫名其妙ip被墙了 还是阿里云！！！？？？ 还是不能换ip的轻量云 目前除了博客几乎所有业务全部停摆了 包括中转 无语了 后期可能上cdn 最近考这事呢直接炸了啊 周六日再处理 对了 评论也不行了 !image.pnghttps://img.upxuu.lcrworld.xyz/images/2026/11/17/20261117211824878.png !",
+      "site": "UpXuu's blog",
+      "siteUrl": "https://upxuu.com",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+    },
+    {
+      "title": "我做了一个博客论坛",
+      "link": "https://lzh1.cn/wo-zuo-liao-yi-ge-bo-ke-lun-tan/",
+      "date": "2026-11-17T19:41:30+08:00",
+      "description": "前几天突然发现清雨博客有个论坛扩展还可以前后端分离单独成一个站，我正好有个免费的虚拟主机就拿来做论坛了，扩展自带的风格不好看就仿了一下DZX5的主题。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
+    {
+      "title": "关于deepseek限制移动客户端和网页版用量的看法",
+      "link": "https://xfchannel.top/note/2026-11-17-%E5%85%B3%E4%BA%8Edeepseek%E9%99%90%E5%88%B6%E7%A7%BB%E5%8A%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%92%8C%E7%BD%91%E9%A1%B5%E7%89%88%E7%94%A8%E9%87%8F%E7%9A%84%E7%9C%8B%E6%B3%95/",
+      "date": "2026-11-17T00:00:00.000Z",
+      "description": "今天写博客啊，最近deepseek客户端还有网页端它的限制，因为最近闹得特别火嘛，我也写一篇。 来简单解释说一下，给不知道的人说一下怎么回事啊。因为最近deepseek官方说最近把网页端以及客户端啊做了那么些限制，最大限制是1M。具体情况也不了解，因为我的账号",
+      "site": "xf_blog",
+      "siteUrl": "https://xfchannel.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
+    },
+    {
+      "title": "iPhone很实用的cardDAV技巧",
+      "link": "https://xice.cx/posts/cardav/",
+      "date": "2026-11-16T16:00:00.000Z",
+      "description": "众所周知啊，国产android基本上都有一个叫生活黄页的东西，会记录公共/企业电话，这样你每次接到商业公司打的电话（比如外卖）会给你显示成xx外卖 但是iPhone并没有这个功能，导致国内iPhone用户每次接到陌生电话都要在那猜半天，这次就介绍一个cardDAV小技巧，手动导入一份黄页进联系人 打开设置 -> app 找到联系人，点击联系人账户 点击添加账户，添加其他账户，选择CardDAV 填",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
     {
       "title": "折腾了一圈，聊聊我在公网跑 DSH 的镜像选型与踩坑",
       "link": "https://blog.liseezn.top/1034.html/",
@@ -75,6 +111,15 @@
       "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
     },
     {
+      "title": "一加 8 / 8T 刷 NetHunter：先把代号搞对",
+      "link": "https://bk.zhaozhiqiang.pw/1738.html",
+      "date": "Fri, 13 Nov 2026 08:25:11 +0000",
+      "description": "网上关于一加 8 系列的代号乱七八糟，写成 Inconic、Keystone 的都有。代号错了，内核、TWRP、固件全错。这篇从正确代号（instantnoodle / kebab）讲起，说清 8 和 8T 的真实差异、国行解锁的额外门槛、init_boot 的判断方法，以及内核还能不能用的三个信号。 一加 8 / 8T 刷 NetHunter：先把代号搞对 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
       "title": "意外中奖了",
       "link": "https://lzh1.cn/yi-wai-zhong-jiang-liao/",
       "date": "2026-11-12T17:21:11+08:00",
@@ -127,15 +172,6 @@
       "site": "0c0 的小窝",
       "siteUrl": "https://blog.0c0.ren",
       "avatar": "https://jsd.oopss.top/uploads/2026/08290002.ico"
-    },
-    {
-      "title": "我的新博客",
-      "link": "https://lzh1.cn/wo-de-xin-bo-ke-2/",
-      "date": "2026-11-08T13:15:24+08:00",
-      "description": "想来想去还是要有个新博客写写日记，【博客故事】主要是写随笔文章不太适合写日记，而碎碎念只适合短一点的日常过长了超出了就很难看了，所以用静态博客重启日记本。",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
     },
     {
       "title": "『碎碎念』9月、10月小结",
@@ -309,15 +345,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
     },
     {
-      "title": "打开b站，莫名其妙就被骂",
-      "link": "https://xfchannel.top/note/2026-11-03-%E6%89%93%E5%BC%80b%E7%AB%99%EF%BC%8C%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%B0%B1%E8%A2%AB%E9%AA%82/",
-      "date": "2026-11-02T16:00:00.000Z",
-      "description": "讲一下我打开B站莫名其妙被骂的事情啊 首先，我回到家，打开QQ和朋友们聊，昨天又打开UP去看一下有什么好东西，然后就去打开B站了 然后呢，看到有八条回复，哎，我挺高兴的，对吧？那做一个B站UP主，有回复，他说，啊，有消息说明你可能视频被点赞了，或",
-      "site": "xf_blog",
-      "siteUrl": "https://xfchannel.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08070001.webp"
-    },
-    {
       "title": "程序员为什么为编程语言发起圣战？技术族群主义的结构分析",
       "link": "https://xice.cx/posts/Techno-Tribalism/",
       "date": "2026-11-01T16:00:00.000Z",
@@ -399,28 +426,10 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
-      "title": "我的文章是怎么写出来的，以及我对ai写文的看法",
-      "link": "https://xice.cx/posts/howIwriteBlog/",
-      "date": "2026-10-25T16:00:00.000Z",
-      "description": "最近挺多朋友问我关于 blog 的事，其中最让他们头疼的，便是怎么写一篇文章。这个我还是挺有话语权的 首先不能有光环焦虑，就当作普普通通写一篇文章就行，也不需要在乎给谁看。（当然教程这种有明确读者的除外）我的 blog 分了四个分类，实际上就三类： 日记 、 技术文 、 随笔 日记 ，也就是平时生活中的一些趣事之类的，记录一下。这个其实没啥，写给自己当备忘用的 技术文 ，有教程型、讲解式之分。写这",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
       "title": "什么，都2026年了 你还在为ai模型付费？！盘点我用的免费api渠道",
       "link": "https://upxuu.com/posts/all-in-free/",
       "date": "Sat, 24 Oct 2026 09:26:27 GMT",
       "description": "都 2026 年了还在为 AI 付费？盘点我长期在用的免费 API 渠道：NVIDIA NIM、AMD 公益平台、Token Juice、白嫖中转 LOVE API 和 1024 程序员节的 zcode 福利，顺便提一嘴昨天刚大规模封号的 workbuddy。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
-      "title": "把 PCL 关掉的下载功能接回来：fixpcl 的逆向分析与 IL 手术实录",
-      "link": "https://upxuu.com/posts/fixpcl-pcl-299-download-restore/",
-      "date": "Sat, 24 Oct 2026 07:30:00 GMT",
-      "description": "PCL 2.99.0.0 以\"遵守相关法律法规\"为由关闭了 MC 下载功能。本文记录完整的分析过程：从版本 diff 定位到编译期常量折叠，确认二进制中幸存的安装链路，用 dnlib 做六处 IL 手术恢复功能并禁用自更新，最终打包成双击即用的单文件工具。",
       "site": "UpXuu's blog",
       "siteUrl": "https://upxuu.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
@@ -865,6 +874,15 @@
       "site": "Pinpe 的云端",
       "siteUrl": "https://pinpe.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
+    },
+    {
+      "title": "🎯 Kalidroid实战渗透测试完整流程指南（完整版）",
+      "link": "https://bk.zhaozhiqiang.pw/1296.html",
+      "date": "Sun, 20 Sep 2026 04:33:10 +0000",
+      "description": "💡 开篇：从理论到实战 说实话，Kalidroid虽然功能强大，但很多朋友可能不知道如何从零开始进行实际的渗透 [&#8230;] 🎯 Kalidroid实战渗透测试完整流程指南（完整版） 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "【26年37周记】大课间和雨天",
@@ -1461,6 +1479,24 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
+      "title": "从零开始构建 Kali NetHunter：完整指南",
+      "link": "https://bk.zhaozhiqiang.pw/722.html",
+      "date": "Wed, 18 Feb 2026 00:45:10 +0000",
+      "description": "从零开始构建 Kali NetHunter：完整指南 手把手教你从源码构建属于自己的移动渗透测试平台 前言 K [&#8230;] 从零开始构建 Kali NetHunter：完整指南 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "解决Ubuntu 安装出现E: Sub-process /usr/bin/dpkg returned an error code (1)异常（轮子）",
+      "link": "https://bk.zhaozhiqiang.pw/707.html",
+      "date": "Mon, 16 Feb 2026 14:03:57 +0000",
+      "description": "cd /var/lib/dpkg/ sudo mv info/ info.bak # 现将info文件夹更名 [&#8230;] 解决Ubuntu 安装出现E: Sub-process /usr/bin/dpkg returned an error code (1)异常（轮子） 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
       "title": "使用Tailscale实现异地组网！",
       "link": "https://www.memxb.top/archives/966",
       "date": "Mon, 02 Feb 2026 07:03:59 +0000",
@@ -1468,33 +1504,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "重生之我是蒟蒻打CTF-misc",
@@ -1524,15 +1533,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1549,15 +1549,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
@@ -1585,6 +1576,15 @@
       "site": "ElysiumStack",
       "siteUrl": "https://blog.elysium-stack.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
+    },
+    {
+      "title": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录",
+      "link": "https://bk.zhaozhiqiang.pw/53.html",
+      "date": "Wed, 19 Nov 2025 11:43:04 +0000",
+      "description": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录 作者：星宇安全实验室 一、前言：为何选择 [&#8230;] 从零开始：在一加6T上成功刷入Kali NetHunter全过程记录 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "“Abord”的开发碎碎念",
