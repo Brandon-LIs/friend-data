@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-18T09:29:05.315Z",
-  "count": 189,
+  "updated_at": "2026-11-18T18:18:13.533Z",
+  "count": 188,
   "list": [
+    {
+      "title": "Kali NetHunter 是什么？普通版、Pro 版、KaliDroid 到底怎么选",
+      "link": "https://bk.zhaozhiqiang.pw/1778.html",
+      "date": "Wed, 18 Nov 2026 09:29:56 +0000",
+      "description": "Kali NetHunter 是 Kali 官方为移动设备提供的安全研究工具集。它在 Android 上有三种常见形态，普通版、Pro 版和 KaliDroid，装法和代价完全不同。 Kali NetHunter 是什么？普通版、Pro 版、KaliDroid 到底怎么选 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
     {
       "title": "一加 6T 刷 Kali NetHunter Pro 完整教程：从解锁到启用 OTG",
       "link": "https://bk.zhaozhiqiang.pw/1777.html",
@@ -46,6 +55,15 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
+    {
+      "title": "关于我读计算机专业以及就业这件事",
+      "link": "https://yyzb.sumora.cn/posts/dwxKGh2E29d/",
+      "date": "Mon, 16 Nov 2026 08:00:00 +0800",
+      "description": "阴差阳错 我是计算机毕业的，但我并不喜欢编程，我喜欢做设计。 所以当报志愿的时候，我丝毫不犹豫的选了美术相关的专业，志愿可以填写很多个，我就拉了一个计算机开发垫底。 结果偏偏好，就录到了软件开发。也只能去接受这个事实。我曾经花了一些钱去找了个培训班的老师咨询职业规划。当时我打算走前端，但培训班老师说：前端不太建议，能走后端就走后端。 那时候，跟一个培训班老师说你想学前端，就好像一个高中生说他想学文",
+      "site": "云白",
+      "siteUrl": "https://yyzb.sumora.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
       "title": "折腾了一圈，聊聊我在公网跑 DSH 的镜像选型与踩坑",
@@ -118,6 +136,24 @@
       "site": "AIOVTUE-雪",
       "siteUrl": "https://daily.yybb.us",
       "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
+    },
+    {
+      "title": "一加 8 / 8T 刷 NetHunter：先把代号搞对",
+      "link": "https://bk.zhaozhiqiang.pw/1738.html",
+      "date": "Fri, 13 Nov 2026 08:25:11 +0000",
+      "description": "网上关于一加 8 系列的代号乱七八糟，写成 Inconic、Keystone 的都有。代号错了，内核、TWRP、固件全错。这篇从正确代号（instantnoodle / kebab）讲起，说清 8 和 8T 的真实差异、国行解锁的额外门槛、init_boot 的判断方法，以及内核还能不能用的三个信号。 一加 8 / 8T 刷 NetHunter：先把代号搞对 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "NetHunter 刷机：每一步该看什么",
+      "link": "https://bk.zhaozhiqiang.pw/1730.html",
+      "date": "Thu, 12 Nov 2026 11:00:52 +0000",
+      "description": "同一份教程，有人一次成功，有人刷成砖，差别不在步骤，在每一步有没有确认前提。这篇按顺序走一遍：先查机型代号和内核版本，再解锁、取 boot、Magisk 修补、换内核、装模块，每步都标出「必须先确认什么」和失败后的退回方式。 NetHunter 刷机：每一步该看什么 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "意外中奖了",
@@ -1011,15 +1047,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
-      "title": "《奥德赛》影评",
-      "link": "https://yyzb.sumora.cn/posts/dwxP75WrDJx/",
-      "date": "Wed, 02 Sep 2026 08:00:00 +0800",
-      "description": "诺兰稳定发挥，奥德赛重新让我燃起了踏进电影院的热爱。台词功底扎实，紧凑的无划水的剧情看的时候都舍不得中途去上厕所。网上有几个高频评价，以我的体验来回答一下感受： IMAX全画幅真的很重要吗？ 我觉得不重要，剧情片，没有也并不影响观感，我认为更多是作为一个营销噱头。 有些画面很恐怖？ 个人认为电影并没有任何吓人的地方，也许是接受度不一样的原因。网上的论调集中在：主角一行人被困巨人洞里和女巫把士兵搓成",
-      "site": "云白",
-      "siteUrl": "https://yyzb.sumora.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
-    },
-    {
       "title": "Vibe Coding 新体验（2）",
       "link": "https://mabbs.github.io/2026/09/01/vibe-coding2.html",
       "date": "2026-09-01T00:00:00+08:00",
@@ -1479,24 +1506,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.jpg"
     },
     {
-      "title": "从零开始构建 Kali NetHunter：完整指南",
-      "link": "https://bk.zhaozhiqiang.pw/722.html",
-      "date": "Wed, 18 Feb 2026 00:45:10 +0000",
-      "description": "从零开始构建 Kali NetHunter：完整指南 手把手教你从源码构建属于自己的移动渗透测试平台 前言 K [&#8230;] 从零开始构建 Kali NetHunter：完整指南 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "解决Ubuntu 安装出现E: Sub-process /usr/bin/dpkg returned an error code (1)异常（轮子）",
-      "link": "https://bk.zhaozhiqiang.pw/707.html",
-      "date": "Mon, 16 Feb 2026 14:03:57 +0000",
-      "description": "cd /var/lib/dpkg/ sudo mv info/ info.bak # 现将info文件夹更名 [&#8230;] 解决Ubuntu 安装出现E: Sub-process /usr/bin/dpkg returned an error code (1)异常（轮子） 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
       "title": "使用Tailscale实现异地组网！",
       "link": "https://www.memxb.top/archives/966",
       "date": "Mon, 02 Feb 2026 07:03:59 +0000",
@@ -1621,24 +1630,6 @@
       "site": "ElysiumStack",
       "siteUrl": "https://blog.elysium-stack.cn",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160009.webp"
-    },
-    {
-      "title": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录",
-      "link": "https://bk.zhaozhiqiang.pw/53.html",
-      "date": "Wed, 19 Nov 2025 11:43:04 +0000",
-      "description": "从零开始：在一加6T上成功刷入Kali NetHunter全过程记录 作者：星宇安全实验室 一、前言：为何选择 [&#8230;] 从零开始：在一加6T上成功刷入Kali NetHunter全过程记录 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
-      "title": "“Abord”的开发碎碎念",
-      "link": "https://619.pp.ua/article/aboard",
-      "date": "Sun, 16 Nov 2025 00:00:00 GMT",
-      "description": "有关Aboard的一切想说的……….",
-      "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
-      "siteUrl": "https://66619.eu.org",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
     },
     {
       "title": "Uptime Kuma美化代码",
