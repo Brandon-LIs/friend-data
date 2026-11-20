@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-20T04:53:52.361Z",
-  "count": 184,
+  "updated_at": "2026-11-20T13:43:51.708Z",
+  "count": 179,
   "list": [
+    {
+      "title": "艾雪周刊 V.20—Kiomet，消磨时间的小游戏",
+      "link": "https://daily.yybb.us/posts/weekly/20/",
+      "date": "Fri, 20 Nov 2026 19:50:48 +0800",
+      "description": "关于本刊 这是 艾雪期刊 的第 20 期，作为一个独立系列进行更新，更新时间在周末，主要内容为周内内容汇集以及碎碎念，有时会分享一些有趣的项目，有时是一些生活的碎碎念",
+      "site": "AIOVTUE-雪",
+      "siteUrl": "https://daily.yybb.us",
+      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
+    },
+    {
+      "title": "Kali NetHunter Pro 当主力机用了一周：能打电话、能扫码付款吗？",
+      "link": "https://bk.zhaozhiqiang.pw/1787.html",
+      "date": "Fri, 20 Nov 2026 11:02:37 +0000",
+      "description": "NetHunter Pro 刷完之后能不能当主力机用？本文用七天实测给出答案，通话、支付、常用 App、续航逐项打分。 Kali NetHunter Pro 当主力机用了一周：能打电话、能扫码付款吗？ 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
     {
       "title": "互联聊天室更新",
       "link": "https://daily.yybb.us/posts/memos/aiovtue-chat/",
@@ -28,15 +46,6 @@
       "site": "𝟞𝟙𝟡'𝕤 𝔹𝕃𝕆𝔾",
       "siteUrl": "https://66619.eu.org",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
-    },
-    {
-      "title": "Kali NetHunter 是什么？普通版、Pro 版、KaliDroid 到底怎么选",
-      "link": "https://bk.zhaozhiqiang.pw/1778.html",
-      "date": "Wed, 18 Nov 2026 09:29:56 +0000",
-      "description": "Kali NetHunter 是 Kali 官方为移动设备提供的安全研究工具集。它在 Android 上有三种常见形态，普通版、Pro 版和 KaliDroid，装法和代价完全不同。 Kali NetHunter 是什么？普通版、Pro 版、KaliDroid 到底怎么选 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "一加 6T 刷 Kali NetHunter Pro 完整教程：从解锁到启用 OTG",
@@ -93,15 +102,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160007.webp"
     },
     {
-      "title": "折腾了一圈，聊聊我在公网跑 DSH 的镜像选型与踩坑",
-      "link": "https://blog.liseezn.top/1034.html/",
-      "date": "Sun, 15 Nov 2026 14:53:03 +0000",
-      "description": "折腾公网部署 DeepSeek Harness（DSH）的真实记录。对比了 runzhliu、misaka-link、szczq 等主流社区镜像，最终选用纯净版。详细记录 1Panel/Compose 部署、解决权限 EACCES 报错、Nginx/SamWaf 反代 403 拦截，以及泛域名证书与 noVNC 浏览器安全暴露的实战踩坑。",
-      "site": "Liseezn'blog",
-      "siteUrl": "https://blog.liseezn.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
-    },
-    {
       "title": "用 CNB + 帽子云，把静态博客跑起来",
       "link": "https://lzh1.cn/yong-cnb-mao-zi-yunba-jing-tai-bo-ke-pao-qi-lai/",
       "date": "2026-11-15T15:21:19+08:00",
@@ -109,15 +109,6 @@
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
-      "title": "Zeabur将关停！20个应用迁移1Panel实战复盘（含官方迁移Agent教程）",
-      "link": "https://blog.liseezn.top/995.html/",
-      "date": "Sun, 15 Nov 2026 03:28:09 +0000",
-      "description": "Zeabur 即将关服！本文基于20个应用真实迁移实战，详解导出Zeabur项目配置，迁移至自建服务器私有化部署。平台两次遭攻击是停运主因，官方发布Coding Agent迁出指南辅助用户迁移，降低搬家成本，包含避坑要点、迁移风险与托管平台私有化转型思路。",
-      "site": "Liseezn'blog",
-      "siteUrl": "https://blog.liseezn.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
     },
     {
       "title": "「说说」介绍一下我自己",
@@ -372,15 +363,6 @@
       "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
     },
     {
-      "title": "雪有自己的表情包啦~",
-      "link": "https://daily.yybb.us/posts/painting/biaoqinbao-xue/",
-      "date": "Thu, 05 Nov 2026 10:55:29 +0800",
-      "description": "AI生成的哦 一张张画还是太累了 感谢AI",
-      "site": "AIOVTUE-雪",
-      "siteUrl": "https://daily.yybb.us",
-      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
-    },
-    {
       "title": "嗯，对，14天后期中考，我应该得要好好学习了吧（）",
       "link": "https://blog.8765777.xyz/talks/talk_3t6kxdwnogxz/",
       "date": "Wed, 04 Nov 2026 11:49:00 GMT",
@@ -415,15 +397,6 @@
       "site": "Chongxiの咖啡屋",
       "siteUrl": "https://xice.cx/",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
-      "title": "川西暑漫记 | D5 稻城‑理塘‑塔公草原‑八美，超长车程奔波日，邂逅草原晚霞与治愈彩虹",
-      "link": "https://note.redcha.cn/archives/chuan-xi-shu-man-ji-d5-dao-cheng-li-tang-ta-gong-cao-yuan-ba-mei-chao-chang-che-cheng-ben-bo-ri-xie-hou-cao-yuan-wan-xia-yu-zhi-yu-cai-hong",
-      "date": "Sun, 1 Nov 2026 01:18:50 GMT",
-      "description": "川西七日环线第五天，亚丁高强度徒步后迎来全程最漫长赶路日：近400公里，清晨6点前出发，沿G227北上；9点47分抵理塘因临时换司机耽搁约1.5小时。午后经G318天路十八弯，午餐川菜，途中遗失眼镜。18点40分抵塔公草原，见雅拉雪山、草原暮色并偶遇彩虹；原定墨石公园深度游因延误取消，改在小墨石夜间打卡。20点多入住八美镇评分4.7的酒店，吃火锅休整。作者感慨最美风景在路上，次日6点多将继续赴四姑",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "青春猪头少年不会梦见有冰箱的宿舍",
@@ -507,15 +480,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080004.webp"
     },
     {
-      "title": "今天生日了！16岁快乐",
-      "link": "https://note.redcha.cn/archives/jin-tian-sheng-ri-liao-16sui-kuai-le",
-      "date": "Thu, 22 Oct 2026 14:07:41 GMT",
-      "description": "文章记录了作者的生日：周四住宿时在校门口与妈妈短暂见面，中午同学在宿舍用小面包和生日歌庆祝，晚上小蛋糕缓解学校疲惫与压力；周六计划正式庆生并与家人聚餐，后改期补过，收到手表和摆件。文末宣布彬红茶APP v3.0发布，站点域名解析改为直连源站、不再使用CDN加速，访问速度应明显提升，并附APP下载地址，读者可获知新版本及访问变化。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
-    },
-    {
       "title": "ZZUCTF 平台渗透事件复盘报告",
       "link": "https://619.pp.ua/article/zzuctf-artex-pentest-doc",
       "date": "Tue, 20 Oct 2026 00:00:00 GMT",
@@ -550,15 +514,6 @@
       "site": "Sunrise.博客",
       "siteUrl": "https://wowtang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08120008.webp"
-    },
-    {
-      "title": "十月初记 | 国庆 花都融创/芙蓉度假区 + 广州莲花山",
-      "link": "https://note.redcha.cn/archives/shi-yue-chu-ji-guo-qing-hua-du-rong-chuang-fu-rong-du-jia-qu-guang-zhou-lian-hua-shan",
-      "date": "Sat, 17 Oct 2026 13:37:00 GMT",
-      "description": "这篇游记记录花都融创、芙蓉度假区和番禺莲花山等行程。融创室内冰雪场刷卡计时两小时，换装存物后实际约一个半小时，可玩冰雪滑板、轮胎滑道和冰滑梯，场景多但门票偏贵，未选滑雪套餐；门口有黄牛，工作人员提醒勿买。芙蓉度假区有山有水，灰塑博物馆展示立体非遗灰塑，作品价格高、制作耗时，馆内还有声控喷泉，周边农庄粤菜不错。作者还自制焦糖奶茶，国庆前做灯笼、月饼发霉；最后一天游莲花山，望海观音震撼，走三百多级楼梯",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "考完月考就去天台玩吧",
@@ -804,24 +759,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
     },
     {
-      "title": "随笔｜已严肃预购我的世界地下城2，聊两件披风",
-      "link": "https://blog.liseezn.top/979.html/",
-      "date": "Sun, 27 Sep 2026 11:59:20 +0000",
-      "description": "已经严肃预购《我的世界：地下城2》，坐等9月30日正式发售 。(其实部分地区29好就发售) 作为原版老玩家，最 [&#8230;]",
-      "site": "Liseezn'blog",
-      "siteUrl": "https://blog.liseezn.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
-    },
-    {
-      "title": "随笔｜博客搬家，换新VPS",
-      "link": "https://blog.liseezn.top/967.html/",
-      "date": "Sun, 27 Sep 2026 11:33:43 +0000",
-      "description": "折腾了一阵子，终于把博客从Zeabur迁到独立VPS上面了。 先说下之前的方案：Zeabur平台托管，不用管服 [&#8230;]",
-      "site": "Liseezn'blog",
-      "siteUrl": "https://blog.liseezn.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
-    },
-    {
       "title": "「站长信」202609 - 无题",
       "link": "https://wowtang.top/post/litter_202609/",
       "date": "Sun, 27 Sep 2026 10:30:21 +0800",
@@ -874,15 +811,6 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "九月末记 | 中秋安康+月饼活动 激情的时光",
-      "link": "https://note.redcha.cn/archives/jiu-yue-mo-ji-zhong-qiu-an-kang-yue-bing-huo-dong-ji-qing-de-shi-guang",
-      "date": "Fri, 25 Sep 2026 10:03:00 GMT",
-      "description": "中秋将至，某班班主任策划的月饼制作活动（全年级仅3个班开展），因考试调整至自习课进行，活动前设猜灯谜，同学分小组协作，因防粘粉不足、面饼量少出现操作状况，多数人完成月饼（有人偷吃），作者忘带成品。此外，彬红茶日记APP升级3.0，新增登录注册与精美UI，配套H5版本已完成，安卓应用编译约需1个月；此前丢失的近千条评论，已通过邮箱还原近200条，祝大家中秋快乐。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "团圆，不过如此",
@@ -946,15 +874,6 @@
       "site": "小改学习志",
       "siteUrl": "https://www.haoyu233.com",
       "avatar": "https://jsd.oopss.top/uploads/2026/08140007.webp"
-    },
-    {
-      "title": "九月中记 | 高一的半个月",
-      "link": "https://note.redcha.cn/archives/jiu-yue-zhong-ji-gao-yi-de-ban-ge-yue",
-      "date": "Sat, 19 Sep 2026 04:23:13 GMT",
-      "description": "高一新生开学三周，数学难度提升，学校饭菜偏淡，身为重口的广东学生打算带辣酱。这届高一录取分创历史新高，学校抽调高三教师任教，实行3+1+2选科模式，语数外为必修，其余科目按排名赋分，需通过合格考拿毕业证。学校强制修社团学分，因社团少且系统卡顿，宿舍选了生物社团；校园大、老师友好，无小卖部，需周末进零食。国庆中秋若请3天假可获13天假，但高中大概率不安排，本周仅放1天补国庆。",
-      "site": "彬红茶日记",
-      "siteUrl": "https://note.redcha.cn",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08100001.webp"
     },
     {
       "title": "家乡的秋天",
@@ -1198,15 +1117,6 @@
       "site": "高新炀的小站",
       "siteUrl": "https://gxy.cn.mt",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100008.webp"
-    },
-    {
-      "title": "ESP32 / ESP8266 物联网开发环境配置指南",
-      "link": "https://blog.liseezn.top/919.html/",
-      "date": "Wed, 12 Aug 2026 13:59:40 +0000",
-      "description": "前言 ESP32 与 ESP8266 是当前物联网开发领域普及率最高的两款芯片：ESP32 搭载双核处理器，支 [&#8230;]",
-      "site": "Liseezn'blog",
-      "siteUrl": "https://blog.liseezn.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
     },
     {
       "title": "我试着把一张风景照变成一束花",
@@ -1524,6 +1434,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1551,6 +1488,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1567,6 +1513,15 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
