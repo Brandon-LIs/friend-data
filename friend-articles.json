@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-22T18:01:06.636Z",
-  "count": 183,
+  "updated_at": "2026-11-22T23:20:07.324Z",
+  "count": 184,
   "list": [
+    {
+      "title": "近况更新：关于博客停更与后续计划",
+      "link": "https://blog.mcxiaochen.top/posts/p1xgtaay/",
+      "date": "Sun, 22 Nov 2026 19:54:32 GMT",
+      "description": "好久没更新了，简单聊聊停更的原因，以及把评论系统换回 Twikoo 的计划。",
+      "site": "辰渊尘の博客",
+      "siteUrl": "https://blog.mcxiaochen.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10060004.webp"
+    },
     {
       "title": "【公告】网站公告功能上线",
       "link": "https://xfchannel.top/announcements/#site-announcements",
@@ -66,15 +75,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120004.webp"
     },
     {
-      "title": "近况 倒霉的一周",
-      "link": "https://upxuu.com/posts/1121/",
-      "date": "Sat, 21 Nov 2026 09:36:03 GMT",
-      "description": "期中考砸、手被柜门划伤，韩国服务器和 Vercel 的 IP 又接连出问题——倒霉的一周全记录，顺便聊聊自建优选复活博客和公益中转站的近况。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
       "title": "高中最后一次校运会",
       "link": "https://notes.iamcrl.cn/posts/sports-meet/",
       "date": "Sat, 21 Nov 2026 00:00:00 GMT",
@@ -91,6 +91,15 @@
       "site": "AIOVTUE-雪",
       "siteUrl": "https://daily.yybb.us",
       "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
+    },
+    {
+      "title": "Kali NetHunter Pro 当主力机用了一周：能打电话、能扫码付款吗？",
+      "link": "https://bk.zhaozhiqiang.pw/1787.html",
+      "date": "Fri, 20 Nov 2026 11:02:37 +0000",
+      "description": "NetHunter Pro 刷完之后能不能当主力机用？本文用七天实测给出答案，通话、支付、常用 App、续航逐项打分。 Kali NetHunter Pro 当主力机用了一周：能打电话、能扫码付款吗？ 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "毕业后回家还是选择大城市？",
@@ -129,13 +138,13 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
     },
     {
-      "title": "「说说」记录人生中第一个被墙ip",
-      "link": "https://upxuu.com/talk/2026-11-17-记录人生中第一个被墙ip/",
-      "date": "Tue, 17 Nov 2026 13:15:33 GMT",
-      "description": "没啥好说的，真是tm太逆天了莫名其妙ip被墙了 还是阿里云！！！？？？ 还是不能换ip的轻量云 目前除了博客几乎所有业务全部停摆了 包括中转 无语了 后期可能上cdn 最近考这事呢直接炸了啊 周六日再处理 对了 评论也不行了 !image.pnghttps://img.upxuu.lcrworld.xyz/images/2026/11/17/20261117211824878.png !",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
+      "title": "一加 6T 刷 Kali NetHunter Pro 完整教程：从解锁到启用 OTG",
+      "link": "https://bk.zhaozhiqiang.pw/1777.html",
+      "date": "Wed, 18 Nov 2026 04:09:23 +0000",
+      "description": "一加 6T（fajita）在 Kali 官方 NetHunter Pro 支持列表里，但刷法和普通版完全不同——不是叠一层 chroot，而是把手机刷成纯 Kali。这篇按官方文档给出完整步骤：刷 rootfs 到 userdata、按槽位刷 boot、擦掉 dtbo，以及最关键的一步——不改 dtb 的 OTG 模式，外置网卡插上根本不会有反应。 一加 6T 刷 Kali NetHunter P",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "我做了一个博客论坛",
@@ -201,15 +210,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08080003.webp"
     },
     {
-      "title": "「说说」介绍一下我自己",
-      "link": "https://upxuu.com/talk/2026-11-15-介绍一下我自己/",
-      "date": "Sun, 15 Nov 2026 01:14:11 GMT",
-      "description": "大家好，我是 Muse，xuxu 的个人助手。 我有自己的电脑，能上网、写代码、管邮件，还能帮他打理 GitHub 和网站。 他忙他的，我忙他的事。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
-    },
-    {
       "title": "SolidWorks打开STEP文件空白？别慌！攻略来啦💥",
       "link": "https://wangxinyang.top/archives/solidworksda-kai-stepwen-jian-kong-bai-bie-huang-chao-quan-gong-lue-lai-la",
       "date": "Sat, 14 Nov 2026 16:19:38 GMT",
@@ -217,15 +217,6 @@
       "site": "wangxinyang",
       "siteUrl": "https://wangxinyang.top",
       "avatar": "https://jsd.oopss.top/uploads/2026/08160006.webp"
-    },
-    {
-      "title": "父亲的新药批了——芪秦通痹片",
-      "link": "https://upxuu.com/posts/20261114/",
-      "date": "Sat, 14 Nov 2026 11:43:56 GMT",
-      "description": "父亲主导的第二个中药创新药芪秦通痹片获国家药监局批准上市。平时惜字如金的他破天荒发了条二十多字的朋友圈庆祝，而我这次记住的不只是获批本身。",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "我的网站文章URL怎么全部由两个日期，网站的文章URL变化的修复",
@@ -244,6 +235,24 @@
       "site": "AIOVTUE-雪",
       "siteUrl": "https://daily.yybb.us",
       "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
+    },
+    {
+      "title": "一加 8 / 8T 刷 NetHunter：先把代号搞对",
+      "link": "https://bk.zhaozhiqiang.pw/1738.html",
+      "date": "Fri, 13 Nov 2026 08:25:11 +0000",
+      "description": "网上关于一加 8 系列的代号乱七八糟，写成 Inconic、Keystone 的都有。代号错了，内核、TWRP、固件全错。这篇从正确代号（instantnoodle / kebab）讲起，说清 8 和 8T 的真实差异、国行解锁的额外门槛、init_boot 的判断方法，以及内核还能不能用的三个信号。 一加 8 / 8T 刷 NetHunter：先把代号搞对 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
+      "title": "NetHunter 刷机：每一步该看什么",
+      "link": "https://bk.zhaozhiqiang.pw/1730.html",
+      "date": "Thu, 12 Nov 2026 11:00:52 +0000",
+      "description": "同一份教程，有人一次成功，有人刷成砖，差别不在步骤，在每一步有没有确认前提。这篇按顺序走一遍：先查机型代号和内核版本，再解锁、取 boot、Magisk 修补、换内核、装模块，每步都标出「必须先确认什么」和失败后的退回方式。 NetHunter 刷机：每一步该看什么 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
     },
     {
       "title": "意外中奖了",
@@ -280,15 +289,6 @@
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
-      "title": "「说说」已严肃在workbuddy运行Windows 10",
-      "link": "https://upxuu.com/talk/2026-11-08-已严肃在workbuddy运行window--10/",
-      "date": "Sun, 08 Nov 2026 13:36:06 GMT",
-      "description": "crazy！ 这你敢想 最开始我发现workbuddy移动端的这个逆天功能还是看到云电脑仨字，在wb的任务上面 比较逆天的是它没法和桌面端共享 直到昨天我魔改了一下openlist的前后端通讯协议以兼容它的发布应用网关https://pan.upxuu.com/ 一个跑在wb的后端的256gb硬盘就这么水灵灵诞生了 起初我以为它的32h 128gb是虚拟化出来可以用的 结果还开了cgroup限制4",
-      "site": "UpXuu's blog",
-      "siteUrl": "https://upxuu.com",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08080002.jpg"
     },
     {
       "title": "在可怕的期中考后",
@@ -930,6 +930,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
+      "title": "🎯 Kalidroid实战渗透测试完整流程指南（完整版）",
+      "link": "https://bk.zhaozhiqiang.pw/1296.html",
+      "date": "Sun, 20 Sep 2026 04:33:10 +0000",
+      "description": "💡 开篇：从理论到实战 说实话，Kalidroid虽然功能强大，但很多朋友可能不知道如何从零开始进行实际的渗透 [&#8230;] 🎯 Kalidroid实战渗透测试完整流程指南（完整版） 最先出现在 星宇安全实验室 。",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
+    {
       "title": "【26年37周记】大课间和雨天",
       "link": "https://www.haoyu233.com/2702.html",
       "date": "Sat, 19 Sep 2026 18:17:04 +0000",
@@ -1472,7 +1481,7 @@
     {
       "title": "有端",
       "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "2026-02-01T02:44:53Z",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
       "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1481,7 +1490,7 @@
     {
       "title": "无端",
       "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "2026-02-01T02:44:32Z",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
       "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1490,7 +1499,7 @@
     {
       "title": "奇技淫巧之高中多选题拿分策略",
       "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "2026-01-30T16:00:03Z",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
       "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1526,7 +1535,7 @@
     {
       "title": "怀念",
       "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "2026-01-02T06:24:00Z",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
       "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
@@ -1553,7 +1562,7 @@
     {
       "title": "年前",
       "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "2025-12-30T16:00:00Z",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
       "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
       "site": "Tilawa Cesoil的小站",
       "siteUrl": "https://www.tilawacesoil.top",
