@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-26T05:15:21.728Z",
-  "count": 189,
+  "updated_at": "2026-11-26T15:31:27.094Z",
+  "count": 184,
   "list": [
+    {
+      "title": "艾雪周刊 V.21—提前更新啦!",
+      "link": "https://daily.yybb.us/posts/weekly/21/",
+      "date": "Thu, 26 Nov 2026 22:40:00 +0800",
+      "description": "关于本刊 这是 艾雪期刊 的第 21 期，作为一个独立系列进行更新，更新时间在周末，主要内容为周内内容汇集以及碎碎念，有时会分享一些有趣的项目，有时是一些生活的碎碎念",
+      "site": "AIOVTUE-雪",
+      "siteUrl": "https://daily.yybb.us",
+      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
+    },
+    {
+      "title": "Kali NetHunter 2026.3 更新梳理：手表支持、WearHunter 远程控制、NFC 套件与 KernelSU",
+      "link": "https://bk.zhaozhiqiang.pw/1806.html",
+      "date": "Thu, 26 Nov 2026 12:50:36 +0000",
+      "description": "Kali 2026.3 的 NetHunter 改动集中：TicWatch Pro 3 支持无线测绘、WearHunter 手机远程控制手表、Chroot 内直连 NFC、新增 KernelSU 支持，另有 9 款机型内核与 6 个新工具。 Kali NetHunter 2026.3 更新梳理：手表支持、WearHunter 远程控制、NFC 套件与 KernelSU 最先出现在 星宇安全实验室 ",
+      "site": "星宇安全实验室",
+      "siteUrl": "https://bk.zhaozhiqiang.pw/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
+    },
     {
       "title": "基于SolidworksMCP实现Solidworks AI工作流",
       "link": "https://loneapex.cn/archives/6079",
@@ -327,15 +345,6 @@
       "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
     },
     {
-      "title": "NetHunter 刷机：每一步该看什么",
-      "link": "https://bk.zhaozhiqiang.pw/1730.html",
-      "date": "Thu, 12 Nov 2026 11:00:52 +0000",
-      "description": "同一份教程，有人一次成功，有人刷成砖，差别不在步骤，在每一步有没有确认前提。这篇按顺序走一遍：先查机型代号和内核版本，再解锁、取 boot、Magisk 修补、换内核、装模块，每步都标出「必须先确认什么」和失败后的退回方式。 NetHunter 刷机：每一步该看什么 最先出现在 星宇安全实验室 。",
-      "site": "星宇安全实验室",
-      "siteUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/09090001.png"
-    },
-    {
       "title": "意外中奖了",
       "link": "https://lzh1.cn/yi-wai-zhong-jiang-liao/",
       "date": "2026-11-12T17:21:11+08:00",
@@ -478,15 +487,6 @@
       "site": "lcrworld's Blog",
       "siteUrl": "https://lcrworld.xyz",
       "avatar": "https://jsd.oopss.top/uploads/2026/10070002.webp"
-    },
-    {
-      "title": "免费域名邮箱-CyberPersons",
-      "link": "https://daily.yybb.us/posts/memos/free-email-smtp/",
-      "date": "Thu, 05 Nov 2026 20:40:48 +0800",
-      "description": "简介 这是一个简介 内容 好啦不开玩笑，是因为雪发现一个有趣的东西，忍不住分享一下，那么有人问了，这么好的水字数的机会咋不写周刊里呢，嘿嘿，因为没人看，言归正传，雪发现的是一个名为 CyberPersons 的免费域名邮箱项目",
-      "site": "AIOVTUE-雪",
-      "siteUrl": "https://daily.yybb.us",
-      "avatar": "https://r2tc.20030327.xyz/file/博客/主题/xGAV3car.webp"
     },
     {
       "title": "嗯，对，14天后期中考，我应该得要好好学习了吧（）",
@@ -1524,33 +1524,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "2026-02-01T02:44:53Z",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "2026-02-01T02:44:32Z",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "2026-01-30T16:00:03Z",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1578,15 +1551,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "2026-01-02T06:24:00Z",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1603,15 +1567,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "2025-12-30T16:00:00Z",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
