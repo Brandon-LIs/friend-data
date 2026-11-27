@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-27T08:53:00.185Z",
-  "count": 189,
+  "updated_at": "2026-11-27T18:35:01.640Z",
+  "count": 194,
   "list": [
+    {
+      "title": "深思熟虑，我还是决定继续使用自研Dusklight主题",
+      "link": "https://blog.mcxiaochen.top/posts/p1705bae4/",
+      "date": "Fri, 27 Nov 2026 17:30:00 GMT",
+      "description": "费尽心思把安知鱼从 Hexo 搬到 Astro 7，真正跑通上线之后，却发现还是自家的草台班子住着最舒服。",
+      "site": "辰渊尘の博客",
+      "siteUrl": "https://blog.mcxiaochen.top/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/10060004.webp"
+    },
+    {
+      "title": "我疯狂薅品牌方羊毛，客服反手给我点赞",
+      "link": "https://lzh1.cn/wo-feng-kuang-hao-pin-pai-fang-yang-maoke-fu-fan-shou-gei-wo-dian-zan/",
+      "date": "2026-11-27T17:11:10+08:00",
+      "description": "前几天我在电动车品牌粉丝群发现客服发了一张“宝贝回家”的公益广告贴纸才0.01元我就尝试下单结果红包还能抵扣0.01元。 今天收到了就只有一张我看着自己已经起胶的尾箱就想着多下几单然后把尾箱起胶的纸撕了全部贴上公益广告纸，我问客服能不能重复下单的时候客服说可以还给我点了个赞。",
+      "site": "林子浩的日记",
+      "siteUrl": "https://lzh1.cn/",
+      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
+    },
     {
       "title": "日子和谁过都一样吗？",
       "link": "https://i.lilog.cn/post/209",
@@ -367,15 +385,6 @@
       "link": "https://lzh1.cn/yi-wai-zhong-jiang-liao/",
       "date": "2026-11-12T17:21:11+08:00",
       "description": "之前电动车品牌方推出了一个二手跳蚤市场，我以为就是个二手交易的平台。 我闲着无聊把一个客服照片挂了上去还引起不小反响。 周二的时候客服发了一张中奖图上面有我的名字中了一个骑行眼镜，我才知道跳蚤市场不只是跳蚤市场还关联了一个小活动。",
-      "site": "林子浩的日记",
-      "siteUrl": "https://lzh1.cn/",
-      "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
-    },
-    {
-      "title": "差点以为这个博客要完蛋了",
-      "link": "https://lzh1.cn/chai-dian-yi-wei-zhe-ge-bo-ke-yao-wan-dan-liao/",
-      "date": "2026-11-10T12:17:20+08:00",
-      "description": "昨天晚上修改了一下友情链接结果第一次同步失败了第二次成功了但是部署完没有效果，反复试了很多次都是这样部署的时候还是停留在上一次修改。 实在没办法只能把桌面软件关闭了重新打开然后同步到cnb在申请部署内容成功同步到了网站并部署成功了。",
       "site": "林子浩的日记",
       "siteUrl": "https://lzh1.cn/",
       "avatar": "https://jsd.oopss.top/twikoo/08150002.webp"
@@ -1392,16 +1401,7 @@
       "title": "道歉信：关于 713 解锁视频中伪回锁内容的说明与反思",
       "link": "https://blog.mcxiaochen.top/posts/p1e8gapt/",
       "date": "Sun, 19 Jul 2026 20:08:14 GMT",
-      "description": "针对 B 站 713 解锁视频中涉及伪回锁技术内容的说明，介绍视频下架原因、风险评估以及对于技术传播边界的反思。 - 公告 - 技术分享 - 安卓 - Bootloader - 安全研究",
-      "site": "辰渊尘の博客",
-      "siteUrl": "https://blog.mcxiaochen.top/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/10060004.webp"
-    },
-    {
-      "title": "713解锁节来辣！小米17全系，k90pm又能解bl了",
-      "link": "https://blog.mcxiaochen.top/posts/mi-unlock-713/",
-      "date": "Mon, 13 Jul 2026 17:02:03 GMT",
-      "description": "利用IonStack内核提权漏洞+高通8e5 efisp签名缺失，实现小米17全系、K90 Pro Max等设备的Bootloader解锁",
+      "description": "针对 B 站 713 解锁视频中涉及伪回锁技术内容的说明，介绍视频下架原因、风险评估以及对于技术传播边界的反思。",
       "site": "辰渊尘の博客",
       "siteUrl": "https://blog.mcxiaochen.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060004.webp"
@@ -1569,6 +1569,33 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
     },
     {
+      "title": "有端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
+      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "无端",
+      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
+      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
+      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
+      "title": "奇技淫巧之高中多选题拿分策略",
+      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
+      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
+      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "重生之我是蒟蒻打CTF-misc",
       "link": "https://619.pp.ua/article/ctf-personal-writeups-misc",
       "date": "Mon, 26 Jan 2026 00:00:00 GMT",
@@ -1596,6 +1623,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
+      "title": "怀念",
+      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
+      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
+      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
+    },
+    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1612,6 +1648,15 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
+    },
+    {
+      "title": "年前",
+      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
+      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
+      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
+      "site": "Tilawa Cesoil的小站",
+      "siteUrl": "https://www.tilawacesoil.top",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
