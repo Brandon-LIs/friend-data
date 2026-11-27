@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-11-27T00:11:16.081Z",
+  "updated_at": "2026-11-27T08:53:00.185Z",
   "count": 189,
   "list": [
+    {
+      "title": "日子和谁过都一样吗？",
+      "link": "https://i.lilog.cn/post/209",
+      "date": "Fri, 27 Nov 2026 16:11:00 +0800",
+      "description": "快两三个月没更新博文了。 这段时间也没忙什么，哈哈。每天照旧吃喝玩睡，玩困了就睡，睡到自然醒。我和女朋友就这样过着俩人佛系玩家的日子，一年又快过去了。不知不觉，我们在一起也四年了，最开始我们是网上认识的，她进了我的业务群，那时我还在读书，她也算我的消费客户，当时因为工作室业务需要，我做私域，从公众号转化，创建了有四十多个满员群，就这样我们认识到奔线，然后...哈哈，时间过得还挺快。她每天起得比我早",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
+    },
+    {
+      "title": "tailscale内嵌singbox指南，解决代理和ts无法共存的问题",
+      "link": "https://xice.cx/posts/singbox+tailscale/",
+      "date": "2026-11-26T16:00:00.000Z",
+      "description": "估计各位用tailscale还有代理需求的可能会比较头疼啊，一般来说代理软件和tailscale都会占手机VPN服务，这就导致你要用其中一个东西就得关掉另外一个（android有su跑b4m那种的除外啊），基本上没root的android用户和iPhone用户面对这种高级需求的时候很头大啊，我就是其中之一 好消息是，sing-box 自 1.12.0 起支持 Tailscale 作为内置 endp",
+      "site": "Chongxiの咖啡屋",
+      "siteUrl": "https://xice.cx/",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
+    },
     {
       "title": "艾雪周刊 V.21—提前更新啦!",
       "link": "https://daily.yybb.us/posts/weekly/21/",
@@ -561,15 +579,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08140008.webp"
     },
     {
-      "title": "大疆的傲慢与代价：从GeekCon报警事件说起",
-      "link": "https://xice.cx/posts/dji/",
-      "date": "2026-10-27T16:00:00.000Z",
-      "description": "一家技术公司，如何用九年时间系统性地摧毁安全社区对自己的信任 引：2026年10月24日，上海 这一天是程序员节 上海，GEEKCON 2026安全极客大赛正在进行。这是国内最顶尖的白帽黑客赛事，前身是2014年创办的GeekPwn，创始团队DARKNAVY早在2015年就完成了全球首次对特斯拉的远程破解。过去十几年，选手们在这里破解过苹果、特斯拉、安卓设备、各种机器人：当众攻破最具代表性的智能设",
-      "site": "Chongxiの咖啡屋",
-      "siteUrl": "https://xice.cx/",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08160008.webp"
-    },
-    {
       "title": "【比赛日记】2026中国国际大学生创新大赛（广东赛区）华农行",
       "link": "https://wangxinyang.top/archives/ji-zhong-guo-guo-ji-da-xue-sheng-chuang-xin-da-sai-yuan-man-jie-shu",
       "date": "Mon, 26 Oct 2026 14:22:19 GMT",
@@ -1092,6 +1101,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08100002.webp"
     },
     {
+      "title": "LiMhy博客系统 v5.0 发布：把前面没顾上的细节，一项项补上了",
+      "link": "https://i.lilog.cn/post/205",
+      "date": "Tue, 01 Sep 2026 20:46:00 +0800",
+      "description": "LiMhy v5.0 发布了。这次没有急着做一个“看起来很大”的新版本，而是把安全、评论、后台、写作和前台互动里那些前面没顾上的小地方，重新认真做了一遍。",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
+    },
+    {
       "title": "Vibe Coding 新体验（2）",
       "link": "https://mabbs.github.io/2026/09/01/vibe-coding2.html",
       "date": "2026-09-01T00:00:00+08:00",
@@ -1425,6 +1443,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08120012.webp"
     },
     {
+      "title": "7月你好，也该继续记录生活了",
+      "link": "https://i.lilog.cn/post/199",
+      "date": "Wed, 01 Jul 2026 18:52:00 +0800",
+      "description": "时间过得好快，不知不觉又来到新的一个月了，7月你好。 上次写生活文，还是6月初的事情。最近翻了一下，发现现在确实没有以前刚开始折腾博客时那么勤快了。以前好像有点什么事情都会写一篇，换个主题、改个功能、吃顿饭，甚至只是后台哪里不顺手，都想记录一下。现在反而经常是想写，但想着想着就放下了。 前几天我回看旧博客“李的日志”的统计，博客运行已经有460天了，但生活记录文也就只写了三十多篇。从2025年7月",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
+    },
+    {
       "title": "Vibe Coding新体验",
       "link": "https://mabbs.github.io/2026/07/01/vibe-coding.html",
       "date": "2026-07-01T00:00:00+08:00",
@@ -1450,6 +1477,15 @@
       "site": "TT清沫uk",
       "siteUrl": "https://ttquk.netlify.app",
       "avatar": "https://jsd.oopss.top/uploads/2026/08100007.webp"
+    },
+    {
+      "title": "当博客开始被 Bot 接管",
+      "link": "https://i.lilog.cn/post/178",
+      "date": "Tue, 19 May 2026 14:44:00 +0800",
+      "description": "把后台权限交给 Bot 之后，博客第一次不再只是“我在写”，而是变成了“我在授权、我在判断、我在定义边界”。这不是科幻，是一次很现实的站长实验。",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
     },
     {
       "title": "WTF！小米MiMo送百万亿Token!",
@@ -1497,6 +1533,15 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08110007.webp"
     },
     {
+      "title": "LiMhy v4.0 发布：这次终于更稳了",
+      "link": "https://i.lilog.cn/post/177",
+      "date": "Mon, 13 Apr 2026 22:16:00 +0800",
+      "description": "LiMhy v4.0 正式发布了。和 v3.0 相比，这次更新最重要的不是单独新增了某个功能，而是整套系统终于被认真打磨了一轮。很多以前“能用但不够稳”的地方，这次都做了统一修补和升级。这次 v4.0，前台体验更顺了，后台管理更稳了，评论、友链、编辑器、插件生态、深色模式、缓存和性能这些关键链路，都做了一轮比较完整的优化。很多细节问题也被一点点补齐，不再只是“先跑起来”，而是真正朝着长期可用、长期",
+      "site": "LiMhy'Blog",
+      "siteUrl": "https://i.lilog.cn",
+      "avatar": "https://jsd.oopss.top/uploads/2026/08160005.webp"
+    },
+    {
       "title": "基于Cloudflare Pages的纯静态短链",
       "link": "https://blog.wudarensheng.top/posts/cfpage-free-shortlink/",
       "date": "Sun, 05 Apr 2026 00:00:00 GMT",
@@ -1522,33 +1567,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "有端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:53 +0000",
-      "description": "怨有端，恨有名，散不开，涤不清。 锁环命中本无命，故事里，鄙人生。 结已定，果已成，挡不住，止不停。 阴雨晴时 [&#8230;] 有端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "无端",
-      "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/",
-      "date": "Sun, 01 Feb 2026 02:44:32 +0000",
-      "description": "怨无端，恨无名，解不开，说不清。 锁环相扣命中命，故事里，看人生。 结无定，果无成，抓不住，流不停。 阴雨须待 [&#8230;] 无端 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
-      "title": "奇技淫巧之高中多选题拿分策略",
-      "link": "https://www.tilawacesoil.top/knowledge/%e5%a5%87%e6%8a%80%e6%b7%ab%e5%b7%a7%e4%b9%8b%e9%ab%98%e4%b8%ad%e5%a4%9a%e9%80%89%e9%a2%98%e6%8b%bf%e5%88%86%e7%ad%96%e7%95%a5/",
-      "date": "Fri, 30 Jan 2026 16:00:03 +0000",
-      "description": "突发奇想，分享一个没用的做题技巧。阅前提示，本文具有时效性，并且我也懒得更新（doge） 我们都知道，数学、物 [&#8230;] 奇技淫巧之高中多选题拿分策略 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "重生之我是蒟蒻打CTF-misc",
@@ -1578,15 +1596,6 @@
       "avatar": "https://jsd.oopss.top/uploads/2026/08070002.gif"
     },
     {
-      "title": "怀念",
-      "link": "https://www.tilawacesoil.top/poem/%e6%80%80%e5%bf%b5/",
-      "date": "Fri, 02 Jan 2026 06:24:00 +0000",
-      "description": "我是多么、多么、多么地怀念从前啊。 从前的树，从前的风， 从前的月光和虫鸣。 你啊，为什么要改变？ 顺从了俗人 [&#8230;] 怀念 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
-    },
-    {
       "title": "Astro Theme Iris：打造个人知识管理系统",
       "link": "https://lemonadorable.github.io/blog/astro-theme-iris",
       "date": "Fri, 02 Jan 2026 00:00:00 GMT",
@@ -1603,15 +1612,6 @@
       "site": "默小班",
       "siteUrl": "https://www.memxb.top/",
       "avatar": "https://jsd.oopss.top/uploads/2026/10060001.png"
-    },
-    {
-      "title": "年前",
-      "link": "https://www.tilawacesoil.top/literature/%e5%b9%b4%e5%89%8d/",
-      "date": "Tue, 30 Dec 2025 16:00:00 +0000",
-      "description": "离2024年的除夕还有一个月的时候，学校对面的住宅区就开始燃起了碎炮。当傍晚西边只剩一条金边的时候，或在我们正 [&#8230;] 年前 最先出现在 Tilawa Cesoil的小站 。",
-      "site": "Tilawa Cesoil的小站",
-      "siteUrl": "https://www.tilawacesoil.top",
-      "avatar": "https://jsd.oopss.top/uploads/2026/08120003.png"
     },
     {
       "title": "告别2025 迎接2026",
